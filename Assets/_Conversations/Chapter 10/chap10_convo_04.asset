@@ -1,0 +1,297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b31fce31682c904ebf40f7a0636dded, type: 3}
+  m_Name: chap10_convo_04
+  m_EditorClassIdentifier: 
+  _root: {fileID: 5113142038444918786}
+  _guid:
+    GuidPart1: 667871850
+    GuidPart2: 1270049885
+    GuidPart3: -934041967
+    GuidPart4: 1707869939
+  repeatable: 0
+--- !u!114 &368560621895412958
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: 5404208710361104980}
+  connections: []
+  _guid:
+    GuidPart1: -1927070600
+    GuidPart2: 1266286254
+    GuidPart3: -515329142
+    GuidPart4: -2088457446
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: Default
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: JEANNE
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 
+--- !u!114 &4013368499129241556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: 5113142038444918786}
+  connections:
+  - _target: {fileID: 5404208710361104980}
+    _isLink: 0
+  _guid:
+    GuidPart1: -1412528403
+    GuidPart2: 1303332658
+    GuidPart3: -250071639
+    GuidPart4: -1866733296
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: 
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: JEANNE
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 
+--- !u!114 &5113142038444918786
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672b861af8c5dc5419a9d50da1af92e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: 0}
+  connections:
+  - _target: {fileID: 4013368499129241556}
+    _isLink: 0
+  _guid:
+    GuidPart1: 974173963
+    GuidPart2: 1091194216
+    GuidPart3: 241753482
+    GuidPart4: 526179217
+--- !u!114 &5404208710361104980
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: 4013368499129241556}
+  connections:
+  - _target: {fileID: 368560621895412958}
+    _isLink: 0
+  _guid:
+    GuidPart1: -174575236
+    GuidPart2: 1306488538
+    GuidPart3: -989699450
+    GuidPart4: -1920485235
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: 
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: MIA
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 

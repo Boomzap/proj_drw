@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RemoveFromReleaseBuild
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CharacterRenderer
+  - HintCharacterRenderer
+  - TutorialMask
+  - PageAnim
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HO
+    uniqueID: 1749624131
+    locked: 0
+  - name: SubHO
+    uniqueID: 1457421797
+    locked: 0
+  - name: Characters
+    uniqueID: 1359891391
+    locked: 0
+  - name: Foreground
+    uniqueID: 1347791381
+    locked: 0
+  - name: Conversation BG
+    uniqueID: 1045434169
+    locked: 0

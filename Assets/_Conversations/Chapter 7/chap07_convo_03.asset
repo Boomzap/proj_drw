@@ -1,0 +1,382 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7778059369125325584
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672b861af8c5dc5419a9d50da1af92e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: 0}
+  connections:
+  - _target: {fileID: -7676539646864843361}
+    _isLink: 0
+  _guid:
+    GuidPart1: -1288496608
+    GuidPart2: 1338527409
+    GuidPart3: 1627728063
+    GuidPart4: -157684563
+--- !u!114 &-7676539646864843361
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: -7778059369125325584}
+  connections:
+  - _target: {fileID: -2061887137841724977}
+    _isLink: 0
+  _guid:
+    GuidPart1: 1468664601
+    GuidPart2: 1276930685
+    GuidPart3: 291813509
+    GuidPart4: 1027194303
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: 
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: GUY
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 
+--- !u!114 &-6313014642568017852
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: -2061887137841724977}
+  connections:
+  - _target: {fileID: 6509852597103742372}
+    _isLink: 0
+  _guid:
+    GuidPart1: -684853044
+    GuidPart2: 1316048098
+    GuidPart3: -466515809
+    GuidPart4: -347844105
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: 
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: GUY
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 
+--- !u!114 &-2061887137841724977
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: -7676539646864843361}
+  connections:
+  - _target: {fileID: -6313014642568017852}
+    _isLink: 0
+  _guid:
+    GuidPart1: 405476735
+    GuidPart2: 1111159479
+    GuidPart3: -646580055
+    GuidPart4: -1030178758
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: 
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: ELEONORE
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b31fce31682c904ebf40f7a0636dded, type: 3}
+  m_Name: chap07_convo_03
+  m_EditorClassIdentifier: 
+  _root: {fileID: -7778059369125325584}
+  _guid:
+    GuidPart1: 935367499
+    GuidPart2: 1151312032
+    GuidPart3: 24861375
+    GuidPart4: 1345448249
+  repeatable: 0
+--- !u!114 &6509852597103742372
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26f688f1a8ab8b4192d8b519ba89702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isOption: 0
+  owner: {fileID: 11400000}
+  _parent: {fileID: -6313014642568017852}
+  connections: []
+  _guid:
+    GuidPart1: -598876873
+    GuidPart2: 1157745046
+    GuidPart3: 1114350221
+    GuidPart4: -1473431092
+  linkParents: []
+  nodeStyle: 0
+  emotionPrefix: 
+  emotionColor: {r: 0, g: 0, b: 0, a: 0}
+  triggerSoundEffect: {fileID: 0}
+  fullScreenImage: {fileID: 0}
+  forceBG: {fileID: 0}
+  fullScreenLandscape: 0
+  applyVideoMode: 0
+  groupCharacterSlot: 0
+  groupCharacterState: 
+  flipGroupCharacter: 0
+  repeatable: 1
+  setFlags: []
+  flagCondition: 
+  background: Default
+  transitionStyle: 0
+  speakingCharacter: {fileID: 0}
+  speakingCharacterName: 
+  overrideSpeakingCharacter: MIA
+  characters:
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  - character: {fileID: 0}
+    state: 
+    eyes: 
+    emotion: 
+    faceLeft: 0
+    lookBack: 0
+    spineSlots: []
+    noChangeFromParent: 1
+  comments: 

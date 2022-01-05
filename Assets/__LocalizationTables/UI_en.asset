@@ -1,0 +1,1381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 37024606848102400
+    m_Localized: The above options may only be changed from the main menu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37025569654779904
+    m_Localized: Ambient Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35508448617639936
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37027736830685184
+    m_Localized: Best Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36636897843425280
+    m_Localized: Change Difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36984298416451584
+    m_Localized: Change Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231296
+    m_Localized: Day 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231297
+    m_Localized: Day 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231298
+    m_Localized: Day 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231299
+    m_Localized: Day 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231300
+    m_Localized: Day 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231301
+    m_Localized: Day 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231302
+    m_Localized: Day 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231303
+    m_Localized: Day 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231304
+    m_Localized: Day 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231305
+    m_Localized: Day 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231306
+    m_Localized: Day 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231307
+    m_Localized: Day 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231308
+    m_Localized: Day 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231309
+    m_Localized: Day 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231310
+    m_Localized: Day 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231311
+    m_Localized: Day 16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231312
+    m_Localized: Day 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231313
+    m_Localized: Day 18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231314
+    m_Localized: Day 19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151389714231315
+    m_Localized: Day 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36998179117412352
+    m_Localized: Click to continue...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36594495996899328
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35518197006413824
+    m_Localized: Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36596610416848896
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36947031849250816
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36594391655198720
+    m_Localized: Create New Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36986228668706816
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991952983502848
+    m_Localized: Art
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36993626624045056
+    m_Localized: Boomzap Entertainment would like to thank...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36992350913900544
+    m_Localized: Business & Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991028726673408
+    m_Localized: Creative Director
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991484978868224
+    m_Localized: Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36990595085971456
+    m_Localized: Developed by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991353143504896
+    m_Localized: Programming
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36993776813682688
+    m_Localized: Published By
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36992213231677440
+    m_Localized: QA & Testing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991206447722496
+    m_Localized: Technical Director
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36637422567632896
+    m_Localized: Thank you for playing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991834863513600
+    m_Localized: Writing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36637324299284480
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36636826846441472
+    m_Localized: Difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36640395016351744
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38038754545446912
+    m_Localized: Hint recharge after 15 secs. \n\nMinigame piece locks on correct
+      position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36983878147190784
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36942240716763136
+    m_Localized: Final Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36597186697441280
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36640675527208960
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38041963582271488
+    m_Localized: Hint recharge after 45 secs. \n\nMinigame piece does not lock on
+      correct position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34509854695567360
+    m_Localized: High Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36211596093108224
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36946734234021888
+    m_Localized: Hint Used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35518547809611776
+    m_Localized: Image
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36998816903278592
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34119027624325120
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36640601212530688
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38039610913271808
+    m_Localized: Hint recharge after 30 secs. \n\nSome minigame piece locks on correct
+      position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36947091160903680
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37027522820517888
+    m_Localized: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37025508334055424
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36637215901691904
+    m_Localized: New Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36647671097798656
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35518088994697216
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36998572480212992
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36962737932283904
+    m_Localized: Other Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36984001963044864
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36637024586903552
+    m_Localized: Profiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36946612804726784
+    m_Localized: Raw Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36946979252678656
+    m_Localized: Replay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36598402282237952
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35518283878838272
+    m_Localized: Riddle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35517783418679296
+    m_Localized: Scramble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34119121299910656
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35518479861886976
+    m_Localized: Silhouette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36998088633692160
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36598525745770496
+    m_Localized: Skip Dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37024785965854720
+    m_Localized: Sound Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36946681616478208
+    m_Localized: Speed Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36946294406721536
+    m_Localized: 'Time:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36636709980549120
+    m_Localized: Time Played
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35541574479851520
+    m_Localized: Unlimited Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36984135492907008
+    m_Localized: Unlimited Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36647610272002048
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36596716742455296
+    m_Localized: Your name here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686936961024
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686936961025
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686936961026
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686936961027
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155328
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155329
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155330
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155331
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155332
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39152686941155333
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39205025563619328
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15950621510942720
+    m_Localized: This is the chapter menu. Choose a chapter then click play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15950621485776896
+    m_Localized: Chapter Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: Find and click hidden items on the scene!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572382
+    m_Localized: Mia goes to ask Sabriye for a picture of the antique lute's owner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572383
+    m_Localized: Mia meets up with Daniel and Maria, and invites them to the Clock
+      Tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572384
+    m_Localized: Daniel plays the song for Maria, and Guy finally gets the inspiration
+      he needs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572385
+    m_Localized: Daniel goes to Monique's Flower Shop to get a gift for Maria.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572386
+    m_Localized: Daniel apologizes to Maria, and asks for another chance to make
+      things right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572377
+    m_Localized: Mia checks up on Guy's progress.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572378
+    m_Localized: Mia examines the sheet music that was in the antique lute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572379
+    m_Localized: Mia meets up with a wistful Maria.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572380
+    m_Localized: Mia tries to cheer up Maria by showing her something funny.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572381
+    m_Localized: Mia confronts Daniel again, and comes up with a plan to help him
+      straighten up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401089183744
+    m_Localized: "Mia gets a tour of the H\xF4tel Mont Blanc from its owner, El\xE9onore
+      Dupont."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401089183745
+    m_Localized: Mia's client, Aletta Marchenaux, shows her a poster before talking
+      business.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401089183746
+    m_Localized: Mia goes to Monique's Flower Shop to look for a gift for her grandma.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401089183747
+    m_Localized: Monique shows Mia something she can give to her grandma.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378048
+    m_Localized: Mia goes to pick up her grandma Alice, and meets Alice's new husband,
+      Frank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378049
+    m_Localized: "Frank tries to get to know Mia better as she escorts him and Alice
+      to the H\xF4tel Mont Blanc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: Return to Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: Return to unlimited menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: Return to Chapter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: Return to chapter select?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: To ensure that no hidden objects are outside of the playable area
+      in your new resolution, we must reset the progress of [count] scenes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: Invalid Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: A profile with this name already exists.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: Please enter a valid character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: Max Profiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: You've already created the maximum amount of profiles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: Delete Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: Are you sure you want to delete the selected profile?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: Wallpaper Saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: 'Wallpaper saved at path: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543726268116992
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543734031773696
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: Click to cycle the correct pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: Click to rotate pieces to their proper orientation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: Click and swap pieces to their proper position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: Click to swap or rotate pieces to their proper orientation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: Find the smaller pictures in the collage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: Find the difference.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: Click and drag the pieces to complete the puzzle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Click the objects two at a time to match pairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267650
+    m_Localized: Click the canvas with its correct color to complete the puzzle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267651
+    m_Localized: Color the canvas to match the picture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Click the objects two at a time to match pairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267653
+    m_Localized: Find the object being described.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267654
+    m_Localized: Arrange the items so that it occurs only once in a row & column.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623168
+    m_Localized: Cocoa Poster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623169
+    m_Localized: Sunflower Poster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623170
+    m_Localized: Flag Stickers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623171
+    m_Localized: Charles' Missing Goats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623172
+    m_Localized: Jean-Baptiste's First Painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623173
+    m_Localized: Mia's First Cross-stitch Project
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623174
+    m_Localized: Aletta's Painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623175
+    m_Localized: Mia's Chocolate Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623176
+    m_Localized: Broken Antique Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623177
+    m_Localized: Poster for the Ski Lodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623178
+    m_Localized: Pizza Restaurant's Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623179
+    m_Localized: "H\xF4tel Mont Blanc's Facade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623180
+    m_Localized: Broken Cabinet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623181
+    m_Localized: Painting at the Chocolate Factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623182
+    m_Localized: Hiking Equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623183
+    m_Localized: Old Chandelier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623184
+    m_Localized: Mia's Second Cross-stich Project
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623185
+    m_Localized: Hot Air Balloons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623186
+    m_Localized: Old Painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623187
+    m_Localized: Posters for Monique's Flower Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623188
+    m_Localized: Butterfly Pins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623189
+    m_Localized: Stones from a Gift Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623190
+    m_Localized: Jean-Baptiste's Second Painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623191
+    m_Localized: Flower Arrangement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623192
+    m_Localized: Pictures of Hugo's Sisters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623193
+    m_Localized: Mia's Third Cross-stich Project
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623194
+    m_Localized: Hugo's Chocolate Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623195
+    m_Localized: Table at the Pizza Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623196
+    m_Localized: Guy's Geode Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623197
+    m_Localized: Picture of Peasant Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623198
+    m_Localized: Mural at the City Center
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623199
+    m_Localized: Maps at the Alpine Museum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623200
+    m_Localized: Broken Antique Telephone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623201
+    m_Localized: Pictures from a Fashion Magazine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623202
+    m_Localized: Antique Lute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623203
+    m_Localized: Decorated Sheet Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623204
+    m_Localized: Postcards of Kids with Fruit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623205
+    m_Localized: Picture of Adam Barbeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39554693823623206
+    m_Localized: Picture of a Special Flower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378050
+    m_Localized: Mia goes to visit her old friend Sabriye and thank her for helping
+      her get this job.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378051
+    m_Localized: Mia tries to talk to Charles but ends up helping him find his goats.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378052
+    m_Localized: Mia goes to pick up Aletta from Marchenaux Meadows.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378053
+    m_Localized: Mia and Aletta go through Jean-Baptiste's belongings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378054
+    m_Localized: Jeanne arrives at Jean-Baptiste's chateau, and tells Mia to stop
+      her work immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378055
+    m_Localized: Mia does some cross-stitching and gives Maria a call.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378056
+    m_Localized: Mia runs into Monique and decides to help her out with an errand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378057
+    m_Localized: Mia eats with Alice and Frank, and learns about how the two of them
+      met.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378058
+    m_Localized: Mia and Aletta help Charles find his keys, and then talk to him
+      about what happened with Jeanne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378059
+    m_Localized: Aletta does a bit of painting to calm down. She then tells Mia all
+      about her problems with Jeanne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378060
+    m_Localized: Before going to talk to Jeanne, Mia decides to get her some chocolates.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378061
+    m_Localized: Mia asks Jeanne for her blessing to continue working with Jean-Baptiste's
+      belongings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378062
+    m_Localized: Mia goes with Monique to the Auto Museum, where Mia repairs a busted
+      antique car.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378063
+    m_Localized: Monique and her dad Hugo have a fight in front of Mia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378064
+    m_Localized: "Mia meets Leo, the future owner of the H\xF4tel Mont Blanc, while
+      she's talking to El\xE9onore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378065
+    m_Localized: Mia gets lost on the way to the Alpine Museum.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378066
+    m_Localized: Guy shows her a poster of Leo's ski lodge, and tells her all about
+      how Leo ruins local businesses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378067
+    m_Localized: 'Mia gets to the Alpine Museum and sees that none of Jean-Baptiste''s
+      paintings are here. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378068
+    m_Localized: Frank calls Mia over to the Ski Lodge, where he is making a reservation
+      to go hiking.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378069
+    m_Localized: Frank takes Mia to the pizza restaurant to eat, but Mia leaves early.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378070
+    m_Localized: "Mia decides to help El\xE9onore run some errands."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378071
+    m_Localized: "Mia goes with El\xE9onore to Guy's carpentry shop."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378072
+    m_Localized: "Mia helps Guy finish repairing El\xE9onore's cabinet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378073
+    m_Localized: "At the hotel, Mia and El\xE9onore have a meeting with Leo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378074
+    m_Localized: Mia hears Monique out after initially visiting her to deliver the
+      bad news about Leo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378075
+    m_Localized: Mia tells Aletta about Jeanne's condition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378076
+    m_Localized: After getting a call from Frank, Mia goes to the chocolate factory
+      to get Frank something sweet to eat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378077
+    m_Localized: Mia gets distracted by a painting in the Chocolate Factory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378078
+    m_Localized: Mia goes to the Ski Lodge to meet with Frank and Alice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378079
+    m_Localized: Frank has gone ahead, so Mia hikes with Alice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378080
+    m_Localized: Mia inspects a chandelier when she is suddenly called out by Leo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378081
+    m_Localized: "Leo tells Mia to stop interfering with his business deal with El\xE9onore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378082
+    m_Localized: "Mia accompanies Monique, who tells Hugo that she wants to stay
+      in Mont Cach\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378083
+    m_Localized: Instead of coming to a compromise, Jeanne and Aletta have a really
+      big fight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378084
+    m_Localized: After a bad day, Mia calls Maria and does some cross-stitching to
+      calm down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378085
+    m_Localized: Mia helps Aletta with some errands so that they can talk about what
+      happened yesterday.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378086
+    m_Localized: Aletta explains the real reason she doesn't get along with Jeanne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378087
+    m_Localized: Mia helps Jeanne with  some errands so that they can talk about
+      what happened yesterday.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378088
+    m_Localized: Jeanne explains the real reason she doesn't get along with Aletta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378089
+    m_Localized: Mia gives Maria another call.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378090
+    m_Localized: Mia goes to Sabriye's to look for a gift for Frank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378091
+    m_Localized: "Mia helps Monique and El\xE9onore with an errand."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378092
+    m_Localized: "El\xE9onore tries to give Monique some advice for her Flower Shop."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378093
+    m_Localized: Mia returns to Sabriye to pick up her gift for Frank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378094
+    m_Localized: Mia talks to Charles about Jeanne and Aletta to get a fresh perspective
+      on the problem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378095
+    m_Localized: Mia meets with Monique and comes up with a plan to save the Flower
+      Shop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378096
+    m_Localized: Mia meets up with Frank and Alice to invite them to the Alpine Museum
+      tomorrow.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378097
+    m_Localized: Frank excitedly brings Mia to the Ski Lodge's gift shop to show
+      her something.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378098
+    m_Localized: Mia explains to Frank that she wants to visit the Alpine Museum
+      with him and Alice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378099
+    m_Localized: Mia goes through Jean-Baptiste's stuff and finds a new painting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378100
+    m_Localized: Mia examines the painting and finds a message from Jean-Baptiste.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378101
+    m_Localized: Mia invites Aletta to speak with her and Jeanne  tomorrow.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378102
+    m_Localized: Mia invites Jeanne to speak with her and Aletta tomorrow.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378103
+    m_Localized: Mia helps Monique finish her work so they can go talk to Hugo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378104
+    m_Localized: "Mia and Monique try to convince Hugo to buy the H\xF4tel Mont Blanc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378105
+    m_Localized: "Hugo finally agrees to buy the H\xF4tel Mont Blanc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378106
+    m_Localized: Mia goes around the Alpine Museum with Frank and Alice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401093378107
+    m_Localized: Mia gives Maria another call while she does one last cross-stitch
+      project.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572352
+    m_Localized: Monique and Mia look for Hugo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572353
+    m_Localized: "Before speaking with El\xE9onore, Hugo buys her a gift from the
+      Chocolate Factory."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572354
+    m_Localized: "Hugo convinces El\xE9onore to sell the hotel to him and Monique
+      instead of Leo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572355
+    m_Localized: Mia goes to thank Charles for all the help he's given her.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572356
+    m_Localized: Mia shows Aletta and Jeanne the message on Jean-Baptiste's painting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572357
+    m_Localized: Mia picks up Daniel and Maria from the train station.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572358
+    m_Localized: Before the three friends eat, Mia sets up their table so Daniel
+      and Maria can sit together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572359
+    m_Localized: Daniel asks Mia for some suggestions of places to visit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572360
+    m_Localized: Mia accompanies Monique on an errand at Guy's carpentry shop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572361
+    m_Localized: "Guy shows Mia and Monique his idea for new furniture for the H\xF4tel
+      Mont Blanc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572362
+    m_Localized: Mia accompanies Daniel and Maria on a hiking trip.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572363
+    m_Localized: Mia leaves early and meets with Guy earlier than scheduled.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572364
+    m_Localized: "Guy shows Mia the new idea he has for furniture for the H\xF4tel
+      Mont Blanc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572365
+    m_Localized: Guy and Mia look for inspiration in the City Center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572366
+    m_Localized: Guy and Mia look for inspiration in the Clock Tower, and find an
+      antique lute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572367
+    m_Localized: Maria asks Mia where she should go, and Daniel suggests the Alpine
+      Museum.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572368
+    m_Localized: Mia gets roped into going to the Alpine Museum with Maria and Daniel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572369
+    m_Localized: Daniel asks Mia to give him alone time with Maria.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572370
+    m_Localized: Mia meets up with Guy at the Antique Shop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572371
+    m_Localized: Sabriye figures out who owned the antique lute Maria and Guy found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572372
+    m_Localized: Maria spends some time alone with Mia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572373
+    m_Localized: After dodging Mia's questions, Maria explains that she's thinking
+      of proposing to Daniel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572374
+    m_Localized: Maria proposes to Daniel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572375
+    m_Localized: Mia confronts Daniel about his reaction to Maria's proposal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39151401097572376
+    m_Localized: Mia gets Daniel to help restore and examine the antique lute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: This is the chapter menu. Choose a chapter to play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: Chapter Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40620601906065414
+    m_Localized: Find each of the small details in the scene.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40620601906065415
+    m_Localized: Detail Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015104
+    m_Localized: Find Hidden Objects!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: Find and click hidden items on the scene!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: Standard Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: This is Standard mode. Find the hidden objects listed below!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: Menu Buttons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926081
+    m_Localized: Use these buttons to return to the map, to the main menu, or to
+      access game settings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: Score Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: This is the score multiplier. The faster you find objects, the higher
+      the multiplier will be!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: Unlimited Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: Click the first level you've unlocked to replay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: Unlimited Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: Select a game mode then hit play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: Unlimited Unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: You've unlocked Unlimited Mode. Click here to play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: Unlock Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: There are hidden rooms in some scenes that needs to be unlocked.
+      Drag the key item to the room to unlock it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Use Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: Use hint to find objects easily. It takes time to recharge so use
+      it wisely!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: Small objects can be troublesome. You can use the magnifier to enlarge
+      areas, or use the mouse scroll wheel or double-click to zoom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646476928151552
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646510818127872
+    m_Localized: Detail Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646510818127873
+    m_Localized: Find each of the small details in the scene.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646557207130112
+    m_Localized: Collection Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646557207130113
+    m_Localized: Find all of the items of a specific kind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646568112320512
+    m_Localized: Picture Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646568112320513
+    m_Localized: Find all of the items shown in the list.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646575452352512
+    m_Localized: Odd Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646575452352513
+    m_Localized: Find all of the items that don't fit in the scene.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646609145196544
+    m_Localized: Repair Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646609145196545
+    m_Localized: Find broken items and use the correct tool to repair it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646616015466496
+    m_Localized: Reverse HO Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646616015466497
+    m_Localized: Drag the items shown in the list to its proper location.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646621241569280
+    m_Localized: Riddle Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646621241569281
+    m_Localized: Find each item based on its description.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646635317653504
+    m_Localized: Silhouette Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646635317653505
+    m_Localized: Find each item based on its silhouette.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589703868416
+    m_Localized: Fill out the grid according to the diagram.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062720
+    m_Localized: Sew Minigame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062721
+    m_Localized: Choose colors and fill in the numbered areas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062722
+    m_Localized: Paint Minigame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062723
+    m_Localized: Find each goat being described.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062724
+    m_Localized: Special Riddles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062725
+    m_Localized: Fill out the board such that no row or column has 2 of the same
+      piece.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40987589708062726
+    m_Localized: Sudoku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46000116085846016
+    m_Localized: Items found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: Pieces Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46044688983814144
+    m_Localized: Return to Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46044688983814145
+    m_Localized: Return to main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46063848469274624
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46079801520058368
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: LastEditedTimeMetadata, ns: Boomzap.HOPA, asm: Assembly-CSharp}
+      data:
+        lastModifiedTimeUTC: 0

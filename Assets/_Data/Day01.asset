@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e5520c927939948a7b912ff9253c10, type: 3}
+  m_Name: Day01
+  m_EditorClassIdentifier: 
+  chapterImage: {fileID: 21300000, guid: 757aa7b6e9d5ad246b749f60e1057c6e, type: 3}
+  isCEContent: 0
+  isSurveyContent: 0
+  timeOfDay: 1
+  sceneEntries:
+  - saveGUID:
+      GuidPart1: -823148867
+      GuidPart2: 1112965634
+      GuidPart3: 1271395247
+      GuidPart4: 1391227708
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: 4c5a69b7e7f7b424198aa90daa7b4793, type: 3}
+    ambient: {fileID: 8300000, guid: 5769bfc03ed20fe4b8cefa26e5b20f7d, type: 3}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: 608dd260f59931a4ab300c2ce320ea8e, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: bf5a783573067f948a122a3a611a9633
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 1001ce1447c1f894c8d022482c2b4b46
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_03/scene_name
+      roomName: ho_03
+    hoLogic: HOLogicSpecialRiddle
+    objectCount: 8
+    itemDifficulty: 0
+    unlockableSubHO: []
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: 567109050
+      GuidPart2: 1151551398
+      GuidPart3: -1620519040
+      GuidPart4: 120753373
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: 05b12325ac02c2b42ac77edf1654f41c, type: 3}
+    ambient: {fileID: 0}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: 09c09f206c2278d4f8fea8672a387ce0, type: 2}
+    onEndConversation: {fileID: 11400000, guid: ce8832d32651a734d8852f4274a4511a, type: 2}
+    minigame:
+      m_AssetGUID: d3214cc636d07304d9b16e8ddb7faf17
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 09527c8db5252a343a2fe244fea08479
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_02/scene_name
+      roomName: ho_02
+    hoLogic: HOLogicStandard
+    objectCount: 13
+    itemDifficulty: 0
+    unlockableSubHO:
+    - m_AssetGUID: be794cfdc886f3c4dab7771f2ab782f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_03_sub2/scene_name
+      roomName: ho_03_sub2
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 1
+  saveGUID:
+    GuidPart1: -1128695059
+    GuidPart2: 1113563187
+    GuidPart3: 20824505
+    GuidPart4: -1529140261

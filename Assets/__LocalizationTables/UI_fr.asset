@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15950621485776896
+    m_Localized: Menu des chapitres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: "Trouvez et cliquez sur les objets cach\xE9s de la sc\xE8ne\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: Retourner au menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: "Retourner au menu illimit\xE9\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: Retourner au chapitre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: "Retourner \xE0 la s\xE9lection des chapitres\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: Confirmer ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: "Afin qu\u2019aucun objet ne soit cach\xE9 hors de la zone de jeu
+      dans la r\xE9solution choisie, nous devons r\xE9initialiser la progression
+      de [count] sc\xE8nes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: Nom non valide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: "Un profil avec ce nom existe d\xE9j\xE0.."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: "Veuillez entrer un caract\xE8re valide."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: Profils max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: "Vous avez cr\xE9\xE9 le nombre maximum de profils."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: Supprimer le profil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: Voulez-vous vraiment supprimer ce profil ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: "Fond d\u2019\xE9cran sauvegard\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: "Fond d\u2019\xE9cran sauvegard\xE9 dans\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: "Cliquez pour parcourir les bons \xE9l\xE9ments."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: "Cliquez pour faire pivoter les pi\xE8ces et les mettre dans le
+      bon sens."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: "Cliquez et faites permuter les pi\xE8ces pour les mettre au bon
+      endroit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: "Cliquez pour permuter ou faire pivoter les pi\xE8ces et les mettre
+      dans le bon sens."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: Trouvez les images plus petites dans le collage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: "Trouvez les diff\xE9rences."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: "Cliquez et faites glisser les \xE9l\xE9ments pour compl\xE9ter
+      l\u2019image."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Cliquez sur les objets pour former des paires.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Cliquez sur les objets pour former des paires.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: "Voici le menu des chapitres. S\xE9lectionnez un chapitre \xE0 jouer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: Menu des chapitres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: "Trouvez et cliquez sur les objets cach\xE9s de la sc\xE8ne\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: "Ceci est le multiplicateur de score. Plus vite vous trouvez des
+      objets, plus le multiplicateur grossit\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: "Cliquez sur le premier niveau d\xE9bloqu\xE9 pour le rejouer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: "Mode illimit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: "S\xE9lectionnez un mode de jeu puis cliquez sur Jouer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: "Mode illimit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: "Vous avez d\xE9bloqu\xE9 le mode Illimit\xE9. Cliquez ici pour
+      jouer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: "Illimit\xE9 d\xE9bloqu\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: "Dans certains lieux, il y a des zones cach\xE9es \xE0 d\xE9bloquer.
+      Faites glisser l\u2019objet-cl\xE9 sur une zone pour la d\xE9verrouiller."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Utiliser indice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: "Les petits objets peuvent \xEAtre complexes \xE0 trouver. Utilisez
+      la loupe pour agrandir certaines zones. Sinon utilisez la mollette de la souris
+      ou faites un double-clic pour zoomer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: Multiplicateur de score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: "D\xE9bloquer une zone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: Mode standard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: "\xC9l\xE9ments restants"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e5520c927939948a7b912ff9253c10, type: 3}
+  m_Name: Day14
+  m_EditorClassIdentifier: 
+  chapterImage: {fileID: 21300000, guid: ea4a53bd55188e9459cd4a5a1e65c5de, type: 3}
+  isCEContent: 0
+  isSurveyContent: 0
+  timeOfDay: 0
+  sceneEntries:
+  - saveGUID:
+      GuidPart1: 327258486
+      GuidPart2: 1324718491
+      GuidPart3: 1242202017
+      GuidPart4: 300369724
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: d9da61c049df94f4daf5bfd888211888, type: 3}
+    ambient: {fileID: 8300000, guid: 6417b56be9b90dc4c82e22a83976e9dd, type: 3}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: ec350057dddfb0e40a04d61bf76ae0cd, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 53a464a129721534f8d8c165f02e0486
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_01/scene_name
+      roomName: ho_01
+    hoLogic: HOLogicStandard
+    objectCount: 16
+    itemDifficulty: 0
+    unlockableSubHO:
+    - m_AssetGUID: 8261ab133bf1c7341bfb78279b19e15c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_01_sub1/scene_name
+      roomName: ho_01_sub1
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: -89363155
+      GuidPart2: 1162523747
+      GuidPart3: -1578326116
+      GuidPart4: 1299048118
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: 4c5a69b7e7f7b424198aa90daa7b4793, type: 3}
+    ambient: {fileID: 8300000, guid: 5769bfc03ed20fe4b8cefa26e5b20f7d, type: 3}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: 848736e6fcfc9e14096a38c1d463699c, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: baf22ed6b820cdd4ca0963ebb66a50aa
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_13/scene_name
+      roomName: ho_13
+    hoLogic: HOLogicFindX
+    objectCount: 18
+    itemDifficulty: 0
+    unlockableSubHO: []
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: -316629705
+      GuidPart2: 1116115885
+      GuidPart3: 1834728622
+      GuidPart4: 875447393
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: 93d46861a8833674ea44abc3df38cdcf, type: 3}
+    ambient: {fileID: 8300000, guid: 9e956c38a82e8b247bc7fe5ca436d18c, type: 3}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: 1c59094f04cd0a64181dd0772dd60f3a, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 59d9f0f04ab85a34f9eea1c6addfce99
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_21/scene_name
+      roomName: ho_21
+    hoLogic: HOLogicPairs
+    objectCount: 12
+    itemDifficulty: 0
+    unlockableSubHO: []
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: 1518671367
+      GuidPart2: 1310752332
+      GuidPart3: 1990462628
+      GuidPart4: -140734898
+    forceShowAsMinigameInMap: 0
+    type: 0
+    music: {fileID: 8300000, guid: a904042a3a507264889605ab8844adf9, type: 3}
+    ambient: {fileID: 0}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: c1053063d1c10034a86e19f10af54c10, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: c5eb9ab77f4a5904e87e365b91686d1e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: 
+      roomName: 
+    hoLogic: HOLogicDebug
+    objectCount: 10
+    itemDifficulty: 0
+    unlockableSubHO: []
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: 1714480451
+      GuidPart2: 1336618521
+      GuidPart3: 914875281
+      GuidPart4: -1418609115
+    forceShowAsMinigameInMap: 0
+    type: 1
+    music: {fileID: 8300000, guid: 25559f2d43852ca4e818fa8e66ee7448, type: 3}
+    ambient: {fileID: 8300000, guid: 71a3a8adfdc09c642b609aa67c33733b, type: 3}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: d053a3b5cba4b6c459111b05b485e268, type: 2}
+    onEndConversation: {fileID: 0}
+    minigame:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: f8b7104b5e8cc8148989532a1c663be5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: ho_28/scene_name
+      roomName: ho_28
+    hoLogic: HOLogicStandard
+    objectCount: 20
+    itemDifficulty: 0
+    unlockableSubHO:
+    - m_AssetGUID: 93b27cc5be98b484e9ab32fd71592a23
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: 
+      roomName: ho_28_sub2
+    unlockedSubHO:
+    - m_AssetGUID: bd02cedce58ec644c9621e093528f653
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: 
+      roomName: ho_28_sub1
+    specialItems: []
+    onFinishAchievement: 0
+  - saveGUID:
+      GuidPart1: -1351949975
+      GuidPart2: 1319166448
+      GuidPart3: -994438011
+      GuidPart4: 272125276
+    forceShowAsMinigameInMap: 0
+    type: 0
+    music: {fileID: 8300000, guid: 95b0bad8bf0549f4cbcd9eb6614a8981, type: 3}
+    ambient: {fileID: 0}
+    hintCharacter: {fileID: 0}
+    onStartConversation: {fileID: 11400000, guid: 07d242c0afd548640b870031d31e5020, type: 2}
+    onEndConversation: {fileID: 11400000, guid: db8bd2e8afaa2674ebc90ddd6e786129, type: 2}
+    minigame:
+      m_AssetGUID: c241e399d0992c74fa1e3bddb6efe435
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: 
+      roomDescKey: 
+    hoRoom:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomLocalizationKey: 
+      roomName: 
+    hoLogic: HOLogicDebug
+    objectCount: 10
+    itemDifficulty: 0
+    unlockableSubHO: []
+    unlockedSubHO: []
+    specialItems: []
+    onFinishAchievement: 2
+  saveGUID:
+    GuidPart1: 234555636
+    GuidPart2: 1205178552
+    GuidPart3: 1276811665
+    GuidPart4: 371806564

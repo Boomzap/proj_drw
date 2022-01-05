@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HOUIPack
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de1fa6cb1e6504e4fa1a15de6c6821a8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9f00ef10c2265304daf3b43be0b1bcf4, type: 3}
+  - {fileID: 21300000, guid: 20bbb161780d49d4794689d5033e1214, type: 3}
+  - {fileID: 21300000, guid: 921c80c2941deed43a2483dc4878da7f, type: 3}
+  - {fileID: 21300000, guid: dd23c4b3011b21940a43e8526cfe7557, type: 3}
+  - {fileID: 21300000, guid: 5fa4dcd30da6f5e449d97484cf33179c, type: 3}
+  - {fileID: 21300000, guid: 44fa81e6cfd782041ad1c78f00d03433, type: 3}
+  - {fileID: 21300000, guid: fe08fd975d4f08841a469689460da839, type: 3}
+  - {fileID: 21300000, guid: 7ca854d7ce476c84e95b42fcc8bc72a5, type: 3}
+  - {fileID: 21300000, guid: ebb17138f72136446b11a6903a695154, type: 3}
+  - {fileID: 21300000, guid: 9811d178d26c8aa46a6c745401d401c2, type: 3}
+  - {fileID: 21300000, guid: 8fecb5f85923b0e49bfd34b6fced2e7f, type: 3}
+  - {fileID: 21300000, guid: 21e86b59c32ceef4a8d8c559a0d94b9e, type: 3}
+  - {fileID: 21300000, guid: 49d47189ab30cce4da8731485d1d5043, type: 3}
+  - {fileID: 21300000, guid: 79be23abf8609794b899bfce5aa4eab5, type: 3}
+  - {fileID: 21300000, guid: 957bd94c0fd167145ab589f693133fe0, type: 3}
+  - {fileID: 21300000, guid: dd9f6a4c94637f44a8a4727a493329fe, type: 3}
+  - {fileID: 21300000, guid: 92709d0e6fce8ec4bbb4c95f3fac5eda, type: 3}
+  - {fileID: 21300000, guid: 336d68ae94c39614fbcc759e704699f3, type: 3}
+  - {fileID: 21300000, guid: 3e5f48ff97e2e6a4f8ae84e6dd7617cd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - zoom_button
+  - ho_panel_special_item
+  - ho_panel
+  - ho_panel_menu
+  - ho_panel_counter_desc
+  - char_hint_circle_mask
+  - icon_home
+  - chainbonus_meter02
+  - button_map
+  - ho_panel_skip
+  - ho_panel_options
+  - button_magnifier
+  - ho_panel
+  - chainbonus_meter01
+  - ho_panel_counteritem
+  - char_hint_circle_frame
+  - icon_pause
+  - ho_panel_map
+  - ho_panel_hint_frame
+  m_RenderDataMap: {}
+  m_Tag: HOUIPack
+  m_IsVariant: 0

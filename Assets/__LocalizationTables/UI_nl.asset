@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15950621485776896
+    m_Localized: Hoofdstukken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: Vind verborgen voorwerpen op de locatie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: Terug naar het menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: Terug naar menu van Eindeloos?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: Terug naar hoofdstuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: Terug naar hoofdstukken?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: Weet je het zeker?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: Om ervoor te zorgen dat er in je nieuwe resolutie geen verborgen
+      voorwerpen buiten het speelveld vallen, moeten we de voortgang van [count]
+      locaties resetten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: Ongeldige naam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: Er bestaat al een profiel met deze naam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: Voer een geldig teken in.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: Max profielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: Je hebt het maximum aantal profielen aangemaakt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: Profiel wissen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: Weet je zeker dat je dit profiel wilt wissen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: Achtergrond opgeslagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: 'Achtergrond opgeslagen in:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: Klik om door de juiste stukken te bladeren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: Klik om stukken te roteren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: Klik en verwissel stukken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: Klik om stukken te roteren of te verwisselen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: "Vind de kleinere foto\u2019s in de collage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: Zoek het verschil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: Klik en sleep de stukken om de puzzel te herstellen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Klik op twee objecten om paren te vinden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Klik op twee objecten om paren te vinden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: Hier vind je alle hoofdstukken. Kies een hoofdstuk om te spelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: Hoofdstukken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: Vind verborgen voorwerpen op de locatie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: Dit is de vermenigvuldiger. Hoe sneller je voorwerpen vindt, hoe
+      hoger de vermenigvuldiger!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: Klik op het eerste level dat je hebt gespeeld om opnieuw te spelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: Eindeloos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: Selecteer een speltype en spelen maar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: Eindeloos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: Je hebt het speltype Eindeloos ontgrendeld. Klik hier om te spelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: Eindeloos ontgrendeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: Sommige locaties hebben verborgen ruimtes die je moet ontgrendelen.
+      Sleep de sleutel naar de ruimte om die te ontgrendelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Hint gebruiken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: Kleine voorwerpen kunnen lastig zijn. Gebruik het vergrootglas om
+      plekken te vergroten of gebruik het scrolwiel van de muis of dubbelklik om
+      in te zoomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: Zoomen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: Vermenigvuldiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: Ruimte ontgrendelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: Standaard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: Overgebleven stukken
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

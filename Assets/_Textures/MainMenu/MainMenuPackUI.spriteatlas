@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMenuPackUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7c3b9437634e4564daaa7f2ba8e21c92, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6524bd03d22c64f43a28d73277decd63, type: 3}
+  - {fileID: 21300000, guid: 7f4cd2a33ce6ba54883e62be964d9332, type: 3}
+  - {fileID: 21300000, guid: f187d4d3126b3d54db68eda89c360a7d, type: 3}
+  - {fileID: 21300000, guid: 4847c7f4d1c51414ebc78052c6828013, type: 3}
+  - {fileID: 21300000, guid: 23a40db5151ac894b9ec86b1d47bb37e, type: 3}
+  - {fileID: 21300000, guid: 2125a5d70b067034cba554c3b0c03aed, type: 3}
+  - {fileID: 21300000, guid: c1611f1c29bbf0b4580182d4a7bdc23d, type: 3}
+  - {fileID: 7427339268077585168, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: 374376592507144493, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: -5094073367576771515, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: -6762474647930653425, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: 9223156504469848864, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: -7079578273512414809, guid: f1fd297cc682b1f45be606f2a0617f57, type: 3}
+  - {fileID: 21300000, guid: 1df4b88f36e3a1c4b950ccb564b6a94d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ce_logo
+  - effect_sunlight_1
+  - ui_title
+  - bfg_collectors_edition
+  - effect_sunlight_2
+  - fx_waterripple2
+  - water_mask
+  - fx_birdfly_1
+  - fx_birdfly_0
+  - fx_birdfly_3
+  - fx_birdfly_2
+  - fx_birdfly_5
+  - fx_birdfly_4
+  - mainmenu_art
+  m_RenderDataMap: {}
+  m_Tag: MainMenuPackUI
+  m_IsVariant: 0

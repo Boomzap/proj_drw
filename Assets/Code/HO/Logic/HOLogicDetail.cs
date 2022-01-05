@@ -1,0 +1,91 @@
+﻿using ho;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using UnityEditor;
+using UnityEngine;
+
+[FriendlyName("Detail")]
+public class HOLogicDetail : HOLogic
+{
+    protected override bool AllowSubHOs() => false;
+    protected override bool AllowKeyItems() => false;
+    protected override bool IgnoreDifficulty() => true;
+
+    protected override List<HOFindableObject> GetAllSelectableObjects(ref List<HOFindableObject> allValidObjects)
+    {
+        List<HOFindableObject> selectableObjects = allValidObjects
+            .Where(
+                 x => x.IsValidForLogic(this) &&
+                 string.IsNullOrEmpty(x.objectGroup) &&
+                 x.isSpecialStoryItem == false
+            ).ToList();
+        allValidObjects.RemoveAll(x => x.IsValidForLogic(this) && x.isSpecialStoryItem == false);
+
+        return selectableObjects;
+    }
+
+    protected override List<HOFindableObject> PreventObjectsFromDeletion(ref List<HOFindableObject> toDelete)
+    {
+        List<HOFindableObject> preserve = toDelete.Where(x => !x.IsValidForLogic(this)).ToList();
+        toDelete.RemoveAll(x => preserve.Contains(x));
+
+        // ensure all Detail not selected are removed
+        var ensureDelete = toDelete.Where(x => x.IsValidForLogic<HOLogicDetail>()).ToList();
+        toDelete.RemoveAll(x => ensureDelete.Contains(x));
+
+        var ol = base.PreventObjectsFromDeletion(ref toDelete);
+        preserve.AddRange(ol);
+        toDelete.AddRange(ensureDelete);
+
+        return preserve;
+    }
+
+    protected override void GroupSelectedObjectsToCurrentAndFuture(ref List<HOFindableObject> validObjectsList, ref List<HOFindableObject> selectedObjectsList)
+    {
+        futureObjects.Clear();
+        
+        int currentCount = Math.Min(maxItemsToShow, selectedObjectsList.Count);
+        int futureCount = Math.Min(totalToFind - currentCount, (selectedObjectsList.Count - currentCount));
+
+        currentObjects.AddRange(selectedObjectsList.Take(currentCount));
+        selectedObjectsList.RemoveRange(0, currentCount);
+        futureObjects.AddRange(selectedObjectsList.Take(futureCount));
+        selectedObjectsList.RemoveRange(0, futureCount);
+
+        if (currentObjects.Count + futureObjects.Count < totalToFind)
+        {
+            Debug.LogWarning($"Detail wanted {totalToFind} items, but we only came up with {currentObjects.Count}");
+        }
+    }
+
+    public override bool OnItemClicked(HOFindableObject obj)
+    {
+        if (currentObjects.Contains(obj))
+        {
+            currentObjects.Remove(obj);
+            itemsLeftToFind--;
+
+            if (currentObjects.Count == 0 && futureObjects.Count == 0)
+                reactor.OnItemListEmpty();
+
+            HOFindableObject nextFindable = futureObjects.Count > 0 ? futureObjects.First() : null;
+            if (nextFindable)
+            {
+                futureObjects.Remove(nextFindable);
+                currentObjects.Add(nextFindable);
+                reactor.UpdateActiveItemInList(obj, new HOFindableObject[] { nextFindable });
+            } else
+            {
+                futureObjects.Remove(nextFindable);
+                reactor.UpdateActiveItemInList(obj, new HOFindableObject[] { null });
+            }
+
+            return true;
+        }
+
+        return false;
+    }
+
+}

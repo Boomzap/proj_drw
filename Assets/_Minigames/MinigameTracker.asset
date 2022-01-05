@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 369a58a4a019e754aa4977547ab6d493, type: 3}
+  m_Name: MinigameTracker
+  m_EditorClassIdentifier: 
+  mgEntries:
+  - mgReference:
+      m_AssetGUID: 13843ec3355853043a2c540d3f0e703f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/ctr_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: efb895b216914394b926a55b97c1d4be, type: 3}
+    roomName: CTR_01
+  - mgReference:
+      m_AssetGUID: 40914f360840a0f44ab8113401101ca7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/det_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: 41275d461a059f84e8abd30c69933c15, type: 3}
+    roomName: DET_01
+  - mgReference:
+      m_AssetGUID: 25717e8bdfc60614cab8eef5b1373d5d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/cts_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: 8418430a76819c0499a2d2aa806024ed, type: 3}
+    roomName: cts_01
+  - mgReference:
+      m_AssetGUID: 0a1bd16082dc9f24a85d53883e3039b9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/jig_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: d9fa66903356af440a043f81939e5a5b, type: 3}
+    roomName: jig_01
+  - mgReference:
+      m_AssetGUID: cb186342145feb340b7713b6edde76ab
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/sor_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: 6b5bed13f5546ec448991c9e6d2c1fde, type: 3}
+    roomName: SOR_01
+  - mgReference:
+      m_AssetGUID: ec5509c469a486d4eb813c613bd5e0fc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/ctc_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: 214f92575f0422743b4409d3f62db611, type: 3}
+    roomName: ctc_01
+  - mgReference:
+      m_AssetGUID: 462838b2e62a8c8408877f395d1c2144
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/dif_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: e29a93f2cdc2c3241818acc75451ecb5, type: 3}
+    roomName: dif_01
+  - mgReference:
+      m_AssetGUID: b36b341d86ac6fb4da0ff7ff0ae67c6d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/sud_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: ed1452c78a3f7aa49bcad35ba129cf6a, type: 3}
+    roomName: SUD_01
+  - mgReference:
+      m_AssetGUID: a6e197fbe2879054287a4b2c6b32c6c4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/pai_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 21300000, guid: 64b566ceea56fcd4cbd8a832cc48b913, type: 3}
+    roomName: PAI_01
+  - mgReference:
+      m_AssetGUID: 8edbb413f61c70d478ca2d81a9bc4eaa
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+      roomNameKey: UI/Minigame/sew_01_roomName
+      roomDescKey: 
+    previewSprite: {fileID: 0}
+    roomName: SEW_01

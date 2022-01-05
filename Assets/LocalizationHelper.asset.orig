@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e2762cbc255d047bd91663934917a1, type: 3}
+  m_Name: LocalizationHelper
+  m_EditorClassIdentifier: 
+  pendingDeletions:
+  - New Conversation[*]0C323BB2-42584F1D-A5F1A8B1-703A182A[ln]
+<<<<<<< HEAD
+  - Sample 1[*]D33086B0-48312D38-FC48B290-C0E432AB[ln]
+=======
+  - New Conversation[*]47688D00-4C644E27-481F44BA-ABB2551D[ln]
+>>>>>>> f98ca0f167da549932ab11517ef92fabc8357200

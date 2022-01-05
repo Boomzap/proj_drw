@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vendor-Denda
+  m_EditorClassIdentifier: 
+  m_GroupName: Vendor-Denda
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 95808d6c11ad6824780aedf50020b066
+  m_SerializeEntries:
+  - m_GUID: 220180505ec1b87448ea9f602cc27ac0
+    m_Address: Assets/_Textures/Splash/splash_screen_denda.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VendorSplash
+    m_MainAsset: {fileID: 2800000, guid: 220180505ec1b87448ea9f602cc27ac0, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 220180505ec1b87448ea9f602cc27ac0, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a88a4afc44dcbca49b9fb7cb15ef877d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4d13abf4e07bca24c904f6dfd8cbd9c7, type: 2}
+    - {fileID: 11400000, guid: 8600784817530a347b93a9cb36460073, type: 2}

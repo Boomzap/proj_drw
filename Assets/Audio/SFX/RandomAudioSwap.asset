@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8512c54a704744d95498d2c27f9965, type: 3}
+  m_Name: RandomAudioSwap
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9ac06bc330f5d4443adf9c81d0b91f13, type: 3}
+  - {fileID: 8300000, guid: 3183deed8073817418b120f8d2984fa1, type: 3}
+  - {fileID: 8300000, guid: 64c3f50934d3a7d4eb8a558184fc095f, type: 3}
+  - {fileID: 8300000, guid: 005605aa140d3644bbfb018bfde1c073, type: 3}
+  doNotRepeatCurrent: 0

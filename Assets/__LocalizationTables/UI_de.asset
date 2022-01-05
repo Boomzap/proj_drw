@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15950621485776896
+    m_Localized: "Kapitelmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: Finde die versteckten Objekte in der Szene und klicke sie an.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: "Zur\xFCck zum Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: "Zur\xFCck zum unbegrenzten Men\xFC?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: "Zur\xFCck zum Kapitel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: "Zur\xFCck zur Kapitelauswahl?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: Bist du sicher?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: "Wir wollen sicherstellen, dass sich bei deiner neuen Aufl\xF6sung
+      keine versteckten Objekte au\xDFerhalb des Spielbereichs befinden und m\xFCssen
+      daher den Fortschritt von  Szenen zur\xFCcksetzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: "Ung\xFCltiger Name"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: Dieses Profil existiert bereits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: "Bitte gib ein g\xFCltiges Zeichen ein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: Max. Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: Du hast bereits die maximale Anzahl an Profilen angelegt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: "Profil l\xF6schen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: "M\xF6chtest du das ausgew\xE4hlte Profil wirklich l\xF6schen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: Hintergrund gespeichert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: 'Hintergrund gespeichert unter: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: Klicke, um die richtigen Teile zu drehen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: Klicke, um die Teile zu drehen und richtig auszurichten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: Klicke und tausche Teile, damit sie an der richtigen Stelle landen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: Klicke, um die Teile zu drehen und richtig auszurichten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: Finde die kleineren Bilder in der Collage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: Finde die Unterschiede.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: Klicke und ziehe die Teile, um das Bild fertigzustellen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Klicke jeweils auf zwei Karten, um passende Paare zu finden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Klicke jeweils auf zwei Karten, um passende Paare zu finden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: "Das ist das Kapitelmen\xFC. W\xE4hle ein Kapitel, das du spielen
+      m\xF6chtest."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: "Kapitelmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: Finde die versteckten Objekte in der Szene und klicke sie an.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: "Dies ist der Punktemultiplikator. Je schneller du Objekte findest,
+      desto h\xF6her der Multiplikator!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: Klicke auf das erste Level, das du freigeschaltet hast, um es erneut
+      zu spielen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: Unbegrenzt-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: "W\xE4hle einen Spielmodus und klicke dann auf Spielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: Unbegrenzt-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: Du hast den Unbegrenzt-Modus freigeschaltet. Zum Spielen hier klicken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: Unbegrenzt freigeschaltet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: "In einigen Szenen gibt es versteckte R\xE4ume, die freigeschaltet
+      werden m\xFCssen. Ziehe den Schl\xFCssel daf\xFCr zu dem Raum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Tipp benutzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: "Kleine Objekte k\xF6nnen mitunter schwer zu finden sein. Nimm dann
+      die Lupe zur Hilfe, scrolle zum Zoomen mit dem Mausrad oder doppelklicke auf
+      eine Stelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: "Vergr\xF6\xDFern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: Punktemultiplikator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: Raum freischalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: Standard-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: "Teile \xFCbrig"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

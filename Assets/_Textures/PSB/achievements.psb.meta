@@ -1,0 +1,4625 @@
+fileFormatVersion: 2
+guid: d347c223bb0549043810b418e7c20062
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 1
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2513
+      y: 3414
+      width: 87
+      height: 86
+    spriteID: 4a77b64f3fd058545969b8736d941b7a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1003, y: 2658}
+  - name: Vector Smart Object_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4020
+      y: 1330
+      width: 72
+      height: 105
+    spriteID: b3616d58f69054948a7ae2f1cc9ea947
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2786, y: 479}
+  - name: Vector Smart Object_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3067
+      y: 3414
+      width: 64
+      height: 80
+    spriteID: 4ca3afd84d0451d4da40e257bba59ac0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1514, y: 2469}
+  - name: Vector Smart Object_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 3705
+      width: 66
+      height: 86
+    spriteID: 20a04e8e6db760f4a927e75a942644d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1099, y: 2706}
+  - name: Vector Smart Object_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2080
+      y: 3246
+      width: 224
+      height: 57
+    spriteID: 2a210129a38146c49b8dabe1b556c6de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 820, y: 2495}
+  - name: Complete a  Pairs Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2567
+      y: 3246
+      width: 214
+      height: 58
+    spriteID: a6f3395dcf307054bbc0fc4a1bf988fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1238, y: 2695}
+  - name: Two of a Kind
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2312
+      y: 3246
+      width: 247
+      height: 51
+    spriteID: 777df098508108c478340a3aa36d7375
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 2553}
+  - name: sticker_base-03 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 2973
+      width: 367
+      height: 136
+    spriteID: 255c6c5fdabe09247a5ae4a04d409808
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -419, y: 2325}
+  - name: Layer 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3869
+      y: 2647
+      width: 197
+      height: 291
+    spriteID: 9124d8cad2262c44cb97f86410ba76dd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2479, y: 1923}
+  - name: Layer 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3405
+      y: 2647
+      width: 230
+      height: 302
+    spriteID: 5e65927526ec55a4fb350f91a6bbb9d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2120, y: 1923}
+  - name: bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2436
+      y: 1548
+      width: 315
+      height: 318
+    spriteID: 09b5ea85449aa5242969ffd5e113b9ba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1158, y: 824}
+  - name: Vector Smart Object_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 3414
+      width: 109
+      height: 127
+    spriteID: cf8e571850fc2fb4380ae5486c6a0238
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1217, y: 2665}
+  - name: Vector Smart Object_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3809
+      width: 86
+      height: 147
+    spriteID: ca8430e8384df7344aa84fbdce70af11
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1232, y: 3063}
+  - name: Vector Smart Object_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 3518
+      width: 73
+      height: 71
+    spriteID: e312e6cb9d097dd488b177619418771d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 521, y: 2560}
+  - name: Vector Smart Object_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2807
+      y: 3414
+      width: 81
+      height: 80
+    spriteID: dcfeb79378806c64ba5172a74baa059e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1522, y: 2424}
+  - name: Complete a  No Vowels Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2664
+      y: 2548
+      width: 282
+      height: 58
+    spriteID: 0704c928913fb54409a72ea50506fd33
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1370, y: 1997}
+  - name: A-E-I-Oh-Yeah!
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3587
+      y: 3127
+      width: 306
+      height: 51
+    spriteID: fbbd0590732b88f4aaa3e34686f73e1b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2308, y: 2434}
+  - name: sticker_base-04 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1958
+      y: 2973
+      width: 361
+      height: 130
+    spriteID: 9d0d36f0c61c9f64ab6d3c0ce631c104
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 705, y: 2325}
+  - name: hair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 583
+      y: 2647
+      width: 283
+      height: 313
+    spriteID: 241ebeee165fb1744afeb11b082c0ebf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -712, y: 1923}
+  - name: bg_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2759
+      y: 1548
+      width: 315
+      height: 318
+    spriteID: f954fc1c9fedbd149a7fc2a6c265b2d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1482, y: 824}
+  - name: Vector Smart Object_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1511
+      y: 3414
+      width: 103
+      height: 102
+    spriteID: 9ac8d7f77923bb540819b788ec513c7d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2, y: 2670}
+  - name: Vector Smart Object_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1746
+      y: 3414
+      width: 98
+      height: 105
+    spriteID: 935824396ff4f244abe439a3ce1789fc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 504, y: 2645}
+  - name: Vector Smart Object_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2268
+      y: 3414
+      width: 93
+      height: 94
+    spriteID: efdb5ba12e5857d43bd3f6b5e4b70488
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 749, y: 2463}
+  - name: Vector Smart Object_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2167
+      y: 3414
+      width: 93
+      height: 99
+    spriteID: e4a145dc69c33a749a0dc093f87e1101
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 908, y: 2443}
+  - name: Complete a  Scramble Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3019
+      y: 3127
+      width: 272
+      height: 58
+    spriteID: f00cba2e7b38b4443a9285644c010b05
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1721, y: 2576}
+  - name: Anagram Master
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2341
+      y: 2548
+      width: 306
+      height: 55
+    spriteID: 199109f2a84ab5b4c92c576c657462cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1060, y: 1852}
+  - name: sticker_base-01 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1357
+      y: 3127
+      width: 354
+      height: 107
+    spriteID: 4eb36736bcc423f4db431cba5956d890
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 98, y: 2456}
+  - name: hair_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1175
+      y: 2647
+      width: 276
+      height: 318
+    spriteID: 7dbb1b4f7e89a6c4a930637b8fa5a0c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -127, y: 1923}
+  - name: Layer 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3632
+      y: 2222
+      width: 314
+      height: 317
+    spriteID: 0fc1efaa53bdabf42ad3fd544aa974ab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2355, y: 1497}
+  - name: sticker_base-05 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3310
+      y: 2222
+      width: 314
+      height: 318
+    spriteID: 779a024db9bf9c944aedfe4089351d05
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2033, y: 1498}
+  - name: Vector Smart Object_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1852
+      y: 3414
+      width: 93
+      height: 107
+    spriteID: 1d91b0e1bafcd754fade00567841558e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 340, y: 2470}
+  - name: Vector Smart Object_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1953
+      y: 3414
+      width: 99
+      height: 100
+    spriteID: e3f953c4d769bda468fc9111c7f5874b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 670, y: 2451}
+  - name: Vector Smart Object_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3818
+      y: 3246
+      width: 125
+      height: 68
+    spriteID: 9f5023e04e5c03d4aabd05c3f1276c97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2576, y: 2507}
+  - name: Vector Smart Object_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 3414
+      width: 104
+      height: 175
+    spriteID: d69fe3cb80fef7545abe3889b39a35a5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1427, y: 2678}
+  - name: Complete a  Collection Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2987
+      y: 2548
+      width: 281
+      height: 58
+    spriteID: 2adeb33c7024000498068bc670a92ad3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1693, y: 1997}
+  - name: Collect Them All!
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2083
+      y: 3197
+      width: 308
+      height: 39
+    spriteID: ec921433fa3dccf459be1dbf7981f41e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 805, y: 2504}
+  - name: sticker_base-02 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3058
+      y: 2973
+      width: 367
+      height: 119
+    spriteID: 0616e4f50e6bf9f42a7e260ea20f738a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1806, y: 2329}
+  - name: Layer 40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2647
+      width: 283
+      height: 318
+    spriteID: a1867af28c81ce049abecb4ab05ef2b3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1297, y: 1923}
+  - name: Layer 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3082
+      y: 1548
+      width: 315
+      height: 318
+    spriteID: ca665505dc56cd345a0a96752f629921
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1805, y: 824}
+  - name: Vector Smart Object_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1302
+      y: 3515
+      width: 110
+      height: 71
+    spriteID: 8a0d477bf02aa414abd0ed4278501166
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 2776}
+  - name: Vector Smart Object_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 994
+      y: 3414
+      width: 81
+      height: 139
+    spriteID: d36c5eafbdc203749b6dc89fbcfd8ddc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -282, y: 2482}
+  - name: Vector Smart Object_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 3246
+      width: 102
+      height: 142
+    spriteID: 20d60072e42868e4eab3ec2f0468fdbb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -867, y: 2522}
+  - name: Complete a  Riddle Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1368
+      y: 3246
+      width: 232
+      height: 58
+    spriteID: 604772b413727e24aad808364e8b9908
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 49, y: 2695}
+  - name: Riddle Me This
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3299
+      y: 3191
+      width: 280
+      height: 40
+    spriteID: 35c6da42dccda2c429848820aab1c006
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2005, y: 2489}
+  - name: sticker_base-01 copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 3127
+      width: 354
+      height: 111
+    spriteID: 6f8f2cde41f8984419dc5a8500ec16c6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -994, y: 2475}
+  - name: hair_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 678
+      width: 287
+      height: 318
+    spriteID: 1c7fd21db6545ae469586fb70f3d6455
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2485, y: -46}
+  - name: bg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3405
+      y: 1548
+      width: 315
+      height: 318
+    spriteID: 604739863477bf54f9230537efa23694
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2128, y: 824}
+  - name: Vector Smart Object_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 2409
+      width: 120
+      height: 122
+    spriteID: 331232613b803c54ea9688d2ee8e13bd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2708, y: 1476}
+  - name: Vector Smart Object_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1622
+      y: 3414
+      width: 116
+      height: 90
+    spriteID: 822c31962f32d084eaf202dfc0b76159
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 116, y: 2670}
+  - name: Complete a  Picture Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1118
+      y: 3246
+      width: 242
+      height: 58
+    spriteID: ea52d4db9d19dbb449f3fa9ed62a5295
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -196, y: 2695}
+  - name: Picture Perfect
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3587
+      y: 3186
+      width: 262
+      height: 51
+    spriteID: 6b20b6ccea916fb4692a82e7cb3461d4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2284, y: 2493}
+  - name: sticker base-01 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1719
+      y: 3127
+      width: 356
+      height: 97
+    spriteID: ffd1c3cc4609ca54fa1451650090e483
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 463, y: 2456}
+  - name: hair_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 320
+      width: 294
+      height: 315
+    spriteID: 92143252face5314985776f1a9718891
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2491, y: -404}
+  - name: bg_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3728
+      y: 1548
+      width: 315
+      height: 318
+    spriteID: 80245fc674e98fe4cbaa2852688626b2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2451, y: 824}
+  - name: Vector Smart Object_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2709
+      y: 3414
+      width: 90
+      height: 75
+    spriteID: 4213d5b436344c645b106e94a5be9ecd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1252, y: 2652}
+  - name: Vector Smart Object_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1428
+      y: 3414
+      width: 75
+      height: 142
+    spriteID: 864df012120c4c34db0abf1ed6a58394
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -138, y: 2654}
+  - name: Vector Smart Object_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3717
+      y: 1352
+      width: 52
+      height: 139
+    spriteID: 3c12c9b63d1586d42bbb00e0b9226ffd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2178, y: 592}
+  - name: Vector Smart Object_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1852
+      y: 3529
+      width: 89
+      height: 55
+    spriteID: e6148d829383fe64198989ca68c54e63
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 574, y: 2769}
+  - name: Vector Smart Object_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 3597
+      width: 74
+      height: 104
+    spriteID: 0de3022218b61134897be8c1e3d9024f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -953, y: 2838}
+  - name: Complete a Silhouette Game Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 1443
+      width: 277
+      height: 58
+    spriteID: a5ebd2cf54531ff42a8516820ffbb1ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2484, y: 892}
+  - name: Shadow Play
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1842
+      y: 3246
+      width: 230
+      height: 56
+    spriteID: 319d1741e03d7a04788cd687cfe20324
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 524, y: 2558}
+  - name: sticker_base-03 copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1208
+      y: 2973
+      width: 367
+      height: 136
+    spriteID: 33ecaf2875503894f8eeadce10925b8f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -43, y: 2325}
+  - name: hair_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2305
+      y: 2647
+      width: 270
+      height: 317
+    spriteID: 3e89e721525dff54ebfc4abbd52eaaff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1008, y: 1923}
+  - name: Layer 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2436
+      y: 1874
+      width: 315
+      height: 318
+    spriteID: cb91b799ca5a88c41acc42b58cf391c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1159, y: 1150}
+  - name: Vector Smart Object_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 3246
+      width: 145
+      height: 101
+    spriteID: 5257f46255e2bfe4ea1bd966fc334daa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1081, y: 2500}
+  - name: Vector Smart Object_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 786
+      y: 3246
+      width: 146
+      height: 99
+    spriteID: 26e423fe1c836e34f88fae033a0082b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -697, y: 2278}
+  - name: Vector Smart Object_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 758
+      y: 3414
+      width: 107
+      height: 117
+    spriteID: b1ef7cd30b4a1af4d860a2b63d573de2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -476, y: 2674}
+  - name: Vector Smart Object_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2896
+      y: 3414
+      width: 80
+      height: 81
+    spriteID: 77efcce8e6578ac4fac2aeaa987ef50c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1639, y: 2453}
+  - name: Unlock Unlimted Mode
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3797
+      y: 3082
+      width: 284
+      height: 22
+    spriteID: 62bd2645768cd404a80417bde97864bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2504, y: 2495}
+  - name: Travel Pass
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3019
+      y: 3193
+      width: 208
+      height: 43
+    spriteID: 514dcea447553604485e95356f774923
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1690, y: 2492}
+  - name: sticker_base-04 copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2327
+      y: 2973
+      width: 361
+      height: 130
+    spriteID: 2444b593248bee64882bdb76f31b8980
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1074, y: 2325}
+  - name: hair_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2583
+      y: 2647
+      width: 268
+      height: 313
+    spriteID: 2d22f1c6578e93147b036d215e12c881
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1271, y: 1923}
+  - name: bg_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2759
+      y: 1874
+      width: 315
+      height: 318
+    spriteID: 61dd056178907b546a1f2d7a08cfc0e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1482, y: 1150}
+  - name: Vector Smart Object_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1191
+      y: 3414
+      width: 103
+      height: 107
+    spriteID: 35f0edd60ff06f045939feebc543cea4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -327, y: 2655}
+  - name: Vector Smart Object_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 3246
+      width: 109
+      height: 134
+    spriteID: f1186195d7ebd0549b1483156f68e896
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -687, y: 2316}
+  - name: Finish a scene in  360 seconds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2789
+      y: 3246
+      width: 200
+      height: 58
+    spriteID: 1d42b3cd67abe1148a5f71577c37fea1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1455, y: 2695}
+  - name: No Stone  Unturned
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 940
+      y: 3246
+      width: 170
+      height: 84
+    spriteID: 6cca1277815a9cc4ea8149d8ecbeba27
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -408, y: 2564}
+  - name: sticker_base-01 copy_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2696
+      y: 2973
+      width: 354
+      height: 125
+    spriteID: 9fb49b76b0b60c849a3983d78472e963
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1437, y: 2320}
+  - name: hair_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2859
+      y: 2647
+      width: 258
+      height: 318
+    spriteID: 6b72078c1d0c73e4d8700549125822fa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1549, y: 1923}
+  - name: bg_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3082
+      y: 1874
+      width: 315
+      height: 318
+    spriteID: 9d09f73c1b0afc946bec7db72320de4e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1805, y: 1150}
+  - name: Vector Smart Object_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 3414
+      width: 101
+      height: 170
+    spriteID: 58103459a92501b40a4385c2452f1107
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1311, y: 2662}
+  - name: Vector Smart Object_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 3414
+      width: 104
+      height: 132
+    spriteID: 7729741706ea2c6478c846a83afcbf00
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -801, y: 2503}
+  - name: Finish a scene in  180 seconds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2997
+      y: 3246
+      width: 200
+      height: 58
+    spriteID: 520a51178a587f9469ee6c15598ae166
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1663, y: 2695}
+  - name: Fast Finds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2416
+      y: 3194
+      width: 191
+      height: 40
+    spriteID: c121009e6835765409b05b92e7064cf1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1079, y: 2492}
+  - name: sticker_base-02 copy 2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3632
+      y: 2547
+      width: 353
+      height: 90
+    spriteID: 08d27e1a14210264e94d15f27bd21b06
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2366, y: 1876}
+  - name: hair_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 2647
+      width: 280
+      height: 318
+    spriteID: 8dd895361ee5cec4ba7c80ace9d6b55b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1008, y: 1923}
+  - name: bg_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3405
+      y: 1874
+      width: 315
+      height: 318
+    spriteID: 4d028064464684a4cbf085935708954d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2128, y: 1150}
+  - name: Vector Smart Object_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3901
+      y: 3127
+      width: 143
+      height: 109
+    spriteID: 3c7aabe675f41d347bc11cc9f3cac3b2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2434, y: 2395}
+  - name: Vector Smart Object_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1083
+      y: 3414
+      width: 100
+      height: 111
+    spriteID: 2480701e1153bea409a17ef357567304
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -179, y: 2457}
+  - name: Finish a scene in  90 seconds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3205
+      y: 3246
+      width: 200
+      height: 58
+    spriteID: 2043cfb0dbfe66d4784a0d8690585b14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1871, y: 2695}
+  - name: Eagle-eyed
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3623
+      y: 3246
+      width: 187
+      height: 57
+    spriteID: 9f1fd416a83be464c96140a5ad49dcf9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2283, y: 2561}
+  - name: sticker_base-01 copy_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 633
+      y: 3127
+      width: 354
+      height: 111
+    spriteID: 969497988e5a8584a9f9c2da67b81308
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -632, y: 2475}
+  - name: Layer 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 1004
+      width: 284
+      height: 318
+    spriteID: 7ee3232380b7f61418232b9a667b2294
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2477, y: 280}
+  - name: bg_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3728
+      y: 1874
+      width: 315
+      height: 318
+    spriteID: 585a1137e60a60043b0bbc9bce150306
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2451, y: 1150}
+  - name: Finish 10 Subgames without using Hint
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2765
+      y: 3127
+      width: 246
+      height: 65
+    spriteID: 9be64c1accf33384d878cc91ccc630b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1453, y: 2583}
+  - name: Vector Smart Object_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 2222
+      width: 128
+      height: 179
+    spriteID: e7ce35f63476ebd4cbcff84fb55933ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2725, y: 1434}
+  - name: Vector Smart Object_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 550
+      y: 3414
+      width: 119
+      height: 107
+    spriteID: 67bddf90cbf8fc941b40f804d706c047
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -960, y: 2632}
+  - name: Vector Smart Object_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3139
+      y: 3414
+      width: 53
+      height: 81
+    spriteID: 311823853b498904598fd76fe52fb2d8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1629, y: 2427}
+  - name: Need No  Walkthrough
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 1330
+      width: 232
+      height: 105
+    spriteID: d5eb293d4ad39af419e3fa47312223cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2461, y: 658}
+  - name: sticker base-01 copy 2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 469
+      y: 2973
+      width: 356
+      height: 141
+    spriteID: 972bcf006faa0b947bc629e0ba8b0f91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -787, y: 2324}
+  - name: hair_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1744
+      y: 2647
+      width: 274
+      height: 316
+    spriteID: 07bda35ed8306044e89be9ddd82d8a6f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 442, y: 1923}
+  - name: bg_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2018
+      y: 2222
+      width: 315
+      height: 318
+    spriteID: 20dcf1870dccc9c4da33a670b8269fd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 741, y: 1498}
+  - name: Vector Smart Object_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2608
+      y: 3414
+      width: 93
+      height: 74
+    spriteID: ac2feffb726191f42940ab55c3dcd585
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1338, y: 2425}
+  - name: Vector Smart Object_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 677
+      y: 3414
+      width: 73
+      height: 172
+    spriteID: ad138d2e947875e429eeba2bfc6fb876
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -828, y: 2652}
+  - name: Vector Smart Object_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 3597
+      width: 77
+      height: 100
+    spriteID: ae39934aa4165ba438d9390e9c67df50
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1320, y: 2845}
+  - name: Vector Smart Object_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3647
+      width: 88
+      height: 154
+    spriteID: 5b6bd4f6379b4054db07c59580a2dc45
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1245, y: 2869}
+  - name: Find all Paris Trivia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2312
+      y: 3305
+      width: 231
+      height: 22
+    spriteID: c445468530abda44c9fb18ef4a66a0a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 993, y: 2718}
+  - name: Francophile
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3413
+      y: 3246
+      width: 202
+      height: 56
+    spriteID: 76d38ebe5625b774a99dffaacfd605d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2081, y: 2558}
+  - name: sticker_base-03 copy_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1583
+      y: 2973
+      width: 367
+      height: 136
+    spriteID: ba94722d64d30ba428c7796a3dab4c3d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 332, y: 2325}
+  - name: Vector Smart Object_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1622
+      y: 3512
+      width: 109
+      height: 76
+    spriteID: ba5bd658ef16de64798d3e89447f9501
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 127, y: 2538}
+  - name: hair_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2026
+      y: 2647
+      width: 271
+      height: 317
+    spriteID: 2f0669a0dd69ff04aa7afc95a4a5d493
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 726, y: 1923}
+  - name: bg_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2341
+      y: 2222
+      width: 315
+      height: 318
+    spriteID: a8e99e0c854a59f489462d5779898254
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1064, y: 1498}
+  - name: Complete  Collector's Edition copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1608
+      y: 3246
+      width: 226
+      height: 58
+    spriteID: b9c28c8f40141e34496ee127e65d2d5b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 287, y: 2695}
+  - name: Vector Smart Object_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 3246
+      width: 127
+      height: 152
+    spriteID: 63e5324cfcde01645811fc0cd046fe41
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -959, y: 2483}
+  - name: Vector Smart Object_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3993
+      y: 2547
+      width: 94
+      height: 88
+    spriteID: 35503b24618c5cb4b8fa3d5cc7bd7a14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2480, y: 1595}
+  - name: Vector Smart Object_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1302
+      y: 3414
+      width: 118
+      height: 93
+    spriteID: e485d2466936da644b5228dadceef074
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -145, y: 2676}
+  - name: Culinary Tourist
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3299
+      y: 3127
+      width: 280
+      height: 56
+    spriteID: b7a067f35bd75174fa3359ef8ceb3838
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2005, y: 2439}
+  - name: sticker_base-04 copy_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 2973
+      width: 361
+      height: 146
+    spriteID: 909ca82528ee6274cacadc758e52219d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1153, y: 2335}
+  - name: mouth_smile
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 874
+      y: 2647
+      width: 293
+      height: 301
+    spriteID: 23899c335e87a704999ae1497370c028
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -415, y: 1923}
+  - name: bg_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2664
+      y: 2222
+      width: 315
+      height: 318
+    spriteID: 8fb50ab511c46d7479742e72b142cc6c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1387, y: 1498}
+  - name: Vector Smart Object_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 873
+      y: 3414
+      width: 113
+      height: 101
+    spriteID: 15fc996e821db7b4ca78b2b2f1df0ed2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -377, y: 2586}
+  - name: Vector Smart Object_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3964
+      width: 82
+      height: 114
+    spriteID: e977b5996038e2349995ff9016b9baea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1510, y: 3033}
+  - name: Vector Smart Object_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3951
+      y: 3246
+      width: 102
+      height: 77
+    spriteID: a96dcb85f74a7604989be5d48ed131cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2463, y: 2495}
+  - name: "Saved H\xF4tel Hospitalit\xE9's reputation"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3310
+      y: 2548
+      width: 312
+      height: 65
+    spriteID: 88e60935bdae1224f8c2c1de4ecdd103
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2032, y: 2003}
+  - name: Article Approved!
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2018
+      y: 2548
+      width: 310
+      height: 56
+    spriteID: 70a771a8ee2ae824086414e5b5b16eb1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 741, y: 1860}
+  - name: sticker_base-01 copy_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 995
+      y: 3127
+      width: 354
+      height: 111
+    spriteID: f06ac774c6561e0478845c30908609e7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -264, y: 2470}
+  - name: 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2647
+      width: 277
+      height: 316
+    spriteID: 1adc7a23e92c4a349a67de4f0c1fdcb2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 167, y: 1923}
+  - name: bg_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2987
+      y: 2222
+      width: 315
+      height: 318
+    spriteID: adfe60fe99e5e0b4e90111ab09a109a0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1710, y: 1498}
+  - name: Vector Smart Object_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 3414
+      width: 99
+      height: 96
+    spriteID: 738ef70538480514da6fc08af5b8105b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 818, y: 2650}
+  - name: Vector Smart Object_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 3597
+      width: 89
+      height: 200
+    spriteID: 71dd9964ba961754ab62202ff2e55d7b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1417, y: 2855}
+  - name: Vector Smart Object_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2984
+      y: 3414
+      width: 75
+      height: 74
+    spriteID: 215317cb0c7821b4a9ca928fba828ff8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1672, y: 2418}
+  - name: Together in Paris
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2083
+      y: 3127
+      width: 325
+      height: 62
+    spriteID: 4f6595ff219a43d4781e317bf98dba41
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 811, y: 2442}
+  - name: sticker base-01 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3433
+      y: 2973
+      width: 356
+      height: 113
+    spriteID: aaa36f71674d7b247a24c08ce610a9f8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2176, y: 2315}
+  - name: 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3643
+      y: 2647
+      width: 218
+      height: 291
+    spriteID: c6bd394a4b7a7eb4083abf89a3751d1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2270, y: 1917}
+  - name: 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 3127
+      width: 163
+      height: 279
+    spriteID: 1616d650224b6ba4db0f0c74c9ce7739
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1185, y: 2397}
+  - name: Ellipse 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 4
+      width: 306
+      height: 308
+    spriteID: a8f0df1d6e472834a802f5ea7457bdb1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2495, y: -726}
+  - name: Check in at the hotel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3780
+      y: 643
+      width: 255
+      height: 22
+    spriteID: 45e9c05078a2d014c9e7ea9868842d0d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2472, y: 55}
+  - name: active_card
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3362
+      y: 4
+      width: 410
+      height: 666
+    spriteID: 9ec17f522b64d3a4e9eb595a1d4161d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2132, y: -466}
+  - name: Play More to Unlock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3125
+      y: 2927
+      width: 247
+      height: 28
+    spriteID: 5965b340c9f77984fb22a4e20256ae39
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1367, y: 2240}
+  - name: Vector Smart Object_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3362
+      y: 678
+      width: 410
+      height: 666
+    spriteID: 3a15a476431ed4940a57c3ec2cd3e855
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1686, y: 208}
+  - name: Play More to Unlock copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2973
+      width: 88
+      height: 666
+    spriteID: b7ade9af28b6d274a824d3cc831fba6d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2570, y: 2503}
+  - name: Play More to Unlock copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2018
+      y: 1548
+      width: 410
+      height: 666
+    spriteID: c5d984c15c3ee8e40a9d7e38a1e9bc4a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -107, y: 1078}
+  - name: Some Enticing and Encouraging Message here, Play more please
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3797
+      y: 2973
+      width: 281
+      height: 101
+    spriteID: ed28434cdb00b2c40a054b3539ddb253
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2906, y: 2468}
+  - name: 16/16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2369
+      y: 3414
+      width: 136
+      height: 57
+    spriteID: 8739b0a7c4ba26b47bffce842538f8eb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1418, y: 2754}
+  - name: Achievements
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2416
+      y: 3127
+      width: 341
+      height: 59
+    spriteID: dd07fe8d31e55f1419d6aba9ecf48c28
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1563, y: 2088}
+  - name: trophy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3125
+      y: 2647
+      width: 272
+      height: 272
+    spriteID: 169b0f7265041d6439f8bb05831da18f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2243, y: 1917}
+  - name: Achievements Message
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3362
+      y: 1352
+      width: 347
+      height: 173
+    spriteID: 20913c4468c26e54fab5b7274e0ff57a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2504, y: 882}
+  - name: UI dock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1548
+      width: 2006
+      height: 1091
+    spriteID: 74422e90353521847925d29e1d9a4471
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -725, y: 1309}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3350
+      height: 1536
+    spriteID: a065b559029954c40b38505e815a6b5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 1
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 1
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 2
+    compressionQuality: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 4096
+  importedTextureHeight: 4096
+  documentSize: {x: 3350, y: 1536}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: '16 '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2691
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4a77b64f3fd058545969b8736d941b7a
+    layerID: 2693
+    mosaicPosition: {x: 2513, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b3616d58f69054948a7ae2f1cc9ea947
+    layerID: 2694
+    mosaicPosition: {x: 4020, y: 1330}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4ca3afd84d0451d4da40e257bba59ac0
+    layerID: 2695
+    mosaicPosition: {x: 3067, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 20a04e8e6db760f4a927e75a942644d7
+    layerID: 2696
+    mosaicPosition: {x: 197, y: 3705}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2a210129a38146c49b8dabe1b556c6de
+    layerID: 2697
+    mosaicPosition: {x: 2080, y: 3246}
+  - name: Complete a  Pairs Game Mode
+    spriteName: Complete a  Pairs Game Mode
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a6f3395dcf307054bbc0fc4a1bf988fb
+    layerID: 2685
+    mosaicPosition: {x: 2567, y: 3246}
+  - name: Two of a Kind
+    spriteName: Two of a Kind
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 777df098508108c478340a3aa36d7375
+    layerID: 2684
+    mosaicPosition: {x: 2312, y: 3246}
+  - name: sticker_base-03 copy
+    spriteName: sticker_base-03 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 255c6c5fdabe09247a5ae4a04d409808
+    layerID: 2698
+    mosaicPosition: {x: 833, y: 2973}
+  - name: Layer 37
+    spriteName: Layer 37
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9124d8cad2262c44cb97f86410ba76dd
+    layerID: 2878
+    mosaicPosition: {x: 3869, y: 2647}
+  - name: Layer 36
+    spriteName: Layer 36
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5e65927526ec55a4fb350f91a6bbb9d7
+    layerID: 2877
+    mosaicPosition: {x: 3405, y: 2647}
+  - name: bg
+    spriteName: bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 09b5ea85449aa5242969ffd5e113b9ba
+    layerID: 2709
+    mosaicPosition: {x: 2436, y: 1548}
+  - name: 15
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2247
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_5
+    isGroup: 0
+    parentIndex: 12
+    spriteID: cf8e571850fc2fb4380ae5486c6a0238
+    layerID: 2700
+    mosaicPosition: {x: 321, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_6
+    isGroup: 0
+    parentIndex: 12
+    spriteID: ca8430e8384df7344aa84fbdce70af11
+    layerID: 2701
+    mosaicPosition: {x: 4, y: 3809}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_7
+    isGroup: 0
+    parentIndex: 12
+    spriteID: e312e6cb9d097dd488b177619418771d
+    layerID: 2702
+    mosaicPosition: {x: 2060, y: 3518}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_8
+    isGroup: 0
+    parentIndex: 12
+    spriteID: dcfeb79378806c64ba5172a74baa059e
+    layerID: 2703
+    mosaicPosition: {x: 2807, y: 3414}
+  - name: Complete a  No Vowels Game Mode
+    spriteName: Complete a  No Vowels Game Mode
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 0704c928913fb54409a72ea50506fd33
+    layerID: 2242
+    mosaicPosition: {x: 2664, y: 2548}
+  - name: A-E-I-Oh-Yeah!
+    spriteName: A-E-I-Oh-Yeah!
+    isGroup: 0
+    parentIndex: 12
+    spriteID: fbbd0590732b88f4aaa3e34686f73e1b
+    layerID: 2237
+    mosaicPosition: {x: 3587, y: 3127}
+  - name: sticker_base-04 copy
+    spriteName: sticker_base-04 copy
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 9d0d36f0c61c9f64ab6d3c0ce631c104
+    layerID: 2704
+    mosaicPosition: {x: 1958, y: 2973}
+  - name: hair
+    spriteName: hair
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 241ebeee165fb1744afeb11b082c0ebf
+    layerID: 2876
+    mosaicPosition: {x: 583, y: 2647}
+  - name: bg
+    spriteName: bg_1
+    isGroup: 0
+    parentIndex: 12
+    spriteID: f954fc1c9fedbd149a7fc2a6c265b2d5
+    layerID: 2714
+    mosaicPosition: {x: 2759, y: 1548}
+  - name: 14
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2181
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_9
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9ac8d7f77923bb540819b788ec513c7d
+    layerID: 2715
+    mosaicPosition: {x: 1511, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 935824396ff4f244abe439a3ce1789fc
+    layerID: 2716
+    mosaicPosition: {x: 1746, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_11
+    isGroup: 0
+    parentIndex: 22
+    spriteID: efdb5ba12e5857d43bd3f6b5e4b70488
+    layerID: 2717
+    mosaicPosition: {x: 2268, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_12
+    isGroup: 0
+    parentIndex: 22
+    spriteID: e4a145dc69c33a749a0dc093f87e1101
+    layerID: 2718
+    mosaicPosition: {x: 2167, y: 3414}
+  - name: Complete a  Scramble Game Mode
+    spriteName: Complete a  Scramble Game Mode
+    isGroup: 0
+    parentIndex: 22
+    spriteID: f00cba2e7b38b4443a9285644c010b05
+    layerID: 2179
+    mosaicPosition: {x: 3019, y: 3127}
+  - name: Anagram Master
+    spriteName: Anagram Master
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 199109f2a84ab5b4c92c576c657462cf
+    layerID: 2178
+    mosaicPosition: {x: 2341, y: 2548}
+  - name: sticker_base-01 copy
+    spriteName: sticker_base-01 copy
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4eb36736bcc423f4db431cba5956d890
+    layerID: 2719
+    mosaicPosition: {x: 1357, y: 3127}
+  - name: hair
+    spriteName: hair_1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7dbb1b4f7e89a6c4a930637b8fa5a0c7
+    layerID: 2875
+    mosaicPosition: {x: 1175, y: 2647}
+  - name: Layer 38
+    spriteName: Layer 38
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 0fc1efaa53bdabf42ad3fd544aa974ab
+    layerID: 2720
+    mosaicPosition: {x: 3632, y: 2222}
+  - name: sticker_base-05 copy 2
+    spriteName: sticker_base-05 copy 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 779a024db9bf9c944aedfe4089351d05
+    layerID: 2874
+    mosaicPosition: {x: 3310, y: 2222}
+  - name: 13
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2136
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_13
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 1d91b0e1bafcd754fade00567841558e
+    layerID: 2725
+    mosaicPosition: {x: 1852, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_14
+    isGroup: 0
+    parentIndex: 33
+    spriteID: e3f953c4d769bda468fc9111c7f5874b
+    layerID: 2726
+    mosaicPosition: {x: 1953, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_15
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9f5023e04e5c03d4aabd05c3f1276c97
+    layerID: 2727
+    mosaicPosition: {x: 3818, y: 3246}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_16
+    isGroup: 0
+    parentIndex: 33
+    spriteID: d69fe3cb80fef7545abe3889b39a35a5
+    layerID: 2728
+    mosaicPosition: {x: 100, y: 3414}
+  - name: Complete a  Collection Game Mode
+    spriteName: Complete a  Collection Game Mode
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 2adeb33c7024000498068bc670a92ad3
+    layerID: 2133
+    mosaicPosition: {x: 2987, y: 2548}
+  - name: Collect Them All!
+    spriteName: Collect Them All!
+    isGroup: 0
+    parentIndex: 33
+    spriteID: ec921433fa3dccf459be1dbf7981f41e
+    layerID: 2132
+    mosaicPosition: {x: 2083, y: 3197}
+  - name: sticker_base-02 copy 2
+    spriteName: sticker_base-02 copy 2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 0616e4f50e6bf9f42a7e260ea20f738a
+    layerID: 2729
+    mosaicPosition: {x: 3058, y: 2973}
+  - name: Layer 40
+    spriteName: Layer 40
+    isGroup: 0
+    parentIndex: 33
+    spriteID: a1867af28c81ce049abecb4ab05ef2b3
+    layerID: 2873
+    mosaicPosition: {x: 4, y: 2647}
+  - name: Layer 39
+    spriteName: Layer 39
+    isGroup: 0
+    parentIndex: 33
+    spriteID: ca665505dc56cd345a0a96752f629921
+    layerID: 2734
+    mosaicPosition: {x: 3082, y: 1548}
+  - name: 12
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2090
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_17
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 8a0d477bf02aa414abd0ed4278501166
+    layerID: 2735
+    mosaicPosition: {x: 1302, y: 3515}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_18
+    isGroup: 0
+    parentIndex: 43
+    spriteID: d36c5eafbdc203749b6dc89fbcfd8ddc
+    layerID: 2736
+    mosaicPosition: {x: 994, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_19
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 20d60072e42868e4eab3ec2f0468fdbb
+    layerID: 2737
+    mosaicPosition: {x: 676, y: 3246}
+  - name: Complete a  Riddle Game Mode
+    spriteName: Complete a  Riddle Game Mode
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 604772b413727e24aad808364e8b9908
+    layerID: 2087
+    mosaicPosition: {x: 1368, y: 3246}
+  - name: Riddle Me This
+    spriteName: Riddle Me This
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 35c6da42dccda2c429848820aab1c006
+    layerID: 2086
+    mosaicPosition: {x: 3299, y: 3191}
+  - name: sticker_base-01 copy
+    spriteName: sticker_base-01 copy_1
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 6f8f2cde41f8984419dc5a8500ec16c6
+    layerID: 2738
+    mosaicPosition: {x: 271, y: 3127}
+  - name: hair
+    spriteName: hair_2
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 1c7fd21db6545ae469586fb70f3d6455
+    layerID: 2872
+    mosaicPosition: {x: 3780, y: 678}
+  - name: bg
+    spriteName: bg_2
+    isGroup: 0
+    parentIndex: 43
+    spriteID: 604739863477bf54f9230537efa23694
+    layerID: 2743
+    mosaicPosition: {x: 3405, y: 1548}
+  - name: 11
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2048
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_20
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 331232613b803c54ea9688d2ee8e13bd
+    layerID: 2744
+    mosaicPosition: {x: 3954, y: 2409}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_21
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 822c31962f32d084eaf202dfc0b76159
+    layerID: 2745
+    mosaicPosition: {x: 1622, y: 3414}
+  - name: Complete a  Picture Game Mode
+    spriteName: Complete a  Picture Game Mode
+    isGroup: 0
+    parentIndex: 52
+    spriteID: ea52d4db9d19dbb449f3fa9ed62a5295
+    layerID: 2042
+    mosaicPosition: {x: 1118, y: 3246}
+  - name: Picture Perfect
+    spriteName: Picture Perfect
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 6b20b6ccea916fb4692a82e7cb3461d4
+    layerID: 2041
+    mosaicPosition: {x: 3587, y: 3186}
+  - name: sticker base-01 copy 2
+    spriteName: sticker base-01 copy 2
+    isGroup: 0
+    parentIndex: 52
+    spriteID: ffd1c3cc4609ca54fa1451650090e483
+    layerID: 2746
+    mosaicPosition: {x: 1719, y: 3127}
+  - name: hair
+    spriteName: hair_3
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 92143252face5314985776f1a9718891
+    layerID: 2871
+    mosaicPosition: {x: 3780, y: 320}
+  - name: bg
+    spriteName: bg_3
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 80245fc674e98fe4cbaa2852688626b2
+    layerID: 2751
+    mosaicPosition: {x: 3728, y: 1548}
+  - name: 10
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1996
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_22
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 4213d5b436344c645b106e94a5be9ecd
+    layerID: 2752
+    mosaicPosition: {x: 2709, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_23
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 864df012120c4c34db0abf1ed6a58394
+    layerID: 2753
+    mosaicPosition: {x: 1428, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_24
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 3c12c9b63d1586d42bbb00e0b9226ffd
+    layerID: 2754
+    mosaicPosition: {x: 3717, y: 1352}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_25
+    isGroup: 0
+    parentIndex: 60
+    spriteID: e6148d829383fe64198989ca68c54e63
+    layerID: 2755
+    mosaicPosition: {x: 1852, y: 3529}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_26
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 0de3022218b61134897be8c1e3d9024f
+    layerID: 2756
+    mosaicPosition: {x: 282, y: 3597}
+  - name: Complete a Silhouette Game Mode
+    spriteName: Complete a Silhouette Game Mode
+    isGroup: 0
+    parentIndex: 60
+    spriteID: a5ebd2cf54531ff42a8516820ffbb1ee
+    layerID: 1991
+    mosaicPosition: {x: 3780, y: 1443}
+  - name: Shadow Play
+    spriteName: Shadow Play
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 319d1741e03d7a04788cd687cfe20324
+    layerID: 1986
+    mosaicPosition: {x: 1842, y: 3246}
+  - name: sticker_base-03 copy
+    spriteName: sticker_base-03 copy_1
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 33ecaf2875503894f8eeadce10925b8f
+    layerID: 2757
+    mosaicPosition: {x: 1208, y: 2973}
+  - name: hair
+    spriteName: hair_4
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 3e89e721525dff54ebfc4abbd52eaaff
+    layerID: 2870
+    mosaicPosition: {x: 2305, y: 2647}
+  - name: Layer 41
+    spriteName: Layer 41
+    isGroup: 0
+    parentIndex: 60
+    spriteID: cb91b799ca5a88c41acc42b58cf391c2
+    layerID: 2762
+    mosaicPosition: {x: 2436, y: 1874}
+  - name: 9
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1843
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_27
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 5257f46255e2bfe4ea1bd966fc334daa
+    layerID: 2763
+    mosaicPosition: {x: 406, y: 3246}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_28
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 26e423fe1c836e34f88fae033a0082b6
+    layerID: 2764
+    mosaicPosition: {x: 786, y: 3246}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_29
+    isGroup: 0
+    parentIndex: 71
+    spriteID: b1ef7cd30b4a1af4d860a2b63d573de2
+    layerID: 2765
+    mosaicPosition: {x: 758, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_30
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 77efcce8e6578ac4fac2aeaa987ef50c
+    layerID: 2766
+    mosaicPosition: {x: 2896, y: 3414}
+  - name: Unlock Unlimted Mode
+    spriteName: Unlock Unlimted Mode
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 62bd2645768cd404a80417bde97864bf
+    layerID: 1842
+    mosaicPosition: {x: 3797, y: 3082}
+  - name: Travel Pass
+    spriteName: Travel Pass
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 514dcea447553604485e95356f774923
+    layerID: 1834
+    mosaicPosition: {x: 3019, y: 3193}
+  - name: sticker_base-04 copy
+    spriteName: sticker_base-04 copy_1
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 2444b593248bee64882bdb76f31b8980
+    layerID: 2767
+    mosaicPosition: {x: 2327, y: 2973}
+  - name: hair
+    spriteName: hair_5
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 2d22f1c6578e93147b036d215e12c881
+    layerID: 2869
+    mosaicPosition: {x: 2583, y: 2647}
+  - name: bg
+    spriteName: bg_4
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 61dd056178907b546a1f2d7a08cfc0e3
+    layerID: 2773
+    mosaicPosition: {x: 2759, y: 1874}
+  - name: 8
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1789
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_31
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 35f0edd60ff06f045939feebc543cea4
+    layerID: 2774
+    mosaicPosition: {x: 1191, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_32
+    isGroup: 0
+    parentIndex: 81
+    spriteID: f1186195d7ebd0549b1483156f68e896
+    layerID: 2776
+    mosaicPosition: {x: 559, y: 3246}
+  - name: Finish a scene in  360 seconds
+    spriteName: Finish a scene in  360 seconds
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 1d42b3cd67abe1148a5f71577c37fea1
+    layerID: 1785
+    mosaicPosition: {x: 2789, y: 3246}
+  - name: No Stone  Unturned
+    spriteName: No Stone  Unturned
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 6cca1277815a9cc4ea8149d8ecbeba27
+    layerID: 1784
+    mosaicPosition: {x: 940, y: 3246}
+  - name: sticker_base-01 copy
+    spriteName: sticker_base-01 copy_2
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 9fb49b76b0b60c849a3983d78472e963
+    layerID: 2775
+    mosaicPosition: {x: 2696, y: 2973}
+  - name: hair
+    spriteName: hair_6
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 6b72078c1d0c73e4d8700549125822fa
+    layerID: 2868
+    mosaicPosition: {x: 2859, y: 2647}
+  - name: bg
+    spriteName: bg_5
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 9d09f73c1b0afc946bec7db72320de4e
+    layerID: 2781
+    mosaicPosition: {x: 3082, y: 1874}
+  - name: 7
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1750
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_33
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 58103459a92501b40a4385c2452f1107
+    layerID: 2782
+    mosaicPosition: {x: 212, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_34
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 7729741706ea2c6478c846a83afcbf00
+    layerID: 2783
+    mosaicPosition: {x: 438, y: 3414}
+  - name: Finish a scene in  180 seconds
+    spriteName: Finish a scene in  180 seconds
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 520a51178a587f9469ee6c15598ae166
+    layerID: 1747
+    mosaicPosition: {x: 2997, y: 3246}
+  - name: Fast Finds
+    spriteName: Fast Finds
+    isGroup: 0
+    parentIndex: 89
+    spriteID: c121009e6835765409b05b92e7064cf1
+    layerID: 1746
+    mosaicPosition: {x: 2416, y: 3194}
+  - name: sticker_base-02 copy 2
+    spriteName: sticker_base-02 copy 2_1
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 08d27e1a14210264e94d15f27bd21b06
+    layerID: 2784
+    mosaicPosition: {x: 3632, y: 2547}
+  - name: hair
+    spriteName: hair_7
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 8dd895361ee5cec4ba7c80ace9d6b55b
+    layerID: 2867
+    mosaicPosition: {x: 295, y: 2647}
+  - name: bg
+    spriteName: bg_6
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 4d028064464684a4cbf085935708954d
+    layerID: 2789
+    mosaicPosition: {x: 3405, y: 1874}
+  - name: 6
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1709
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_35
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 3c7aabe675f41d347bc11cc9f3cac3b2
+    layerID: 2790
+    mosaicPosition: {x: 3901, y: 3127}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_36
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 2480701e1153bea409a17ef357567304
+    layerID: 2791
+    mosaicPosition: {x: 1083, y: 3414}
+  - name: Finish a scene in  90 seconds
+    spriteName: Finish a scene in  90 seconds
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 2043cfb0dbfe66d4784a0d8690585b14
+    layerID: 1708
+    mosaicPosition: {x: 3205, y: 3246}
+  - name: Eagle-eyed
+    spriteName: Eagle-eyed
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 9f1fd416a83be464c96140a5ad49dcf9
+    layerID: 1704
+    mosaicPosition: {x: 3623, y: 3246}
+  - name: sticker_base-01 copy
+    spriteName: sticker_base-01 copy_3
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 969497988e5a8584a9f9c2da67b81308
+    layerID: 2792
+    mosaicPosition: {x: 633, y: 3127}
+  - name: Layer 43
+    spriteName: Layer 43
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 7ee3232380b7f61418232b9a667b2294
+    layerID: 2866
+    mosaicPosition: {x: 3780, y: 1004}
+  - name: bg
+    spriteName: bg_7
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 585a1137e60a60043b0bbc9bce150306
+    layerID: 2797
+    mosaicPosition: {x: 3728, y: 1874}
+  - name: 5
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1663
+    mosaicPosition: {x: 0, y: 0}
+  - name: Finish 10 Subgames without using Hint
+    spriteName: Finish 10 Subgames without using Hint
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 9be64c1accf33384d878cc91ccc630b8
+    layerID: 1658
+    mosaicPosition: {x: 2765, y: 3127}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_37
+    isGroup: 0
+    parentIndex: 105
+    spriteID: e7ce35f63476ebd4cbcff84fb55933ae
+    layerID: 2798
+    mosaicPosition: {x: 3954, y: 2222}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_38
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 67bddf90cbf8fc941b40f804d706c047
+    layerID: 2799
+    mosaicPosition: {x: 550, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_39
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 311823853b498904598fd76fe52fb2d8
+    layerID: 2800
+    mosaicPosition: {x: 3139, y: 3414}
+  - name: Need No  Walkthrough
+    spriteName: Need No  Walkthrough
+    isGroup: 0
+    parentIndex: 105
+    spriteID: d5eb293d4ad39af419e3fa47312223cf
+    layerID: 1657
+    mosaicPosition: {x: 3780, y: 1330}
+  - name: sticker base-01 copy 2
+    spriteName: sticker base-01 copy 2_1
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 972bcf006faa0b947bc629e0ba8b0f91
+    layerID: 2801
+    mosaicPosition: {x: 469, y: 2973}
+  - name: hair
+    spriteName: hair_8
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 07bda35ed8306044e89be9ddd82d8a6f
+    layerID: 2865
+    mosaicPosition: {x: 1744, y: 2647}
+  - name: bg
+    spriteName: bg_8
+    isGroup: 0
+    parentIndex: 105
+    spriteID: 20dcf1870dccc9c4da33a670b8269fd4
+    layerID: 2806
+    mosaicPosition: {x: 2018, y: 2222}
+  - name: 4
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1599
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_40
+    isGroup: 0
+    parentIndex: 114
+    spriteID: ac2feffb726191f42940ab55c3dcd585
+    layerID: 2807
+    mosaicPosition: {x: 2608, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_41
+    isGroup: 0
+    parentIndex: 114
+    spriteID: ad138d2e947875e429eeba2bfc6fb876
+    layerID: 2808
+    mosaicPosition: {x: 677, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_42
+    isGroup: 0
+    parentIndex: 114
+    spriteID: ae39934aa4165ba438d9390e9c67df50
+    layerID: 2809
+    mosaicPosition: {x: 197, y: 3597}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_43
+    isGroup: 0
+    parentIndex: 114
+    spriteID: 5b6bd4f6379b4054db07c59580a2dc45
+    layerID: 2810
+    mosaicPosition: {x: 4, y: 3647}
+  - name: Find all Paris Trivia
+    spriteName: Find all Paris Trivia
+    isGroup: 0
+    parentIndex: 114
+    spriteID: c445468530abda44c9fb18ef4a66a0a3
+    layerID: 1595
+    mosaicPosition: {x: 2312, y: 3305}
+  - name: Francophile
+    spriteName: Francophile
+    isGroup: 0
+    parentIndex: 114
+    spriteID: 76d38ebe5625b774a99dffaacfd605d5
+    layerID: 1594
+    mosaicPosition: {x: 3413, y: 3246}
+  - name: sticker_base-03 copy
+    spriteName: sticker_base-03 copy_2
+    isGroup: 0
+    parentIndex: 114
+    spriteID: ba94722d64d30ba428c7796a3dab4c3d
+    layerID: 2811
+    mosaicPosition: {x: 1583, y: 2973}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_44
+    isGroup: 0
+    parentIndex: 114
+    spriteID: ba5bd658ef16de64798d3e89447f9501
+    layerID: 2812
+    mosaicPosition: {x: 1622, y: 3512}
+  - name: hair
+    spriteName: hair_9
+    isGroup: 0
+    parentIndex: 114
+    spriteID: 2f0669a0dd69ff04aa7afc95a4a5d493
+    layerID: 2864
+    mosaicPosition: {x: 2026, y: 2647}
+  - name: bg
+    spriteName: bg_9
+    isGroup: 0
+    parentIndex: 114
+    spriteID: a8e99e0c854a59f489462d5779898254
+    layerID: 2817
+    mosaicPosition: {x: 2341, y: 2222}
+  - name: 3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1541
+    mosaicPosition: {x: 0, y: 0}
+  - name: Complete  Collector's Edition copy
+    spriteName: Complete  Collector's Edition copy
+    isGroup: 0
+    parentIndex: 125
+    spriteID: b9c28c8f40141e34496ee127e65d2d5b
+    layerID: 1574
+    mosaicPosition: {x: 1608, y: 3246}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_45
+    isGroup: 0
+    parentIndex: 125
+    spriteID: 63e5324cfcde01645811fc0cd046fe41
+    layerID: 2818
+    mosaicPosition: {x: 271, y: 3246}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_46
+    isGroup: 0
+    parentIndex: 125
+    spriteID: 35503b24618c5cb4b8fa3d5cc7bd7a14
+    layerID: 2819
+    mosaicPosition: {x: 3993, y: 2547}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_47
+    isGroup: 0
+    parentIndex: 125
+    spriteID: e485d2466936da644b5228dadceef074
+    layerID: 2820
+    mosaicPosition: {x: 1302, y: 3414}
+  - name: Culinary Tourist
+    spriteName: Culinary Tourist
+    isGroup: 0
+    parentIndex: 125
+    spriteID: b7a067f35bd75174fa3359ef8ceb3838
+    layerID: 1520
+    mosaicPosition: {x: 3299, y: 3127}
+  - name: sticker_base-04 copy
+    spriteName: sticker_base-04 copy_2
+    isGroup: 0
+    parentIndex: 125
+    spriteID: 909ca82528ee6274cacadc758e52219d
+    layerID: 2821
+    mosaicPosition: {x: 100, y: 2973}
+  - name: mouth_smile
+    spriteName: mouth_smile
+    isGroup: 0
+    parentIndex: 125
+    spriteID: 23899c335e87a704999ae1497370c028
+    layerID: 2863
+    mosaicPosition: {x: 874, y: 2647}
+  - name: bg
+    spriteName: bg_10
+    isGroup: 0
+    parentIndex: 125
+    spriteID: 8fb50ab511c46d7479742e72b142cc6c
+    layerID: 2826
+    mosaicPosition: {x: 2664, y: 2222}
+  - name: 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1507
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_48
+    isGroup: 0
+    parentIndex: 134
+    spriteID: 15fc996e821db7b4ca78b2b2f1df0ed2
+    layerID: 2858
+    mosaicPosition: {x: 873, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_49
+    isGroup: 0
+    parentIndex: 134
+    spriteID: e977b5996038e2349995ff9016b9baea
+    layerID: 2859
+    mosaicPosition: {x: 4, y: 3964}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_50
+    isGroup: 0
+    parentIndex: 134
+    spriteID: a96dcb85f74a7604989be5d48ed131cd
+    layerID: 2860
+    mosaicPosition: {x: 3951, y: 3246}
+  - name: "Saved H\xF4tel Hospitalit\xE9's reputation"
+    spriteName: "Saved H\xF4tel Hospitalit\xE9's reputation"
+    isGroup: 0
+    parentIndex: 134
+    spriteID: 88e60935bdae1224f8c2c1de4ecdd103
+    layerID: 1477
+    mosaicPosition: {x: 3310, y: 2548}
+  - name: Article Approved!
+    spriteName: Article Approved!
+    isGroup: 0
+    parentIndex: 134
+    spriteID: 70a771a8ee2ae824086414e5b5b16eb1
+    layerID: 1476
+    mosaicPosition: {x: 2018, y: 2548}
+  - name: sticker_base-01 copy
+    spriteName: sticker_base-01 copy_4
+    isGroup: 0
+    parentIndex: 134
+    spriteID: f06ac774c6561e0478845c30908609e7
+    layerID: 2861
+    mosaicPosition: {x: 995, y: 3127}
+  - name: 4
+    spriteName: 4
+    isGroup: 0
+    parentIndex: 134
+    spriteID: 1adc7a23e92c4a349a67de4f0c1fdcb2
+    layerID: 2862
+    mosaicPosition: {x: 1459, y: 2647}
+  - name: bg
+    spriteName: bg_11
+    isGroup: 0
+    parentIndex: 134
+    spriteID: adfe60fe99e5e0b4e90111ab09a109a0
+    layerID: 2832
+    mosaicPosition: {x: 2987, y: 2222}
+  - name: 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2661
+    mosaicPosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_51
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 738ef70538480514da6fc08af5b8105b
+    layerID: 2833
+    mosaicPosition: {x: 2060, y: 3414}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_52
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 71dd9964ba961754ab62202ff2e55d7b
+    layerID: 2834
+    mosaicPosition: {x: 100, y: 3597}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_53
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 215317cb0c7821b4a9ca928fba828ff8
+    layerID: 2836
+    mosaicPosition: {x: 2984, y: 3414}
+  - name: Together in Paris
+    spriteName: Together in Paris
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 4f6595ff219a43d4781e317bf98dba41
+    layerID: 2658
+    mosaicPosition: {x: 2083, y: 3127}
+  - name: sticker base-01 copy
+    spriteName: sticker base-01 copy
+    isGroup: 0
+    parentIndex: 143
+    spriteID: aaa36f71674d7b247a24c08ce610a9f8
+    layerID: 2835
+    mosaicPosition: {x: 3433, y: 2973}
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: 143
+    spriteID: c6bd394a4b7a7eb4083abf89a3751d1a
+    layerID: 2856
+    mosaicPosition: {x: 3643, y: 2647}
+  - name: 2
+    spriteName: 2
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 1616d650224b6ba4db0f0c74c9ce7739
+    layerID: 2857
+    mosaicPosition: {x: 100, y: 3127}
+  - name: Ellipse 2
+    spriteName: Ellipse 2
+    isGroup: 0
+    parentIndex: 143
+    spriteID: a8f0df1d6e472834a802f5ea7457bdb1
+    layerID: 2842
+    mosaicPosition: {x: 3780, y: 4}
+  - name: Check in at the hotel
+    spriteName: Check in at the hotel
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 45e9c05078a2d014c9e7ea9868842d0d
+    layerID: 2653
+    mosaicPosition: {x: 3780, y: 643}
+  - name: active_card
+    spriteName: active_card
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ec17f522b64d3a4e9eb595a1d4161d6
+    layerID: 2850
+    mosaicPosition: {x: 3362, y: 4}
+  - name: Locked_card
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2847
+    mosaicPosition: {x: 0, y: 0}
+  - name: Play More to Unlock
+    spriteName: Play More to Unlock
+    isGroup: 0
+    parentIndex: 154
+    spriteID: 5965b340c9f77984fb22a4e20256ae39
+    layerID: 2846
+    mosaicPosition: {x: 3125, y: 2927}
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_54
+    isGroup: 0
+    parentIndex: 154
+    spriteID: 3a15a476431ed4940a57c3ec2cd3e855
+    layerID: 2849
+    mosaicPosition: {x: 3362, y: 678}
+  - name: base
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1429
+    mosaicPosition: {x: 0, y: 0}
+  - name: Play More to Unlock copy 2
+    spriteName: Play More to Unlock copy 2
+    isGroup: 0
+    parentIndex: 157
+    spriteID: b7ade9af28b6d274a824d3cc831fba6d
+    layerID: 2854
+    mosaicPosition: {x: 4, y: 2973}
+  - name: Play More to Unlock copy
+    spriteName: Play More to Unlock copy
+    isGroup: 0
+    parentIndex: 157
+    spriteID: c5d984c15c3ee8e40a9d7e38a1e9bc4a
+    layerID: 2855
+    mosaicPosition: {x: 2018, y: 1548}
+  - name: Some Enticing and Encouraging Message here, Play more please
+    spriteName: Some Enticing and Encouraging Message here, Play more please
+    isGroup: 0
+    parentIndex: 157
+    spriteID: ed28434cdb00b2c40a054b3539ddb253
+    layerID: 1399
+    mosaicPosition: {x: 3797, y: 2973}
+  - name: 16/16
+    spriteName: 16/16
+    isGroup: 0
+    parentIndex: 157
+    spriteID: 8739b0a7c4ba26b47bffce842538f8eb
+    layerID: 1398
+    mosaicPosition: {x: 2369, y: 3414}
+  - name: Achievements
+    spriteName: Achievements
+    isGroup: 0
+    parentIndex: 157
+    spriteID: dd07fe8d31e55f1419d6aba9ecf48c28
+    layerID: 1381
+    mosaicPosition: {x: 2416, y: 3127}
+  - name: trophy
+    spriteName: trophy
+    isGroup: 0
+    parentIndex: 157
+    spriteID: 169b0f7265041d6439f8bb05831da18f
+    layerID: 2851
+    mosaicPosition: {x: 3125, y: 2647}
+  - name: Achievements Message
+    spriteName: Achievements Message
+    isGroup: 0
+    parentIndex: 157
+    spriteID: 20913c4468c26e54fab5b7274e0ff57a
+    layerID: 2852
+    mosaicPosition: {x: 3362, y: 1352}
+  - name: UI dock
+    spriteName: UI dock
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 74422e90353521847925d29e1d9a4471
+    layerID: 2853
+    mosaicPosition: {x: 4, y: 1548}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a065b559029954c40b38505e815a6b5f
+    layerID: 1297
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  generateGOHierarchy: 0
+  textureAssetName: ho_02 Texture
+  prefabAssetName: ho_02 Prefab
+  spriteLibAssetName: ho_02 Sprite Lib
+  secondarySpriteTextures: []

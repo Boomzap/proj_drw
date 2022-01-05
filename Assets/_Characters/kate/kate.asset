@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c3de0d58a714e4baf825900c80de96, type: 3}
+  m_Name: kate
+  m_EditorClassIdentifier: 
+  useFont: {fileID: 11400000, guid: ade3b1047587338468675f271e17e0c6, type: 2}
+  characterColor: {r: 1, g: 1, b: 1, a: 1}
+  firstName: Kate
+  lastName: Robinson
+  characterRef:
+    m_AssetGUID: 6f30905c18327d843a74f7a23ee90e87
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _guid:
+    GuidPart1: 1904443034
+    GuidPart2: 1219071299
+    GuidPart3: -1297472105
+    GuidPart4: 2088872049

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vendor-Alawar
+  m_EditorClassIdentifier: 
+  m_GroupName: Vendor-Alawar
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2f056ec17085de6498910a024392f28d
+  m_SerializeEntries:
+  - m_GUID: 1a98784ca89f3f6418d6783c5246cddb
+    m_Address: Assets/_Textures/Splash/splash_screen_alawar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VendorSplash
+    m_MainAsset: {fileID: 2800000, guid: 1a98784ca89f3f6418d6783c5246cddb, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1a98784ca89f3f6418d6783c5246cddb, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a88a4afc44dcbca49b9fb7cb15ef877d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a988cfc593688dc4dab5ca583fdfebdf, type: 2}
+    - {fileID: 11400000, guid: 9403a3e3c4705704d8c6ca64880a6e1a, type: 2}

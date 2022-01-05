@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8512c54a704744d95498d2c27f9965, type: 3}
+  m_Name: RandomAudioRotate
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9e9890d25f283944787c93d468b01352, type: 3}
+  - {fileID: 8300000, guid: 82fdd98e340dd664badfd326713a4357, type: 3}
+  - {fileID: 8300000, guid: e90bd9ded725369408659bf5b6a21ef1, type: 3}
+  - {fileID: 8300000, guid: ba25a5aba2fd5c94fb7de0080c8def9f, type: 3}
+  - {fileID: 8300000, guid: c10b375702277da40bb29e18555bf9f3, type: 3}
+  doNotRepeatCurrent: 0

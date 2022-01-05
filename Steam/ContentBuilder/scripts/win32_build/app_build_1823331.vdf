@@ -1,0 +1,15 @@
+"appbuild"
+{
+	"appid"	"1823330"
+	"desc" "Faircroft's Antiques 5 Win32" // description for this build
+	"buildoutput" "..\..\output\win32_build\" // build output folder for .log, .csm & .csd files, relative to location of this file
+	"contentroot" "..\..\content\win32_build\" // root content folder, relative to location of this file
+	"setlive"	"beta" // branch to set live after successful build, non if empty
+	"preview" "0" // to enable preview builds
+	"local"	""	// set to flie path of local content server 
+	
+	"depots"
+	{
+		"1823331" "depot_build_1823331.vdf"
+	}
+}

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15950621485776896
+    m_Localized: Menu capitoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: Trova e fai clic sugli oggetti nascosti nella scena!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: Torna al menu principale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: Tornare al menu illimitato?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: Torna al capitolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: Tornare alla selezione capitoli?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: Procedere?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: "Per garantire che non ci siano oggetti nascosti al di fuori dell'area
+      giocabile nella risoluzione selezionata, \xE8 necessario azzerare i progressi
+      di [count] scene."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: Nome non valido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: "Esiste gi\xE0 un profilo con questo nome."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: Inserisci un carattere valido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: N. max profili
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: Hai raggiunto il numero massimo di profili consentito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: Elimina profilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: Vuoi davvero eliminare il profilo selezionato?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: Sfondo salvato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: 'Sfondo salvato nel percorso: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: Fai clic per passare da un pezzo corretto all'altro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: Fai clic per ruotare i pezzi nella posizione corretta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: Fai clic e scambia i pezzi per metterli nella posizione corretta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: Fai clic per scambiare o ruotare i pezzi nella posizione corretta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: "Trova le immagini pi\xF9 piccole nel collage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: Trova le differenze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: Fai clic e trascina i pezzi per completare il puzzle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Fai clic su due oggetti alla volta per abbinarli.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Fai clic su due oggetti alla volta per abbinarli.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: "Questa \xE8 la schermata dell'elenco capitoli. Scegli un capitolo
+      da giocare."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: Menu capitoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: Trova e fai clic sugli oggetti nascosti nella scena!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: "Questo \xE8 il moltiplicatore di punti. Pi\xF9 sarai veloce a trovare
+      gli oggetti, pi\xF9 alto sar\xE0 il moltiplicatore!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: Fai clic sul primo livello che hai sbloccato per rigiocarlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: "Modalit\xE0 Illimitata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: "Seleziona una modalit\xE0 di gioco, poi premi Gioca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: "Modalit\xE0 Illimitata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: "Hai sbloccato la modalit\xE0 Illimitata. Fai clic qui per giocarci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: Illimitata sbloccata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: In alcune scene ci sono delle stanze nascoste che vanno sbloccate.
+      Trascina l'oggetto-chiave sulla stanza per sbloccarla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Usa l'aiuto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: Gli oggetti piccoli sono difficili da trovare. Puoi usare una lente
+      d'ingrandimento, la rotellina del mouse o fare doppio clic per ingrandire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: Moltiplicatore di punti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: Sblocca stanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: "Modalit\xE0 Normale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: Pezzi rimanenti
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,555 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AllBuilds
+  m_EditorClassIdentifier: 
+  m_GroupName: AllBuilds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ffefef0e482a4514e85c8103aa35c570
+  m_SerializeEntries:
+  - m_GUID: 2c56098ae5a9f24449f75475d2e10942
+    m_Address: MainMenuWorld
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI World
+  - m_GUID: 7b8ffbfc1e366f64d920adec747c1298
+    m_Address: ChapterWorld
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI World
+  - m_GUID: 6f30905c18327d843a74f7a23ee90e87
+    m_Address: char_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 329d6f9173854cd4bbad35855224eea7
+    m_Address: char_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 6d94378a4ecd8cf489610921bc114824
+    m_Address: andrea
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 16fb616060e676743a1de44558f67d9f
+    m_Address: marcus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 3e758e403f69a634197a29ad9f994245
+    m_Address: giang
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 26388a36c1959bf4ea8e76a68d87a4dc
+    m_Address: hanh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 700059095355d5744b63e6b65462a97e
+    m_Address: stella
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 0a431896315e7d442a3888625772e5aa
+    m_Address: tayo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: db6c9b1afbf029d4dae55603161c1fa8
+    m_Address: giselle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 5f0418745e1b5be4fae5602e7c53817d
+    m_Address: jeanluc
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: c088b236ae26aac4abdb7d8aa6ac0f56
+    m_Address: ashley
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: c4340cfd15ad3d946bde29257ee99dfd
+    m_Address: ezra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 821fce551475484408fb609d1cb08ae0
+    m_Address: mohammed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+  - m_GUID: 41bb4c865b569ee45ab1c34decd85e80
+    m_Address: Assets/_Textures/UI/Text Graphic/commendation.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 233c53bb154f9c746b3826c36b8f9ae0
+    m_Address: Assets/_Textures/UI/Text Graphic/final_score.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af3c613844a4a844cb194152b123acb7
+    m_Address: Assets/_Textures/UI/Text Graphic/super_img.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13843ec3355853043a2c540d3f0e703f
+    m_Address: CTR_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 40914f360840a0f44ab8113401101ca7
+    m_Address: DET_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 25717e8bdfc60614cab8eef5b1373d5d
+    m_Address: cts_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 0a1bd16082dc9f24a85d53883e3039b9
+    m_Address: jig_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 2573cce692b30984c9901fa9091a2f7d
+    m_Address: SOR_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: ec5509c469a486d4eb813c613bd5e0fc
+    m_Address: ctc_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 462838b2e62a8c8408877f395d1c2144
+    m_Address: dif_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 6a3a34a6a2750e043a5d13532e70477e
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e98ffff6e00b91947901ab74529ebe18
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6072918f0b42f040b9aa81ee1f9da66
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92adfe10434b566468314f87938ba7cf
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46361ea01dc0cc642813f1df9d18ede7
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8565438e88bcf25428e1cc5be6b5a15d
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e799ab27c74bbdb40888622e1276186c
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e82db7f6aabc7045b4e1034963a0bbd
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96203c3ff6737e842b0c4334594ed29a
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49ce933d0cf195345bb7e4cb17798cd9
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d8898f040234f14588b12b8023b5e1a
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c3623eec90e11046a0d1fb544efea6c
+    m_Address: Assets/_Textures/UI/Wallpapers/wallpaper12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b36b341d86ac6fb4da0ff7ff0ae67c6d
+    m_Address: SUD_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 02582b2892944a243acdee1cb5b9e367
+    m_Address: ho_01_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: db8a9f30ae71fc94bbe3153d0d3adf1b
+    m_Address: ho_01_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: a6e197fbe2879054287a4b2c6b32c6c4
+    m_Address: PAI_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 478eb875c7f8a874a8e9d6033c5d16d1
+    m_Address: ho_03_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: c9f9ee71dfa94124ba8d69e1c17e9d5b
+    m_Address: ho_03_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 1001ce1447c1f894c8d022482c2b4b46
+    m_Address: ho_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: f0a3099286807dc45a444c87118379a3
+    m_Address: ho_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: d0fe3c79527bc214597931561a27309c
+    m_Address: ho_04_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 2cf5abb5de5e1fd469f45cc1e3bf764f
+    m_Address: ho_04_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: dba901cc89f6a3645a2fd452b2dd02f8
+    m_Address: ho_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 0dee7c7bfa27eba40bddb5f8f2061ed8
+    m_Address: ho_05_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: bf05f6ef5c510a943b5ff03a18fbf9f4
+    m_Address: ho_05_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 6b17e70c9a6ea1c4b9326308433cb0f0
+    m_Address: ho_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 2f01117cf8a60c64db237763d52a9b93
+    m_Address: ho_06_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 8351db4165f3cf447ae6e91085a64879
+    m_Address: ho_06_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: c19a5dd828b7dd84f843ecba5a4ed56c
+    m_Address: ho_07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: ace1ea196f91c9141a38fb520dec8af7
+    m_Address: ho_07_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 6ce7e9ce09485aa4085b3690bbd1f445
+    m_Address: ho_07_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 61371bda05f528c4b966322af7a1d860
+    m_Address: ho_09_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 4d8fc55233570434fbe08e6306204e05
+    m_Address: ho_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: ae61563b38a5974459c1235396801406
+    m_Address: ho_09_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 8edbb413f61c70d478ca2d81a9bc4eaa
+    m_Address: SEW_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 9cac4a7d453a5eb4e81e22b37c1ee2ca
+    m_Address: ho_08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: ac54bd676f6ad7b41b85d75494f76c7a
+    m_Address: ho_08_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 8dd5cba148570e647ab4b0fe012a2154
+    m_Address: ho_08_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 4d4036d1dc7a8a64ab9af748bc0d1aa9
+    m_Address: ho_10_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: fd2be88fcab23504fb92c15b9c075586
+    m_Address: ho_10_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 9d6fdf016f5182c41af85360d959dc09
+    m_Address: ho_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: a3a0cf0c19060164a8ccc1818acbb46c
+    m_Address: ho_11_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: d09201a890003f6498e9000fa04cef8f
+    m_Address: ho_11_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: ed2a3bbdc3280a94a81aba68a14b7541
+    m_Address: ho_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: cfbb5090134ad91448283384e6b8fd74
+    m_Address: ho_12_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 8ec68471bbf59b246a351773170f97fe
+    m_Address: ho_12_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 08ad21618de63b447a18e72f2b33e6a5
+    m_Address: ho_12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: f88d2a301300856468574989e66bd582
+    m_Address: ho_13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: fce2cf459797c4b4ebb6c068182b913c
+    m_Address: ho_13_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 4cbea1fac441a8141ab08a64d2f621de
+    m_Address: ho_13_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 97ea8f6dded0d2946ba0f3f6632ac08c
+    m_Address: ho_14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 80237b0adb1e6a745b46c6b23a2c5d5d
+    m_Address: ho_14_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 3c0e50a778528b9439d20fa293d7c2ed
+    m_Address: ho_14_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 1c5dae14af0451545bc62b2bcbb56a05
+    m_Address: ho_15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 82d09de331a810241be5fb02e9cee2cf
+    m_Address: ho_15_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: cd269598e5a111a49ab8987b14b087eb
+    m_Address: ho_15_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: acfada955f95d1248b6e2ef675c6f933
+    m_Address: ho_18
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 8ccec1f21e2652f46916265f402515ef
+    m_Address: ho_18_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: b2e5ed928d90f0544aa721c0d7b74091
+    m_Address: ho_18_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: dbae2de3ed2b8734dadf2547522d1fd8
+    m_Address: ho_20
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 4bb6253312f64a044a725be23db5d269
+    m_Address: ho_20_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 57afec75a00e6c04b81f91d82a3599b6
+    m_Address: ho_20_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 3df0b2e9fcb8fdb43942472a2e6f190b
+    m_Address: ho_21_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 647090b8ae380ed43a1c8f68990c2729
+    m_Address: ho_21_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 6f98f1992fd88ef4497a3b18397442b3
+    m_Address: ho_21
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: f5188c29dd30a7840a175a5d9cc8c46b
+    m_Address: ho_22
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 6f6f316b6661b754b8f9de7279b43487
+    m_Address: ho_22_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: bf49e10628bd5824b92f85e35f840fa4
+    m_Address: ho_22_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 53a464a129721534f8d8c165f02e0486
+    m_Address: ho_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: aaf679387a797394aa411481876cb315
+    m_Address: ho_02_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: ba9e5a7e003f2eb458166b724c9f1869
+    m_Address: ho_02_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 09527c8db5252a343a2fe244fea08479
+    m_Address: ho_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 7239d9f4a3a619d4fa4e66d65a57f772
+    m_Address: ho_19_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 00abb3c044c51664d82cc22d18e378ed
+    m_Address: ho_19_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: d1b9897edd46bfc47900654f72570e86
+    m_Address: ho_19
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 2d911e4f3d4fcad46bc216f23834c0e6
+    m_Address: ho_16_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: dc2651702e8e26d4f9ef66f7eef59651
+    m_Address: ho_16
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: e1c72d1380daf2f48b68d5b20275d35d
+    m_Address: ho_16_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 223bda73297c9804986a39fc96a51ff0
+    m_Address: ho_17
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: 810328b5aadfaf641a05a9acbe94f7c2
+    m_Address: ho_17_sub1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: e077cbc035f57c04d99c3d7d029ff96d
+    m_Address: ho_17_sub2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: b6b71ea0a878fb841beb546aacb4c528
+    m_Address: ho_17_sub3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HO Scene
+  - m_GUID: cb186342145feb340b7713b6edde76ab
+    m_Address: SOR_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  - m_GUID: 51424c45d526de048ae72a0e7cc4f784
+    m_Address: csr_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Minigame
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a88a4afc44dcbca49b9fb7cb15ef877d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 850894d74c4870c41bc087278a45804b, type: 2}
+    - {fileID: 11400000, guid: 3334c5737542db748adde3808c593676, type: 2}

@@ -1,0 +1,160 @@
+
+char_01_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyebrows_angry
+  rotate: false
+  xy: 171, 11
+  size: 82, 24
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+eyebrows_neutral
+  rotate: false
+  xy: 405, 12
+  size: 82, 14
+  orig: 82, 14
+  offset: 0, 0
+  index: -1
+eyebrows_puzzled
+  rotate: false
+  xy: 322, 6
+  size: 81, 20
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+eyebrows_sad
+  rotate: true
+  xy: 92, 109
+  size: 83, 22
+  orig: 83, 23
+  offset: 0, 0
+  index: -1
+eyebrows_surprised
+  rotate: true
+  xy: 676, 61
+  size: 85, 21
+  orig: 85, 21
+  offset: 0, 0
+  index: -1
+eyelids_closed
+  rotate: false
+  xy: 581, 4
+  size: 87, 26
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+eyelids_halfclosed
+  rotate: true
+  xy: 66, 72
+  size: 85, 24
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+eyelids_normal
+  rotate: false
+  xy: 75, 228
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+eyelids_wideopen
+  rotate: true
+  xy: 637, 48
+  size: 85, 37
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 239, 23
+  size: 111, 163
+  orig: 112, 164
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 10
+  size: 262, 244
+  orig: 263, 244
+  offset: 1, 0
+  index: -1
+mouth_deadpan
+  rotate: true
+  xy: 632, 135
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+mouth_laughing
+  rotate: true
+  xy: 351, 28
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+mouth_neutral
+  rotate: true
+  xy: 427, 28
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+mouth_ooo
+  rotate: true
+  xy: 345, 134
+  size: 119, 69
+  orig: 120, 70
+  offset: 1, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 416, 134
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+mouth_sad
+  rotate: true
+  xy: 492, 134
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 497, 28
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+mouth_smirk
+  rotate: true
+  xy: 562, 134
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+mouth_snide
+  rotate: true
+  xy: 567, 28
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+pupil_left
+  rotate: false
+  xy: 2, 240
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+pupil_right
+  rotate: false
+  xy: 15, 242
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

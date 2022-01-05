@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vendor-Gamigo
+  m_EditorClassIdentifier: 
+  m_GroupName: Vendor-Gamigo
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c0cec7ff1ea6d8448ffc4cfa74db2be
+  m_SerializeEntries:
+  - m_GUID: b54ab382e1dc4e14fafadce8f1fb1d44
+    m_Address: Assets/_Textures/Splash/splash_screen_gamigo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VendorSplash
+    m_MainAsset: {fileID: 2800000, guid: b54ab382e1dc4e14fafadce8f1fb1d44, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b54ab382e1dc4e14fafadce8f1fb1d44, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a88a4afc44dcbca49b9fb7cb15ef877d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c61357ba1db4ee46b98c72a27e52fb2, type: 2}
+    - {fileID: 11400000, guid: 062615ef0d357e24091a0785a77c0f3b, type: 2}

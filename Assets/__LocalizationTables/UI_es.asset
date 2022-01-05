@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 82580039689f0ad4496fa60112963773, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15950621485776896
+    m_Localized: "Men\xFA de cap\xEDtulos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16322109107814400
+    m_Localized: "\xA1Encuentra y pulsa sobre los objetos ocultos de la escena!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156169928704
+    m_Localized: "Volver al men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123008
+    m_Localized: "\xBFVolver al men\xFA ilimitado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123009
+    m_Localized: "Volver al Cap\xEDtulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123010
+    m_Localized: "\xBFVolver al cap\xEDtulo seleccionado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123011
+    m_Localized: "\xBFSeguro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123012
+    m_Localized: "Para garantizar que no queden objetos ocultos fuera de la zona
+      de juego con tu nueva resoluci\xF3n, debemos reiniciar el progreso de [n\xFAmero]
+      escenas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123013
+    m_Localized: "Nombre no v\xE1lido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123014
+    m_Localized: Ya existe un perfil con este nombre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123015
+    m_Localized: "Introduce un car\xE1cter v\xE1lido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123016
+    m_Localized: "Cantidad m\xE1x. de perfiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123017
+    m_Localized: "Has alcanzado el n\xFAmero m\xE1ximo de perfiles posibles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123018
+    m_Localized: Eliminar perfil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123019
+    m_Localized: "\xBFSeguro que quieres eliminar el perfil seleccionado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123020
+    m_Localized: Fondo guardado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543156174123021
+    m_Localized: 'El fondo se ha guardado en:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345857101824
+    m_Localized: Haz clic para girar las piezas correctas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073344
+    m_Localized: "Haz clic para girar las piezas y colocarlas en su orientaci\xF3n
+      adecuada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073345
+    m_Localized: "Haz clic e intercambia las piezas para colocarlas en su posici\xF3n
+      adecuada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073346
+    m_Localized: "Haz clic para intercambiar o girar las piezas y colocarlas en su
+      orientaci\xF3n adecuada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073347
+    m_Localized: "Encuentra las im\xE1genes m\xE1s peque\xF1as del collage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345878073348
+    m_Localized: Encuentra las diferencias.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267648
+    m_Localized: Haz clic y arrastra las piezas para completar el rompecabezas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267649
+    m_Localized: Haz clic sobre dos objetos para formar parejas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39550345882267652
+    m_Localized: Haz clic sobre dos objetos para formar parejas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383681
+    m_Localized: "Este es el men\xFA de cap\xEDtulos. Elige un cap\xEDtulo para jugar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646185453383680
+    m_Localized: "Men\xFA de cap\xEDtulos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646193972015105
+    m_Localized: "\xA1Encuentra y pulsa sobre los objetos ocultos de la escena!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880769
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646211562926080
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295425
+    m_Localized: "Esto es el multiplicador de puntuaci\xF3n. \xA1Cuanto m\xE1s r\xE1pido
+      encuentres los objetos, mayor ser\xE1 el multiplicador!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461057
+    m_Localized: Haz clic en el primer nivel que has desbloqueado para volver a jugar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646241212461056
+    m_Localized: Modo Ilimitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590465
+    m_Localized: "Selecciona un modo de juego y despu\xE9s pulsa Jugar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646247302590464
+    m_Localized: Modo Ilimitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403393
+    m_Localized: "Has desbloqueado el Modo ilimitado. Haz clic aqu\xED para jugar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646252889403392
+    m_Localized: Ilimitado desbloqueado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958465
+    m_Localized: "En algunas escenas hay habitaciones ocultas que hay que desbloquear.
+      Arrastra el elemento clave hasta la habitaci\xF3n para desbloquearla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318401
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646275337318400
+    m_Localized: Utilizar pista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224001
+    m_Localized: "Los objetos m\xE1s peque\xF1os pueden ser problem\xE1ticos. Puedes
+      utilizar la lupa para ampliar las zonas, o utilizar la rueda del rat\xF3n o
+      hacer doble clic para acercarte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646286452224000
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646232056295424
+    m_Localized: "Multiplicador de puntuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646266176958464
+    m_Localized: "Desbloquear habitaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40646203790880768
+    m_Localized: Modo normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005016484147200
+    m_Localized: Piezas restantes
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

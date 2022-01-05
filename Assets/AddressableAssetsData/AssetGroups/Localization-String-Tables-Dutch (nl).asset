@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Dutch (nl)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Dutch (nl)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4b352fae1c3752458e571d8321ed90d
+  m_SerializeEntries:
+  - m_GUID: 593472826e24db04d8273120f2355153
+    m_Address: Conversation_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  - m_GUID: 582a4b96e6d644745a40e820b733f57e
+    m_Address: Game_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  - m_GUID: acc8ff2be82319248a8d535ff83adf87
+    m_Address: UI_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  - m_GUID: 375a7f326ee89f54a97de9399df2a4f4
+    m_Address: SyncTable_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  - m_GUID: aed8018ef1200544fbe617b77f0db4fc
+    m_Address: MissingTranslations_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  - m_GUID: 9441bd88a7abd1442aa3f4520d470c44
+    m_Address: LocalizationBank_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a88a4afc44dcbca49b9fb7cb15ef877d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6a1ef2f178501ab438c21e4318db76c1, type: 2}
+    - {fileID: 11400000, guid: be679020ebeb53a4f880c6c18887a3b3, type: 2}

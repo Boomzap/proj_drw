@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MapPack
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d88347ead8de37c46917e8fe37b7a1df, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ee69a0916d0f7af4da3883693fc2eec1, type: 3}
+  - {fileID: 21300000, guid: 42a257c3a51bf5c4d8844c74fecdd7ee, type: 3}
+  - {fileID: 21300000, guid: eb71f1b474027d64586b91a7652d84f8, type: 3}
+  - {fileID: 21300000, guid: 820247250c564ad4e910a6b49fbc1654, type: 3}
+  - {fileID: 21300000, guid: 365987f7fdee1a84195c7443d5aaa948, type: 3}
+  - {fileID: 21300000, guid: 91772a89b1c6bb44688c6386c7e41fef, type: 3}
+  - {fileID: 21300000, guid: 736db5ac50d27d143af36e0c44336d1f, type: 3}
+  - {fileID: 21300000, guid: 4447ac0dae29c7640a037ad4cd3a093a, type: 3}
+  - {fileID: 21300000, guid: d3bef84ebaad09c468f6e942d650579a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - map_complete_tick
+  - map_tile_frame
+  - map_pointer
+  - map_tile_mask
+  - line_tex
+  - map_icon_boss
+  - map_puzzle
+  - line_cap
+  - map_icon_boss.sdf
+  m_RenderDataMap: {}
+  m_Tag: MapPack
+  m_IsVariant: 0

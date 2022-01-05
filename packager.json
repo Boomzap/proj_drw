@@ -1,0 +1,22 @@
+{
+  "jenkins_folder_name": "HO5",
+  "depth_expectation": 3,
+  "version_file": "version.txt",
+
+  "zip_structure": "boomzap_faircroftsantiques5_{version}_{2}_{1}.zip",
+  "dst_structure": "/Unity/HO5/build/{0}/",
+  "dst_root": "/Unity/HO5/build/",
+  
+  "comment": "HO5 builders structure: /vendor/os/flavor/",
+  
+  "os_structure": "{1}",
+  "flavor_structure": "{2}",
+  "vendor_structure": "{0}",
+  "version_structure": "{version}",
+  
+  "clean_build_dir": true,
+  "clean_zip": true,
+  "clean_dropbox": true,
+  
+  "no_touch_dirs": ["ios-appstore", "ios-appcenter", "android"]
+}

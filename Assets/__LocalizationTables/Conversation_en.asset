@@ -1,0 +1,2948 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conversation_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3a7b8f4c319dd6a4f9065a17fa5bc808, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36232212460417024
+    m_Localized: Found this truck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36558121033871360
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36573153650094080
+    m_Localized: Testing Conversation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36573153713008640
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36573153713008641
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36573153713008642
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36573153713008643
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646011566895104
+    m_Localized: First Conversation Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646011587866624
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646011587866625
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646011587866626
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646011587866627
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081389580288
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746112
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746113
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746114
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746115
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746116
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746117
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746118
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746119
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907081414746120
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907846195748864
+    m_Localized: Wow! This hotel is gorgeous! And everything looks so old! Even the
+      sign for the cafe! I wonder how old the main building is? 100 years? 200?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39907846208331776
+    m_Localized: Even older! How about a tour?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495425441792
+    m_Localized: "So you\u2019re the famous El\xE9onore Dupont, owner of the H\xF4tel
+      Mont Blanc?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495425441793
+    m_Localized: "Oui! And you must be the famous conservator, Mia Faircroft! You\u2019re
+      the one Madame Aletta hired to help go through Monsieur Jean-Baptiste\u2019s
+      belongings!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495429636096
+    m_Localized: "Yep, that\u2019s me! And, my goodness! I\u2019m supposed to be
+      meeting her now at the Lakeside Cafe! I better hurry!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495429636097
+    m_Localized: "Ah, I think that\u2019s her..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495433830400
+    m_Localized: "Pleasure to meet you, Miss Mia. I\u2019m Aletta Marchenaux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495433830401
+    m_Localized: Nice to meet you, Aletta! I have to say, you picked a wonderful
+      hotel to partner with!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909495438024704
+    m_Localized: "Right? There\u2019s this beautiful painting here, if you\u2019d
+      like to see..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682122301440
+    m_Localized: "Wow, you weren\u2019t kidding, this <b>is</b> beautiful! I\u2019m
+      so glad I took this job!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682122301441
+    m_Localized: "Haha! Good to see you so enthusiastic! Speaking of the job though,
+      when will you be ready to help me go through my dad\u2019s belongings?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682126495744
+    m_Localized: "He\u2019s got <b>tons</b> of stuff the Alpine Museum wants to add
+      to his exhibit, so it\u2019s best we start soon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682130690048
+    m_Localized: Oh, I have to pick up my grandma tomorrow, so could we start the
+      day after?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682130690049
+    m_Localized: "Sure, that\u2019s fine with me. Thanks again for coming to help
+      on such short notice."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909682134884352
+    m_Localized: "It\u2019s my pleasure! After all, it\u2019s not every day you get
+      to go through a legendary mountaineer\u2019s equipment!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909804432400384
+    m_Localized: "Grandma\u2019s train should arrive in a couple hours, so I\u2019ve
+      got time to get her flowers as a welcome gift. I\u2019m pretty sure I passed
+      a flower shop on the way to the hotel\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909804432400385
+    m_Localized: "Good morning! I\u2019m Monique, welcome to my flower shop! How
+      can I help you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909804436594688
+    m_Localized: "Do you have sunflowers? They\u2019re my grandma\u2019s favorite!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909909004787712
+    m_Localized: "Sorry, it looks like we don\u2019t have any sunflowers right now\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909909008982016
+    m_Localized: "Oh no\u2026 What should I give my grandma instead?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39909909008982017
+    m_Localized: "Hm\u2026 Wait here, I got something that might work. I have this
+      beautiful poster of a sunflower. Maybe your grandma would like this!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910027246411776
+    m_Localized: So what do you think?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910027246411777
+    m_Localized: "Well, it <b>is</b> gorgeous, but it might be a bit much\u2026 I\u2019ll
+      just make do without the gift. Thanks for the help though, Monique!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155789246464
+    m_Localized: Mia! Good to see you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155789246465
+    m_Localized: "Oh, so you\u2019re the Mia I\u2019ve heard so much about!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155793440768
+    m_Localized: Mia, meet Frank, my husband!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155793440769
+    m_Localized: <b>HUSBAND</b>!? Grandma, you remarried!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155797635072
+    m_Localized: Surprise! Frank and I got married last month. This trip is our honeymoon!
+      But enough of that, would you show us to the hotel, Mia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155797635073
+    m_Localized: "U-uh, yeah, sure. Let me take your bags, too. Wow, that is a <b>lot</b>
+      of flag stickers\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910155801829376
+    m_Localized: "Oh, yeah! There\u2019s a sticker for every place Alice and I will
+      visit!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910250874118144
+    m_Localized: "Mia, Alice tells me you\u2019re an antique restorer! Are you here
+      for work?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910250878312448
+    m_Localized: "Well, a famous mountaineer died recently, Jean-Baptiste Marchenaux.
+      He wanted to donate his important belongings to the local Alpine Museum and
+      I\u2019m here to help."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910250878312449
+    m_Localized: "Wow! I\u2019d love to hear more stories about your work, Mia! But
+      I\u2019m sure you\u2019re already busy. We wouldn\u2019t want to intrude..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910250882506752
+    m_Localized: "Let\u2019s have lunch when you\u2019re free, then?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39910250882506753
+    m_Localized: You got it, grandma!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911282043756544
+    m_Localized: There you are, Aletta. Should we get going already?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911282047950848
+    m_Localized: "Sorry, can we go in the afternoon? I\u2019ve still got work to
+      do\u2026 You can just meet me at Marchenaux Meadow later, and we\u2019ll head
+      to my dad's chateau together."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911282047950849
+    m_Localized: Got it! Goodbye for now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911282052145152
+    m_Localized: "Guess I\u2019ve got some free time now. Maybe I\u2019ll visit Sabriye
+      at her antique shop and thank her for referring me to this job."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407117901824
+    m_Localized: Sabriye! So good to see you again! By the way, nice sword!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407117901825
+    m_Localized: " Haha, thanks! But enough about that, how\u2019s the job going?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407122096128
+    m_Localized: "Actually, I\u2019m going to Jean-Baptiste\u2019s chateau with Aletta
+      later! I stopped by to thank you for the referral!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407122096129
+    m_Localized: "Oh, you should ask Charles to come with you. He\u2019s a local
+      goat farmer, and one of Jean-Baptiste\u2019s closest friends."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407126290432
+    m_Localized: Charles, huh? I should probably go look for him now then. Thanks,
+      Sabriye!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407126290433
+    m_Localized: "Oh, you there! Aide-moi, s'il te pla\xEEt! I need help finding
+      my goats!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911407130484736
+    m_Localized: What? Um, okay, sure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521173610496
+    m_Localized: Thanks for the help, Miss!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521177804800
+    m_Localized: "Oh, you can call me Mia. By the way, you wouldn\u2019t happen to
+      be Charles, would you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521181999104
+    m_Localized: "Oui, that\u2019s me! How\u2019d you know who I am?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521181999105
+    m_Localized: "Sabriye told me about you! I\u2019m visiting Jean-Baptiste\u2019s
+      chateau later to examine his belongings, and she said you could help me."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521186193408
+    m_Localized: "Oh, I\u2019d be more than happy to help!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911521186193409
+    m_Localized: "Great! I\u2019m just going to pick up Aletta, then I\u2019ll head
+      to Jean-Baptiste\u2019s chateau with her. See you then!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911600928301056
+    m_Localized: Hey Aletta! Ready to go?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911600932495360
+    m_Localized: "Hello Mia. I\u2019m ready, just had to shoo away some pigeons bothering
+      my guests."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911600932495361
+    m_Localized: "Let\u2019s get going then!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911600936689664
+    m_Localized: Alright, here we are. Sorry for the mess.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911600936689665
+    m_Localized: "It\u2019s no big deal. Your dad sure had a lot of stuff though,
+      huh? Guess I\u2019ve got my work cut out for me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911694641635328
+    m_Localized: Aletta, was your dad interested in art, by any chance?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911694645829632
+    m_Localized: Yeah, he took up painting a few years before he died. Why do you
+      ask?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911694645829633
+    m_Localized: Well, I came across a painting, and I was wondering if he made it.
+      Here, take a look.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803508989952
+    m_Localized: "Yeah, this is <b>definitely</b> one of his paintings. This style
+      \u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803508989953
+    m_Localized: "Aletta! I can\u2019t <b>believe</b> you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803513184256
+    m_Localized: Jeanne? What are you doing here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803513184257
+    m_Localized: What am <b>I</b> doing here? What are <b>you</b> doing, inviting
+      an outsider here without telling me first? Get out of here, now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803517378560
+    m_Localized: Sorry you had to see that, Mia. My little sister can be a little
+      crazy sometimes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803517378561
+    m_Localized: "You have a sister? Why didn\u2019t you tell her I would be helping?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803521572864
+    m_Localized: "...Let\u2019s just talk about it tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39911803521572865
+    m_Localized: "\u2026Okay, fine. Once I\u2019m done eating lunch with my grandma,
+      I want to hear <b>everything</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915677326221312
+    m_Localized: "Thinking about what happened yesterday is stressing me out\u2026
+      Maybe I\u2019ll do some cross-stitching and give Maria a call. That\u2019ll
+      help me unwind!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915677326221313
+    m_Localized: "Mia! How\u2019ve you been? Is Mont Cach\xE9 as beautiful as I hoped?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915677330415616
+    m_Localized: Every bit and more, Maria! I have so much to tell you about!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810554093568
+    m_Localized: "So yeah, I\u2019m pretty busy. Which is fine, but I wouldn\u2019t
+      mind a bit more free time for cross-stitching, y\u2019know?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810558287872
+    m_Localized: "I\u2019m seriously <b>never</b> going to get used to the fact that
+      you cross-stitch now\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810562482176
+    m_Localized: "Haha! Yeah, it\u2019s not very \u2018me,\u2019 is it? Anyway, I
+      finished what I was working on, so I should get going. Goodbye, Maria!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810562482177
+    m_Localized: "Oh! Excuse me! You\u2019re the customer who was looking for sunflowers
+      last time, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810566676480
+    m_Localized: "Oh, hello! Yes, that\u2019s me. I\u2019m Mia, by the way."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810566676481
+    m_Localized: Nice to meet you, Mia! Anyway, I just wanted to tell you that we
+      have sunflowers now! I can get you some once I finish my errand at the barber
+      shop!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915810570870784
+    m_Localized: "Oh, you don\u2019t have to! You look a little stressed out, though.
+      Let me help you out with your errand!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915912257576960
+    m_Localized: Alright, all the flower vases are refilled. Thanks, Mia! You know,
+      my dad owns the local auto museum. How about I take you tomorrow, as thanks?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915912261771264
+    m_Localized: An auto museum? Sounds great!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915912261771265
+    m_Localized: "Alright, I\u2019ll see you tomorrow!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915912265965568
+    m_Localized: Grandma! Sorry, were you waiting long?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39915912265965569
+    m_Localized: "Not at all, dear! Frank already ordered burgers for all of us,
+      I hope you don\u2019t mind!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039844110336
+    m_Localized: "So Frank, how\u2019d you and grandma meet?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039848304640
+    m_Localized: "Oh, I eat at your grandma\u2019s place almost every day! Went for
+      the best Chinese food I\u2019ve ever had, stayed for the most beautiful lady
+      in Minnesota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039848304641
+    m_Localized: Haha, grandma does make some good food, huh? Oh, but would you look
+      at the time! I need to meet with my client.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039852498944
+    m_Localized: "Already? Well, I suppose it can\u2019t be helped. Goodbye, Mia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039852498945
+    m_Localized: Mia! Perfect timing, I need your help getting Charles to listen
+      to me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039856693248
+    m_Localized: "I told you, I\u2019m busy looking for my house key! Je suis occup\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916039856693249
+    m_Localized: "Uh\u2026 Alright, how about we find your key first, then let\u2019s
+      talk?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175546621952
+    m_Localized: Ah, there it is! Merci, you two. Now, what is it you wanted to talk
+      about?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175550816256
+    m_Localized: "Why did you tell Jeanne about Mia? And don\u2019t say you didn\u2019t,
+      because I <b>know</b> you\u2019re the only person who would!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175550816257
+    m_Localized: "Aletta, you need to make up with Jeanne already. I mean, you can\u2019t
+      just leave your <b>sister</b> out of something like this! This fight you two
+      have is getting ridiculous!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175555010560
+    m_Localized: "Ugh, I <b>don\u2019t</b> need to hear this today\u2026 C\u2019mon
+      Mia, we\u2019re leaving."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175555010561
+    m_Localized: "So, uh, what\u2019s this about you two fighting?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916175559204864
+    m_Localized: "Let me tell you while I paint a bit. I need to destress\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279674413056
+    m_Localized: "That\u2019s a nice painting! Did your dad teach you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279678607360
+    m_Localized: No, I just watched and learned on my own time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279678607361
+    m_Localized: "I\u2026 never really got along with Jeanne. Dad liked her more
+      since they had the same hobbies, and I hated that. I felt left out, so I left
+      Mont Cach\xE9 as soon as I could."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279682801664
+    m_Localized: "Eventually, I came back. I asked dad for money to set up a business,
+      and he gave it to me. Jeanne didn\u2019t like that, and here we are."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279682801665
+    m_Localized: "Hm\u2026 How about I try talking to Jeanne for now? Maybe hearing
+      her side will let us figure out what we need to do!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916279686995968
+    m_Localized: "That\u2019d be a huge help, thank you. You can find Jeanne at the
+      Marchenaux Mountaineering Lodge. I hope it goes well!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916434997878784
+    m_Localized: I wonder if I should get Jeanne something before going to talk to
+      her? Maybe I can get something from the chocolate factory nearby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916520322605056
+    m_Localized: "Alright, this should be good. Let\u2019s get going!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916520326799360
+    m_Localized: "Hello! You\u2019re Jeanne Marchenaux, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916520326799361
+    m_Localized: "Oh, you\u2019re that person who was helping Aletta last time. What
+      are you doing here?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916520330993664
+    m_Localized: "Yep, that\u2019s me! You can just call me Mia, though. I want to
+      talk about what happened last time we met."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916520330993665
+    m_Localized: "Hm\u2026 I should be cleaning up the mountaineering gear that my
+      guests left lying around. If you help me with that, then we can talk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594209464320
+    m_Localized: "I\u2019m still upset about Aletta bringing you in without telling
+      me, but\u2026 You\u2019ve got quite the impressive resume, to say the least."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594213658624
+    m_Localized: "Thank you! So does that mean we\u2019re all good here? I can continue
+      my work?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594213658625
+    m_Localized: "I\u2019ll allow it on one condition: I want dad\u2019s painting.
+      The one from last time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594217852928
+    m_Localized: "Hm\u2026 Alright, I\u2019m sure we can figure something out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594217852929
+    m_Localized: Hey Monique! Sorry, did I keep you waiting?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594222047232
+    m_Localized: "Oh, hey Mia. No worries, I\u2019ve been busy since I got here.
+      Dad just had a new antique car come in, but it\u2019s all banged up\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916594222047233
+    m_Localized: "Let me take a look. I don\u2019t know if I told you, but I work
+      with antiques! This should be nothing for me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916683468447744
+    m_Localized: Incroyable! This car looks as good as new now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916683472642048
+    m_Localized: "Haha, I\u2019m glad you think so! By the way, I\u2019m guessing
+      you\u2019re Monique\u2019s dad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916683476836352
+    m_Localized: "Oui, that\u2019s right. My name\u2019s Hugo. Hugo Moreau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916683476836353
+    m_Localized: "Nice to meet you, Hugo. My name\u2019s Mia. I must say, you\u2019ve
+      got quite the collection here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39916683476836354
+    m_Localized: "You\u2019ve got a good eye! How about I show you around?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227926855680
+    m_Localized: "Wow, so you travel a lot for work, huh? Meanwhile my daughter here\u2019s
+      struggling to keep her flower shop out of the red!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227926855681
+    m_Localized: "Ugh. Dad, I know where this is going. I\u2019m <b>not</b> inheriting
+      Le Fromagerie de Monique!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227931049984
+    m_Localized: "I\u2019m just saying, if you inherit the fromagerie chain and get
+      a <b>real</b> job already, you\u2019d get to travel like Mia here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227935244288
+    m_Localized: Dad! Ugh, seriously, not today!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227935244289
+    m_Localized: "I wonder what that was about. I think I\u2019ll head back to my
+      hotel now\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227939438592
+    m_Localized: Oh, Mia! I was going to ask if you wanted to continue your tour
+      of the hotel, but you look pretty tired...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917227939438593
+    m_Localized: "Actually, I <b>was</b> tired, but now you\u2019ve got my interest!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326916624384
+    m_Localized: What are all these hummingbirds doing in your cafe?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326920818688
+    m_Localized: Well, when I first bought this hotel, it was all worn out, so it
+      was overrun with animals. I guess these hummingbirds still remember this place
+      as their home!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326925012992
+    m_Localized: "A customer! How exciting! Welcome to my hotel, I hope you\u2019re
+      enjoying your stay!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326925012993
+    m_Localized: "Come now, Leo. This isn\u2019t your hotel just yet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326929207296
+    m_Localized: "Haha! You got me there, El\xE9onore! I wanted to discuss remodelling
+      this cafe, but since you\u2019re busy..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917326933401600
+    m_Localized: "Oh, it\u2019s okay! You two can talk, I was hoping to get some
+      rest anyway. Goodbye, El\xE9onore!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917465911664640
+    m_Localized: "Hm, the museum should be right around the corner\u2026 Isn\u2019t
+      there anyone around I can ask for directions from?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917547646066688
+    m_Localized: "Charles! I didn\u2019t expect to see you here! What are you up
+      to?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917547650260992
+    m_Localized: "Hello, Mia! I was just off to buy a hat when I ran into my friend\u2019s
+      son Guy taking down some posters."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917547654455296
+    m_Localized: "Bonjour, Mia! You should help me take these posters down too! Here\u2019s
+      what they look like..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666189680640
+    m_Localized: Why are you taking these posters down?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666193874944
+    m_Localized: "My dad built this ski resort when I was a kid. He was very proud
+      of his work, but then this guy Leo bought the resort and got rid of everything
+      that made it special\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666193874945
+    m_Localized: "Leo\u2019s been ruining lots of local businesses ever since then.
+      He\u2019s even got his eyes set on Madame El\xE9onore\u2019s hotel next! I
+      think it\u2019s only fair to get back at him a little!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666198069248
+    m_Localized: "Now now Guy, that\u2019s enough. Mia probably came to us because
+      she needed help for something urgent."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666198069249
+    m_Localized: Right, I need to go to the Alpine Museum for work. Could you two
+      show me how to get there?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917666202263552
+    m_Localized: "\xC7a va, we\u2019ll show you the way."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917845491982336
+    m_Localized: Huh, they even have a collection of his used ski goggles here. Neat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917845491982337
+    m_Localized: "This museum already has a lot of Jean-Baptiste\u2019s old equipment,
+      but\u2026 There\u2019s not a single painting here. I don\u2019t think I can
+      let Jeanne have that painting\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917845496176640
+    m_Localized: What? The ski lodge? Right now? Well, I <b>was</b> working, but
+      I can head over. See you in a bit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921450827776
+    m_Localized: "Mia, there you are! You got a pen I can borrow? I wanted to take
+      you hiking, but it turns out you need a reservation, so I\u2019m setting one
+      right now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921450827777
+    m_Localized: "Uh, you can just ask the front desk for a pen, can\u2019t you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921455022080
+    m_Localized: "Well, I didn\u2019t want to ask since I got into a <b>bit</b> of
+      an argument with the receptionist over the reservation thing, but you\u2019re
+      right. I\u2019ll be right back, then!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921455022081
+    m_Localized: "Well, I guess I\u2019ll just be happy he wants to spend time with
+      me\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921459216384
+    m_Localized: "Alright, reservation set for the day after tomorrow! Now come on,
+      let\u2019s get something to eat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39917921459216385
+    m_Localized: "Order whatever you want, Mia! It\u2019s on me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127865110528
+    m_Localized: "I can\u2019t wait to go hiking with you! I don\u2019t think I told
+      you, but I used to serve here in the French Alps. It was a peaceful time though,
+      so I only have good memories from here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127865110529
+    m_Localized: "Uh huh\u2026 Listen, I should be going."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127869304832
+    m_Localized: "Are you sure you don\u2019t want to order anything first?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127869304833
+    m_Localized: "No, sorry, I really need to go. I wasn\u2019t able to finish my
+      work since you called me over so suddenly\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127873499136
+    m_Localized: "Well, if you say so! I\u2019ll see you the day after tomorrow,
+      Mia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918127877693440
+    m_Localized: "Well, I didn\u2019t get as much done today as I hoped, and it\u2019s
+      already pretty late\u2026 I\u2019ll just have to talk to Aletta tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918589309853696
+    m_Localized: Hey Aletta! Are you free right now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918589314048000
+    m_Localized: "Oh, hello Mia. Sorry, I\u2019m busy checking out the facade of
+      El\xE9onore\u2019s hotel. I\u2019m thinking of incorporating some of the hotel\u2019s
+      designs somewhere in Marchenaux Meadows..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918589318242304
+    m_Localized: In that case, let me help you out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660822736896
+    m_Localized: "Thanks for the help, Mia! I\u2019m still too busy to talk, though.
+      Could we meet tomorrow instead?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660826931200
+    m_Localized: "Sure, I\u2019ll just find something else to do. See you tomorrow!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660826931201
+    m_Localized: "Oh, hello there El\xE9onore! What are you up to today?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660831125504
+    m_Localized: "Bonjour, Mia! I have to run an errand at the local carpenter\u2019s,
+      and then I have a meeting with Leo after."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660831125505
+    m_Localized: "Would you like to come with me? I always appreciate good company!
+      Plus, maybe you\u2019ll be able to change Leo\u2019s mind about some of his\u2026
+      prejudices."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918660835319808
+    m_Localized: Sounds like a plan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918746982129664
+    m_Localized: Bonjour, you two! What can I help you with?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918746982129665
+    m_Localized: I was hoping to check up on that cabinet I left with you. Have you
+      finished repairing it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918746986323968
+    m_Localized: "Sorry, not yet. Got a bit held up after misplacing some of my tools.
+      I\u2019ll have it done by tonight!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918746986323969
+    m_Localized: I can help you out! Maybe having an extra pair of hands will help
+      you get things done faster!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821393276928
+    m_Localized: Incroyable! We finished that way faster than I thought we would!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821397471232
+    m_Localized: "Alright, now that we\u2019re done here, we can head back to the
+      hotel to meet with Leo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821397471233
+    m_Localized: "Oh man, you\u2019re meeting with Leo? Good luck\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821401665536
+    m_Localized: "Yeah, thanks Guy. Don\u2019t worry, I\u2019ll try to convince him
+      not to mess with El\xE9onore\u2019s hotel!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821401665537
+    m_Localized: "Bonjour, Leo. I hope you don\u2019t mind if my friend Mia here
+      joins us today?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918821405859840
+    m_Localized: "Hello, El\xE9onore! I suppose it\u2019s alright if she joins us.
+      Anyway, let\u2019s begin! No need to grab seats, I\u2019m sure we\u2019ll be
+      done shortly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894034427904
+    m_Localized: "I want you two to understand that I\u2019m trying to make the H\xF4tel
+      Mont Blanc an international phenomenon. Maintaining the H\xF4tel Mont Blanc\u2019s
+      current design\u2026 is not conducive to that."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894038622208
+    m_Localized: "On that note, I don\u2019t plan on using local businesses as suppliers
+      moving forward. I already have trusted business partners."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894038622209
+    m_Localized: "But these are all important to the hotel\u2019s identity! Surely
+      you could use that to market the hotel or something?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894042816512
+    m_Localized: Why should I, when I know my formula works perfectly? Sorry, but
+      your suggestions are <b>far</b> too amateur to consider. This discussion is
+      over.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894042816513
+    m_Localized: "...Well, I didn\u2019t expect much. Guess I should tell everyone
+      I work with the bad news. Could you inform Monique for me, Mia? I need to go
+      talk to Guy again\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894047010816
+    m_Localized: "Sure, I\u2019ll handle it. Take it easy, El\xE9onore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918894047010817
+    m_Localized: "Oh, hey Mia, perfect timing. I was just getting rid of some garden
+      pests, and I could really use a helping hand\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976104374272
+    m_Localized: "By the way, El\xE9onore asked me to tell you. Things didn\u2019t
+      go too well in her meeting with Leo, and he probably won\u2019t be ordering
+      from you in the future."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976104374273
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976108568576
+    m_Localized: You alright, Monique? You seem a bit out of it. Is this about what
+      happened last time with your dad?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976108568577
+    m_Localized: "Yeah. Dad really wants me to inherit his business, Le Fromagerie
+      de Monique, right? But I really don\u2019t want that! I want to stay and work
+      here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976112762880
+    m_Localized: "Maybe you can talk to him about this? I\u2019m sure he\u2019ll
+      at least hear you out, right? And I\u2019ll come too, if that helps!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39918976112762881
+    m_Localized: "Really? In that case, let\u2019s talk to him the day after tomorrow.
+      Thanks Mia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919098687102976
+    m_Localized: Hey Aletta, are you free to talk now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919098691297280
+    m_Localized: Yes. Sorry again about how busy I was yesterday.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919098691297281
+    m_Localized: "It\u2019s all good. Anyway, let me just grab a seat, and we can
+      get started."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203339182080
+    m_Localized: "So Jeanne won\u2019t stop unless she gets dad\u2019s painting,
+      huh? Well, I\u2019m sure you already know my answer to that!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203339182081
+    m_Localized: "Right. Let\u2019s talk to her about it tomorrow. I\u2019m sure
+      we can come up with a compromise!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203343376384
+    m_Localized: "I guess we don\u2019t have any other choice now..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203343376385
+    m_Localized: "Oh, hold on. Somebody\u2019s calling me."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203347570688
+    m_Localized: "Yeah, hi Frank. What\u2019s up? You want me to get you something
+      sweet for our hiking trip? Fine, okay, got it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919203347570689
+    m_Localized: Sorry Aletta, I gotta get going. Need to go to the chocolate factory
+      for an errand real quick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919285035835392
+    m_Localized: "Maybe I should get him a donut? No, let\u2019s take another look
+      around first. Maybe I\u2019ll find something better."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919285035835393
+    m_Localized: "Oh, hey, that\u2019s a nice painting there! How did I not notice
+      it earlier?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919364756971520
+    m_Localized: "Interesting\u2026 I can\u2019t believe they used such an elaborate
+      painting as an advertisement!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919364761165824
+    m_Localized: "Wait, how long did I spend looking at that painting? Shoot, I\u2019m
+      late! Argh, I\u2019ll just get that donut and get going already!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919364761165825
+    m_Localized: Okay, I should probably put on my hiking gear before I go to the
+      ski lift. Where are those rentals...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919436039168000
+    m_Localized: "Alright, I\u2019m all set. Let\u2019s hope I didn\u2019t keep grandma
+      and Frank waiting too long\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919436043362304
+    m_Localized: "Oh, Mia! You\u2019re finally here! Frank went ahead already."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919436043362305
+    m_Localized: "He did? Shoot\u2026 Maybe if we go now we can catch up with him!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919801535012864
+    m_Localized: Alice, Mia! How was it? I had a <b>great</b> time! I even saw some
+      wild eagles flying by!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919801539207168
+    m_Localized: "Oh, it was great! It\u2019s too bad we couldn\u2019t catch up to
+      you, though\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919801543401472
+    m_Localized: "Don\u2019t worry about it! We can always come again! Right, Mia?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919801547595776
+    m_Localized: "Uh\u2026 I\u2019m really busy with work lately, so I don\u2019t
+      think I\u2019ll have enough free time to go with you two."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39919801551790080
+    m_Localized: "Aw, that\u2019s too bad... But if it\u2019s work, I guess it can\u2019t
+      be helped. You\u2019ll just need to finish your work faster so you can spend
+      time with us!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920132847280128
+    m_Localized: "Good morning Aletta, El\xE9onore! What\u2019s that you guys have
+      got there?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920132851474432
+    m_Localized: "Oh, this is just a chandelier I had uninstalled recently. I was
+      about to have it sent into storage. You can take a closer look, if you\u2019d
+      like."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920241513308160
+    m_Localized: By the way Mia, where will we be meeting later?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920241517502464
+    m_Localized: "I was hoping we could speak at your dad\u2019s chateau. I just
+      need to tell Jeanne before I run some other errands I have."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920241517502465
+    m_Localized: "Hey, you. You\u2019re that person who was with El\xE9onore two
+      days ago, correct? I need to speak with you. Meet me at the docks."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920241525891072
+    m_Localized: "Okay, that was weird\u2026 I should go see what he needs from me.
+      Sorry Aletta, can you tell Jeanne about later for me? I feel like this might
+      take a while\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920241530085376
+    m_Localized: I guess I have no choice. See you later, Mia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317807697920
+    m_Localized: "Okay, you\u2019re here, perfect. Let me just send this text, and\u2026
+      There we go. So anyway, Mia, thanks for coming. I want to talk business with
+      you."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317811892224
+    m_Localized: "I\u2019ll be frank: stop interfering with my business deal. I know
+      you and El\xE9onore want to keep the hotel as it is, but I\u2019ve made it
+      perfectly clear that I can\u2019t have that. Give it up already."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317816086528
+    m_Localized: "Wow, okay. I get it, I\u2019ll back off..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317816086529
+    m_Localized: Hey Monique, sorry I took so long. I had to speak with Leo, and
+      it was  <b>not</b> pretty.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317820280832
+    m_Localized: "Oh, okay\u2026 You\u2019re still going to accompany me to talk
+      to my dad though, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920317820280833
+    m_Localized: "Of course! Let\u2019s get going!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389295415296
+    m_Localized: Bonjour, you two! Come to see this little toy taxi one of the local
+      kids donated?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389299609600
+    m_Localized: "No, dad. I\u2019m here to tell you that I want to stay in Mont
+      Cach\xE9. I know you don\u2019t think my flower shop can support that, but
+      I want you to trust me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389303803904
+    m_Localized: "Talk is cheap. Prove to me that you can be financially stable,
+      and I\u2019ll listen. I\u2019ll even do anything you ask for if you think it\u2019ll
+      help save your little flower shop. Promis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389303803905
+    m_Localized: "I\u2019m giving you a week, but this is your last chance. If you
+      can\u2019t pull this off, you\u2019re going to Paris, and you\u2019re managing
+      the family fromagerie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389303803906
+    m_Localized: "A week\u2026 I need to think about this\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920389307998208
+    m_Localized: "That was rough\u2026 I hope things with Aletta and Jeanne go better\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920471981924352
+    m_Localized: Oh, perfect, you two are here already. Did you guys start talking
+      without me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920471981924353
+    m_Localized: "Yes, we did. I was just telling Jeanne how she <b>obviously</b>
+      can\u2019t have that painting. Though of course, she <b>refuses</b> to listen
+      to me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920471986118656
+    m_Localized: Why should I listen to a spoiled brat like you? Dad gave you everything
+      you ever wanted, so of <b>course</b> you want this too! I <b>deserve</b> that
+      painting!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920471986118657
+    m_Localized: "That\u2019s rich coming from you! You spent your whole life by
+      dad\u2019s side, and that <b>still</b> wasn\u2019t enough for you! Grow up
+      already and give up that painting!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920471990312960
+    m_Localized: "Today just isn\u2019t my day, huh? Maybe I\u2019ll do a bit of
+      cross-stitching and give Maria a call when I get back to the hotel..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920549870149632
+    m_Localized: "And then they just blew up at each other! Ugh, everything that
+      could\u2019ve gone wrong today went wrong\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920549870149633
+    m_Localized: "That sounds <b>awful</b>! I wish I could do something for you\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920549874343936
+    m_Localized: "I guess I just have to do my best and hope that\u2019ll be enough\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920549874343937
+    m_Localized: "I\u2019m sure it will be! If anyone can fix this, it\u2019s you,
+      Mia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920755881779200
+    m_Localized: "Alright. If I want to fix things, I need to talk to Aletta and
+      Jeanne again. Aletta should be somewhere here right now\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920755881779201
+    m_Localized: "Oh. Hello Mia, I\u2019m guessing you want to talk about what happened
+      yesterday? Let me just finish some errands first."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920825708552192
+    m_Localized: "Okay, that\u2019s everything. Thanks, Mia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920825712746496
+    m_Localized: "No problem. Although, you\u2019ve been running errands here a lot
+      lately, haven\u2019t you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920825712746497
+    m_Localized: "Yeah. Things would be much simpler for me if El\xE9onore wasn\u2019t
+      selling her hotel to Leo, but I know she\u2019s getting old already. She can\u2019t
+      take care of this hotel forever\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920825716940800
+    m_Localized: "But anyway, let\u2019s talk at Marchenaux Meadows. Watching the
+      hot air balloons fly by helps me calm down, and Lord knows I need all the help
+      I can get..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903051517952
+    m_Localized: "You know, this hot air balloon business\u2026 I didn\u2019t start
+      it just because I missed Mont Cach\xE9. I started it because I missed my family."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903059906560
+    m_Localized: "Sure, I hated how Jeanne was dad\u2019s favorite, but I wanted
+      to move on from that. So I came home, and I started this business with dad\u2019s
+      help."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903064100864
+    m_Localized: I thought being together would help us finally get along. But instead
+      of welcoming me home, Jeanne got mad at me! As if it was wrong for dad to finally
+      pay attention to me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903064100865
+    m_Localized: "I\u2019m sure she had some reason to react like that... In fact,
+      I\u2019ll go talk to her and figure things out for you."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903068295168
+    m_Localized: "Oh, it\u2019s you. Sorry, I\u2019m busy cleaning up some equipment,
+      so I can\u2019t talk right now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920903072489472
+    m_Localized: Let me help you then. We can talk after.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920982906871808
+    m_Localized: There we go. Thanks for your help, Mia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920982911066112
+    m_Localized: "No problem! So anyway, I wanted to talk to you about what happened
+      yesterday\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39920982911066113
+    m_Localized: "Alright. Before that, there\u2019s a certain painting I\u2019d
+      like to show you. I think it might help you understand where I\u2019m coming
+      from."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921126138159104
+    m_Localized: "Beautiful, isn\u2019t it? Dad was so excited to learn painting
+      after he bought this. That\u2019s the kind of person he was, always giving
+      his all for the things he loved."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921126142353408
+    m_Localized: "He was like that with Aletta too, since she was his favorite. She
+      took advantage of that until the end, when she used a huge chunk of his money
+      to leave Mont Cach\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921126146547712
+    m_Localized: It was hard for me to forgive her for that, but I managed. But then
+      she had to come back and ask dad for even <b>more</b> money! How selfish can
+      you get!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921126150742016
+    m_Localized: "Well, you know, she had her reasons for coming back, but\u2026
+      Maybe we can just talk about this some other time..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921126150742017
+    m_Localized: Today sure was tiring. I could use a pep talk from my best friend
+      right about now...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921198955470848
+    m_Localized: "Mia? I didn\u2019t expect you to call back so soon! Are you keeping
+      safe from the sun, dear?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921198959665152
+    m_Localized: Haha, not at all! No sunblock, no sunglasses, nothing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921198959665153
+    m_Localized: Absolutely awful! Is everything alright?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921198963859456
+    m_Localized: "I guess so. I talked to those two sisters, and I get why they\u2019re
+      so upset with each other. I don\u2019t really know what to do now, though.
+      I could really use a pick-me-up\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921198963859457
+    m_Localized: "You\u2019ve come to the right person! You got this, Mia! I know
+      you do!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921369353265152
+    m_Localized: "I\u2019ve been so busy with everything that I forgot I blew off
+      Frank. He didn\u2019t seem that upset about it, but I should do something to
+      make it up to him. Maybe I can invite him somewhere?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921369353265153
+    m_Localized: "Oh, but before that, I should get him a gift. Sabriye\u2019s place
+      probably has something\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921369357459456
+    m_Localized: "Hey Sabriye. I\u2019m thinking of getting someone a gift. Do you
+      have any military memorabilia from the local area?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921436382437376
+    m_Localized: "Sorry, I just checked, I don\u2019t think we have any\u2026 Oh,
+      but I <b>am</b> getting some butterfly pins later! They\u2019re not military-related,
+      but some of the butterflies might be from here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921436382437377
+    m_Localized: "Hm\u2026 Okay, sounds good! I\u2019ll come back later to check
+      them out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921436386631680
+    m_Localized: "Oh, Mia! I was just about to run some errands with El\xE9onore.
+      You should come! She said she\u2019d try to give me advice for my problems
+      after, too!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921527432388608
+    m_Localized: "Was it really okay for us to come here while Guy\u2019s out?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921527436582912
+    m_Localized: "Oui, I let him know earlier today that I was going to come over
+      and leave him some food. Now that we\u2019re done though, I can hear you out,
+      Monique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921527436582913
+    m_Localized: "Great! Let\u2019s go back to my flower shop and talk there!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921527440777216
+    m_Localized: Oh, wait a minute. While we talk, can you help me out a bit, Mia?
+      I was thinking of hanging up some posters to attract new customers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921527440777217
+    m_Localized: Sure!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921624937373696
+    m_Localized: "Thanks, Mia. El\xE9onore and I were just talking about ways to
+      make my flower shop more profitable. She said she couldn\u2019t really think
+      of anything, though\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921624941568000
+    m_Localized: "Sorry, Monique\u2026 I thought that maybe your flower shop could
+      form a partnership with the H\xF4tel Mont Blanc, but Leo <b>definitely</b>
+      wouldn\u2019t approve\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921624941568001
+    m_Localized: "It\u2019s alright, El\xE9onore. As frustrating as it is, somewhere
+      deep inside, I probably already knew that\u2026 I just don\u2019t know what
+      to do anymore!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921624945762304
+    m_Localized: "Monique\u2026 Let\u2019s sleep on this for now, and talk about
+      it tomorrow. We\u2019ll definitely figure something out then!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921624945762305
+    m_Localized: Mia, perfect timing! The butterflies just came in! I think there
+      are a couple local species here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712338280448
+    m_Localized: "Oh, this one with the white wings is a local species, right? I\u2019ll
+      take it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712342474752
+    m_Localized: Got it, let me just wrap it up for you. By the way, who do you plan
+      to give this pin to?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712346669056
+    m_Localized: "This is for\u2026 someone close to my grandma. Now that that\u2019s
+      done, I need to do something about the situation with Jeanne and Aletta\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712346669057
+    m_Localized: "You should talk to Charles about it. I don\u2019t know what\u2019s
+      going on between those two, but Charles knows them best, so he\u2019ll <b>definitely</b>
+      be able to help you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712350863360
+    m_Localized: "Yeah, sounds like a good idea. I\u2019ll go visit him now, thanks
+      Sabriye!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921712350863361
+    m_Localized: Mia! I was just about to have some snacks! Rejoins-moi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921800355749888
+    m_Localized: "By the way, did you need something from me? I can\u2019t imagine
+      you dropped by just to eat cheese and bum around."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921800359944192
+    m_Localized: Actually, Jeanne and Aletta got into a pretty big argument, and
+      I needed advice on how to get them to patch things up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921800364138496
+    m_Localized: "Those two fought <b>again</b>? Mon Dieu, what would Jean-Baptiste
+      think of this! He really loved both of his daughters, you know? He just wasn\u2019t
+      the best at showing it\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921800364138497
+    m_Localized: He ended up giving all his time to one daughter, and all his money
+      to the other. But honestly, all he ever really wanted was for them to get along!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921800368332800
+    m_Localized: "Hm\u2026 Maybe I\u2019ll check through Jean-Baptiste\u2019s stuff
+      again tomorrow. Hopefully, there\u2019ll be something that can prove that to
+      them!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921913652289536
+    m_Localized: "Alright, I\u2019ve got a busy day today. I need to invite Frank
+      and grandma to the Alpine Museum, and then I need to go through Jean-Baptiste\u2019s
+      belongings again."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921913656483840
+    m_Localized: "But before anything else, I should see how Monique\u2019s doing!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921913656483841
+    m_Localized: Monique! How are you? Is there anything I can help with?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921913664872448
+    m_Localized: "Oh, hey Mia. Actually, I was just packing up some of the garden
+      gnomes on display. I\u2019d appreciate some help with that."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921973152686080
+    m_Localized: "Alright, that\u2019s all the gnomes packed up!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921973156880384
+    m_Localized: "Thanks Mia, and sorry I keep asking for so much help. I just haven\u2019t
+      been myself lately. I was really relying on El\xE9onore figuring a way out
+      for me, but here we are\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921973156880385
+    m_Localized: "I wish someone else would buy her hotel, but the only person in
+      Mont Cach\xE9 who could compete with Leo is dad, and he\u2019s <b>definitely</b>
+      not interested."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921973161074688
+    m_Localized: "...Wait, does it matter if he\u2019s interested, though? Didn\u2019t
+      he say he\u2019d do anything he could to support you? You could <b>definitely</b>
+      get him to buy the H\xF4tel Mont Blanc!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39921973161074689
+    m_Localized: "I <b>really</b> don\u2019t think dad would just buy a <b>hotel</b>
+      for me... But then again, at this point, I\u2019ve got nothing to lose. I\u2019ll
+      try asking him tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922038441222144
+    m_Localized: "Grandma, Frank, I knew I\u2019d find you two here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922038445416448
+    m_Localized: Mia, what a surprise! Frank and I were just preparing our hiking
+      equipment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922038445416449
+    m_Localized: "Oh, Mia\u2019s here? Perfect! I saw something in the gift shop
+      I knew you\u2019d love! C\u2019mon, let\u2019s go!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922038449610752
+    m_Localized: "And there he goes... Sorry grandma, I\u2019ll be back with Frank
+      in a bit!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922190669291520
+    m_Localized: "They had these shiny rocks here. I don\u2019t know much about antiques,
+      but I figured these would be up your alley!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922190669291521
+    m_Localized: "Yeah, these are surprisingly good for gift shop souvenirs! Oh,
+      but wait, that\u2019s not what I came here for!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922190673485824
+    m_Localized: "Of course it\u2019s not! You\u2019re here to go hiking with me
+      and my Alice, right? C\u2019mon, let\u2019s head to the ski lift!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922259585900544
+    m_Localized: "C\u2019mon, Mia! Don\u2019t worry about renting a camera, I\u2019ve
+      already got one!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922259590094848
+    m_Localized: "Frank, wait a second! I\u2019m not here to join you and grandma
+      on your hike! I\u2019m here because I wanted to invite you and grandma to come
+      with me to the Alpine Museum tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922259590094849
+    m_Localized: "Of course I\u2019ll go!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922259594289152
+    m_Localized: "Great! I\u2019ll text grandma the details later. Anyway, I gotta
+      get back to work now. See you tomorrow, Frank!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922259598483456
+    m_Localized: "Okay, let\u2019s see if we can find something that\u2019ll convince
+      Jeanne and Aletta to make up\u2026 Huh, is that another painting? I don\u2019t
+      remember seeing this before!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922424359133184
+    m_Localized: "Wait a minute\u2026 There\u2019s some sort of message scribbled
+      in the river! It\u2019s too small and messy to read though\u2026 I wonder if
+      Guy has a magnifying glass I could borrow?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922424363327488
+    m_Localized: Hey Guy, can I borrow a magnifying glass?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922424367521792
+    m_Localized: Oh, uh, let me check if I have one.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922494764720128
+    m_Localized: "Voil\xE0, a magnifying glass!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922494768914432
+    m_Localized: "Thanks, Guy! Now let\u2019s see what this says\u2026 \u2018Beautiful
+      river. Must take Jeanne and Aletta here soon. Maybe next year.\u2019"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922494768914433
+    m_Localized: "Huh. This kinda makes him feel less like a legendary mountaineer
+      and more like a dad who wanted to spend time with his daughters\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922494773108736
+    m_Localized: I need to show this to Jeanne and Aletta! I feel like if they knew
+      about this, they would change their minds about each other!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922619121639424
+    m_Localized: Alright, before I help out Monique and meet up with Frank and grandma,
+      I need to talk to Jeanne and Aletta. Now, just where <b>is</b> Aletta...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922619121639425
+    m_Localized: Aletta, there you are! I need to talk to you about something!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922619125833728
+    m_Localized: "Oh, hello Mia. Let\u2019s talk over drinks. I just opened a new
+      bottle of wine that I\u2019d love to share with you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706128281600
+    m_Localized: So, what is it you wanted to tell me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706132475904
+    m_Localized: "I found something in your dad\u2019s belongings that you and Jeanne
+      need to see. I want to show it to the two of you tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706136670208
+    m_Localized: "I don\u2019t really want to see Jeanne right now, but if you think
+      it\u2019s <b>that</b> important, then fine\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706140864512
+    m_Localized: "Great! Let\u2019s meet at your dad\u2019s chateau tomorrow. I\u2019ll
+      go tell Jeanne now, bye!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706140864513
+    m_Localized: "Jeanne! There\u2019s something I need to tell you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922706145058816
+    m_Localized: "Well, I\u2019m busy tidying up right now. If you help me finish
+      up, then I\u2019ll hear you out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786205933568
+    m_Localized: "Alright, that\u2019s much better. So, what is it you needed to
+      tell me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786210127872
+    m_Localized: "I found something in your dad\u2019s belongings yesterday that
+      you and Aletta need to see. I want to show it to you two tomorrow."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786210127873
+    m_Localized: "Together? I\u2019d really rather not, but it looks like you won\u2019t
+      take no for an answer on this\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786214322176
+    m_Localized: "So that means you\u2019ll go, right? Great! I\u2019ll see you at
+      your dad\u2019s chateau tomorrow!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786214322177
+    m_Localized: "Oh, hello Mia! Sorry, I\u2019m not yet ready to go. I need to fix
+      up this flower arrangement first..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922786218516480
+    m_Localized: In that case, let me give you a hand! After all, the sooner we finish,
+      the sooner we can talk to your dad!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922866380054528
+    m_Localized: "Alright, that should do it. Let\u2019s get going!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922866384248832
+    m_Localized: "Ah, Monique, Mia. Didn\u2019t expect you two so soon! I\u2019m
+      guessing you two are here to discuss my deal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922866384248833
+    m_Localized: "Let me just put some music on in case we get any museumgoers, and
+      then I\u2019ll hear you out."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930154446848
+    m_Localized: "So your plan is to form a business partnership with the H\xF4tel
+      Mont Blanc? That\u2019s not going to work out with Leo at the helm, ma fille.
+      I\u2019m sure you know that."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930158641152
+    m_Localized: "But what if he <b>wasn\u2019t</b> at the helm? What if <b>you</b>
+      bought the H\xF4tel Mont Blanc instead?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930158641153
+    m_Localized: "Quoi! Why would I do that? Don\u2019t you think that\u2019s too
+      much to ask?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930162835456
+    m_Localized: "\u2026Dad\u2019s right, Mia. I shouldn\u2019t have asked for so
+      much. I may not want to leave Mont Cach\xE9, but it means nothing if I can\u2019t
+      manage without my dad\u2019s help."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930162835457
+    m_Localized: Are you really <b>that</b> serious about wanting to stay here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930167029760
+    m_Localized: "Yes, dad. I love Mont Cach\xE9, and I want to stay and work here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39922930167029761
+    m_Localized: "Ma fille\u2026 I have something to show you two. Come with me."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000891383808
+    m_Localized: "These are some of the pictures my sisters would send me when my
+      fromagerie became successful. Look how happy they were, living in luxury! Don\u2019t
+      you <b>want</b> that?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000895578112
+    m_Localized: No dad, I just want to stay and work here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000895578113
+    m_Localized: "In that case, I\u2019ll make an offer to El\xE9onore for her hotel
+      tomorrow. From now on though, you won\u2019t just be managing your flower shop,
+      okay? I\u2019ll make you help me with the hotel too!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000899772416
+    m_Localized: Of course, dad! Oh, thank you! Thank you so much!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000899772417
+    m_Localized: "De rien, ma fille. Let\u2019s figure out what we should tell El\xE9onore\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923000903966720
+    m_Localized: "Mia, you\u2019re finally here! Shall we go around? Frank and I
+      have been looking forward to this all day!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923071980642304
+    m_Localized: So, how are you liking the museum, Frank, grandma?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923071984836608
+    m_Localized: "It\u2019s great! I don\u2019t really get everything, but I know
+      you like it, so I like it too!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923071984836609
+    m_Localized: "Actually, Frank, I got something for you. It\u2019s a butterfly
+      pin. I think this butterfly is from the region you served in. I hope you like
+      it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923071989030912
+    m_Localized: "Like it? I love it! I didn\u2019t even think you\u2019d remember
+      that I served in the Alps! You\u2019re the best granddaughter anyone could
+      ever ask for!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923071989030913
+    m_Localized: "Haha, I\u2019m glad you like it so much\u2026 grandpa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923268672528384
+    m_Localized: "Lately, it feels like I\u2019ve only been cross-stitching when
+      I\u2019m stressed out. But not today! Today, <b>everything\u2019s</b> gonna
+      go right! I\u2019m sure of it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923268676722688
+    m_Localized: Oh, I should call Maria and thank her for cheering me up a couple
+      days ago!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923268676722689
+    m_Localized: Mia! Stress-stitching again?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923268680916992
+    m_Localized: "Haha, hi Maria! No, I\u2019m happy-stitching today, since things
+      are going so great lately! Here\u2019s what\u2019s happened since the last
+      time I called..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346707554304
+    m_Localized: "So yeah, things are going great here! And honestly, I don\u2019t
+      think I could have gotten this far without your encouragement, so thanks, Maria!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346711748608
+    m_Localized: "Aw, you\u2019re welcome Mia! If you really want to thank me though,
+      show me a good time when I visit Mont Cach\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346711748609
+    m_Localized: Haha, you got it! See you soon, Maria!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346711748610
+    m_Localized: "Monique! What are you doing here? Aren\u2019t you meeting with
+      El\xE9onore today?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346715942912
+    m_Localized: "I should be, but I can\u2019t find my dad! He said he needed to
+      freshen up first, and then he disappeared!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923346715942913
+    m_Localized: "Freshen up\u2026 Maybe he\u2019s at the barber shop? C\u2019mon,
+      let\u2019s go find him!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923416051982336
+    m_Localized: "Monique? Why are you here? I was just about to go to the chocolate
+      factory to get something for El\xE9onore. Did you want to come with me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923416056176640
+    m_Localized: "Actually, we were just looking for you, but since we\u2019re already
+      here, we might as well go together!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923570133934080
+    m_Localized: "Alright, this should be good. Now, let\u2019s go talk to El\xE9onore!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923570138128384
+    m_Localized: "Hello, Hugo. I didn\u2019t expect you to bring Mia and your daughter
+      with you today! What is it you wanted to talk to me about?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923570142322688
+    m_Localized: "Before we talk, can we shoo away these wild animals? They\u2019re
+      a little bit distracting\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647430762496
+    m_Localized: "That\u2019s much better! Anyway, I\u2019ll get straight to the
+      point. El\xE9onore, I would like to buy your hotel so that Monique and I can
+      co-manage it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647434956800
+    m_Localized: Quoi! Really?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647439151104
+    m_Localized: "Yes. I can\u2019t offer as much as Leo, but Monique and I promise
+      to preserve your vision for the hotel. That includes working with the local
+      businesses. Do we have a deal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647439151105
+    m_Localized: "Of course! I\u2019d love to sell my hotel to you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647443345408
+    m_Localized: "Oh my goodness! Did you hear that, Mia? El\xE9onore accepted my
+      dad\u2019s offer! I\u2019m gonna get to stay in Mont Cach\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647443345409
+    m_Localized: "I\u2019m so happy for you, Monique! Now I just have one last thing
+      I need to do!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923647447539712
+    m_Localized: "Mia! One of my goats just stole my necktie! Help me get it back,
+      s'il te pla\xEEt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721682526208
+    m_Localized: There it is! Merci again, Mia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721682526209
+    m_Localized: "Haha, it\u2019s no problem. I kinda had fun chasing after goats,
+      believe it or not! Anyway, I was just dropping by to thank you for telling
+      me about Jean-Baptiste. It really helped me out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721686720512
+    m_Localized: With what I found out, I think I can help Jeanne and Aletta finally
+      bury the hatchet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721686720513
+    m_Localized: "In that case, <b>I</b> should be thanking <b>you</b>! I\u2019ve
+      been trying to get them to make up for <b>years</b> now!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721690914816
+    m_Localized: "Haha, well, I still don\u2019t know if this\u2019ll work. We\u2019ll
+      just have to hope it does!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721690914817
+    m_Localized: There you are, Mia. We were waiting for you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923721695109120
+    m_Localized: So, what did you want to show us?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804356452352
+    m_Localized: "What\u2019s with this message dad left? What\u2019s this river
+      he wanted to take us to?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804356452353
+    m_Localized: These are things your dad should have said to you two, but never
+      got to. If he had, then both of you would have known that all your dad ever
+      wanted was for the two of you to get along!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804360646656
+    m_Localized: "\u2026I can\u2019t believe how stupid I was. Jeanne, I\u2019m sorry.
+      I wanted dad\u2019s time so much that I took everything else he gave me for
+      granted. Some older sister I was\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804360646657
+    m_Localized: "I\u2019m sorry too, Aletta. I had no right to get jealous of how
+      well dad treated you when he always treated me with just as much love\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804364840960
+    m_Localized: "Mia\u2026 Dad\u2019s painting, and this one too\u2026 The Alpine
+      Museum can have them. Now that I\u2019m realizing just how much dad gave me,
+      I think I\u2019m more willing to let this go."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804364840961
+    m_Localized: "Got it! I\u2019ll put it with everything else to be sent to the
+      museum, then."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804369035264
+    m_Localized: "Hey, y\u2019know, if you really want a painting for your lodge,
+      I can paint something for you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39923804369035265
+    m_Localized: "...Yeah, I think I\u2019d like that. I\u2019ll take you up on your
+      offer, Aletta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924173308403712
+    m_Localized: "Maria and Daniel should be arriving about now\u2026 That train
+      just stopped, maybe they\u2019re on that one?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319458926592
+    m_Localized: Maria! Daniel! There you are!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319463120896
+    m_Localized: Ciao, Mia! Long time no see!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319463120897
+    m_Localized: "Mein Gott, it\u2019s bright here! Mia, you could\u2019ve warned
+      me about this! I would\u2019ve worn a sunhat if I\u2019d known!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319467315200
+    m_Localized: "Haha, nice to see you again too, Maria! Let\u2019s get going, you
+      two must be hungry after such a long ride!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319471509504
+    m_Localized: Oh, let me just rearrange the table first so the two lovebirds can
+      sit together!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924319475703808
+    m_Localized: Mia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924401180745728
+    m_Localized: There we go. Take a seat, guys!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924401180745729
+    m_Localized: Thank you, Mia! So, anyone up for a beer or three?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924401184940032
+    m_Localized: Maria!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486018932736
+    m_Localized: "So Mia, what do you recommend we do here? Maria and I don\u2019t
+      really have any concrete plans right now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486023127040
+    m_Localized: "Hm\u2026 How about I take you two hiking tomorrow? I went with
+      my grandparents, and it was a lot of fun! We\u2019d just need to make a reservation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486023127041
+    m_Localized: Oh, Daniel and I can handle that!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486027321344
+    m_Localized: "Great! Thanks, you two! I\u2019ll see you guys at the ski lift
+      tomorrow!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486031515648
+    m_Localized: Oh, Monique, Guy! What are you two doing together?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924486035709952
+    m_Localized: "I commissioned some furniture from Guy for the hotel. He was taking
+      me to his cabin to show me what he\u2019s got so far. You should come!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924555325612032
+    m_Localized: "By the way, try not to touch the jewels, I\u2019m planning on using
+      those for the furniture."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924555329806336
+    m_Localized: Jewels? What kind of furniture are you even making, Guy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924555329806337
+    m_Localized: "Oh, I asked Guy to make something that screams \u2018Mont Cach\xE9.\u2019"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924555334000640
+    m_Localized: "I\u2019m going for something with a mountain vibe. Feast your eyes
+      on this!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924624376438784
+    m_Localized: "Voil\xE0! Geodes! Don\u2019t these just scream \u2018Mont Cach\xE9?\u2019"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924624380633088
+    m_Localized: "Honestly, not really. Plus, the jewels make me think you\u2019re
+      taking the \u2018mountain\u2019 prompt a bit too literally..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924624380633089
+    m_Localized: "Hm, guess I gotta go back to the drawing board\u2026 Mia, got any
+      ideas?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924624384827392
+    m_Localized: No, but we can brainstorm tomorrow!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924733851967488
+    m_Localized: Hey, you two! Ready to go yet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924733856161792
+    m_Localized: "Yeah, we\u2019re all set!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850214543360
+    m_Localized: "That was so much fun! I just wish we remembered to bring water\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850218737664
+    m_Localized: Haha, yeah, my bad. Sorry about that! Where are we going next?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850218737665
+    m_Localized: "You\u2019re still coming with us, Mia? Not that I mind, but\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850222931968
+    m_Localized: O-oh. Actually, you know what? I just remembered I need to meet
+      with someone. You two have fun without me. Gotta go, bye!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850222931969
+    m_Localized: "Mia? I didn\u2019t expect you so soon! Since you\u2019re here so
+      early, mind helping me clean up a bit?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924850227126272
+    m_Localized: "Sure, I\u2019ll help you out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924923828772864
+    m_Localized: "Alright, that\u2019s better. So Guy, come up with any new furniture
+      ideas?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39924923832967168
+    m_Localized: Oui! Here, check this out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016308981760
+    m_Localized: "These are pictures of the peasant lifestyle in Mont Cach\xE9 way
+      back when! Joli, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016313176064
+    m_Localized: "It <b>is</b> pretty, but\u2026 this doesn\u2019t look like it\u2019d
+      make good furniture. Sorry, Guy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016313176065
+    m_Localized: "That was the only idea I could come up with\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016317370368
+    m_Localized: "Well, how about we take a look around town? Maybe you\u2019ll find
+      some inspiration!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016317370369
+    m_Localized: "Hm\u2026  This place <b>is</b> beautiful, but I\u2019m not finding
+      anything particularly striking. How about you, Guy?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925016321564672
+    m_Localized: "Same here\u2026 Oh wait, look! There\u2019s this big mural on one
+      of the walls over there! Let\u2019s take a closer look!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925093115076608
+    m_Localized: Wow, this is a really pretty mural! Do you think you can work with
+      this, Guy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925093119270912
+    m_Localized: "Hm\u2026 Non, I don\u2019t think so. It doesn\u2019t really suit
+      Mont Cach\xE9, since it\u2019s a painting of the ocean. I think a local landmark
+      might be better."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925093119270913
+    m_Localized: "In that case, we should go to the clock tower in the middle of
+      the city center. I read about it before I traveled here. It's supposed to be
+      one of the most famous landmarks in Mont Cach\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925093123465216
+    m_Localized: "Alright, we\u2019re here. Now let\u2019s get looking for something
+      interesting!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925183774957568
+    m_Localized: I found something! Mia, can you take a look at this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925183774957569
+    m_Localized: "Oh, I think this is a lute! What\u2019s this doing here? We should
+      ask Sabriye to help us examine this tomorrow. Maybe she might know something!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925299202203648
+    m_Localized: I wonder why Maria called me here? And where <b>is</b> she?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925373311361024
+    m_Localized: Mia, na bitte! Sorry I took a while, Daniel insisted on getting
+      me a gift. I want to go somewhere nice today!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925373315555328
+    m_Localized: Actually, I did some research last night. Maybe we can go to the
+      Alpine Museum, Maria?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925373319749632
+    m_Localized: Oh, sounds great! Come with us Mia, I insist!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925373353304064
+    m_Localized: "Uh, I don\u2019t know if I should tag along\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925440000794624
+    m_Localized: "Wow, these helmets all look so different from one another! I think
+      I\u2019ll stay in this section a bit longer. Feel free to go ahead if you guys
+      want, I\u2019ll catch up!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925440004988928
+    m_Localized: Mia and I will go ahead to take a look at the maps, then. Right,
+      Mia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925440009183232
+    m_Localized: "Huh? Oh, I mean sure, let\u2019s go!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515741536256
+    m_Localized: I hate to ask you this, but could you give me and Maria some space?
+      I really appreciate your company, but this is my first trip with Maria, so...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515741536257
+    m_Localized: "Don\u2019t worry, I get it. I\u2019ll excuse myself once Maria
+      catches up."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515745730560
+    m_Localized: "Maria, hey! I was just telling Daniel that I\u2019ve got an errand
+      to run right now. Sorry!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515749924864
+    m_Localized: Oh, alright then. Auf Wiedersehen, Mia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515754119168
+    m_Localized: "Bonjour, Mia! I promised to clean Sabriye\u2019s store in exchange
+      for her checking out that lute we found! Can you help me out?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925515758313472
+    m_Localized: "Okay, let me just grab a broom\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925584565870592
+    m_Localized: "Thanks for helping me tidy up! I\u2019ll go take a look at that
+      lute now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925584565870593
+    m_Localized: "How long do you think you\u2019ll take?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925584570064896
+    m_Localized: "Not too long. If you\u2019re bored though, I just got an antique
+      telephone recently. You can take a look if you want!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743408357376
+    m_Localized: "I hope you don\u2019t mind Sabriye, but I repaired that phone for
+      you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743408357377
+    m_Localized: "I don\u2019t mind at all! But anyway, about the lute... Based on
+      its shape, design, and where you found it, I\u2019m pretty sure this belonged
+      to Adam Barbeau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743412551680
+    m_Localized: "Adam Barbeau\u2019s a famous Baroque-era composer from Mont Cach\xE9.
+      He was known to hide in the clock tower and play music all day long."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743416745984
+    m_Localized: "Incroyable! So this lute\u2019s a pretty rare find then!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743416745985
+    m_Localized: Yeah, <b>extremely</b> rare. Someone more familiar with stringed
+      instruments could probably tell you more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925743420940288
+    m_Localized: In that case, my friend Daniel might be the perfect person to help!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925848609890304
+    m_Localized: "Hey Mia! Daniel\u2019s not here right now. When I told him you
+      were coming, he decided to go for a walk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925848609890305
+    m_Localized: O-oh, I see...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925924744896512
+    m_Localized: "Uh, Maria, not that I want to spend less time with you, but I <b>kinda</b>
+      feel like I\u2019m getting in between you and Daniel\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39925924749090816
+    m_Localized: "Hey look, I found this fashion magazine! Aren\u2019t these outfits
+      cute?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926006156337152
+    m_Localized: "Maria, they <b>are</b> cute, but please don\u2019t change the subject.
+      What\u2019s going on? You\u2019ve been acting really weird lately\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926006160531456
+    m_Localized: "Can\u2019t hide anything from you, huh? I\u2019ve been bothering
+      you so much lately because\u2026 I get too nervous when I\u2019m alone with
+      Daniel. I\u2019ve been thinking about proposing, and \u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926006160531457
+    m_Localized: "Wait, what? You\u2019re going to propose? Oh my goodness Maria,
+      I\u2019m so happy for you! When do you plan to ask him?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926006160531458
+    m_Localized: Haha! Honestly, I was going to put it off again, but I need to just
+      stop hesitating and go for it already!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926006164725760
+    m_Localized: "Sounds great! Now come on, let\u2019s go find your man!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864499679232
+    m_Localized: Daniel! Finally, I found you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864503873536
+    m_Localized: "Maria? Mia? What\u2019s going on here?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864503873537
+    m_Localized: "There\u2019s something I need to tell you. I\u2019ve been thinking
+      lately. About us, and the future, and what you mean to me, and\u2026 Daniel
+      Esposito, will you marry me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864508067840
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864508067841
+    m_Localized: "...Daniel? Oh, I feel sick\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926864512262144
+    m_Localized: "Maria! Argh, what the heck was <b>that</b>? That Daniel\u2026 Where
+      did he go off to!?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941662289920
+    m_Localized: There you are! Are you seriously playing with squirrels right now,
+      after what you just did to Maria? What the heck, Daniel!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941666484224
+    m_Localized: "No! No, I was just\u2026 trying to relax myself a bit. Honestly,
+      I don\u2019t understand what just happened. I mean, isn\u2019t proposing the
+      guy\u2019s job?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941666484225
+    m_Localized: "I\u2019ve been raised my whole <b>life</b> to believe that. Now
+      my head\u2019s a mess\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941670678528
+    m_Localized: "*sigh* Maybe doing some work will help you cool off and think about
+      this better\u2026 I recently came across an antique lute. Want to take a look?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941674872832
+    m_Localized: "Certo, it\u2019s not like I\u2019ve got anything better to do\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39926941674872833
+    m_Localized: "Guy, you here? I brought someone who specializes in stringed instruments.
+      Let\u2019s take a look at that lute!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927014773202944
+    m_Localized: "I found something tucked away inside the lute\u2019s body. It looks
+      like sheet music."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927014777397248
+    m_Localized: "Incroyable! Excuse me guys, I want to take a better look at this\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927014777397249
+    m_Localized: There he goes. So Daniel, is your head a bit clearer yet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927014781591552
+    m_Localized: "Scusa, I\u2019m still confused. Maybe I should go for a walk or
+      something\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927014781591553
+    m_Localized: "This is <b>not</b> how things were supposed to go\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927110743072768
+    m_Localized: "I wonder how Maria\u2019s doing today\u2026 I should visit her
+      when I\u2019m done talking to Guy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927110743072769
+    m_Localized: "Hey Mia. Sorry, but if you\u2019re here to see how the furniture\u2019s
+      going, you\u2019re gonna be disappointed. I\u2019ve never made anything music-themed
+      before, so I\u2019m stumped\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927110747267072
+    m_Localized: "Hm\u2026 How about I look around and see if I can find something
+      that\u2019ll help?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927176413290496
+    m_Localized: "It feels like you\u2019re trying to combine too many \u2018music\u2019
+      ideas, Guy. You already have the lute and the sheet music, you don\u2019t need
+      to throw in other instruments or whatever."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927176417484800
+    m_Localized: "Yeah, but I was having a hard time understanding the sheet music.
+      I\u2019m no good with this \u2018fine art\u2019 stuff\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927176417484801
+    m_Localized: "I\u2019ll take a look for you then. Oh, lucky! This sheet music
+      has lyrics and a message from Barbeau written on it! Let\u2019s see what they
+      say..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249041858560
+    m_Localized: "Okay, so I read through the lyrics, and if I\u2019m getting this
+      right, the song is about loving someone because they don\u2019t change, even
+      when the world does."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249046052864
+    m_Localized: "Hm\u2026 Okay, I can work with that. What about the message?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249046052865
+    m_Localized: "They\u2019re Barbeau\u2019s notes about his writing process. It
+      seems like he was actually writing about the H\xF4tel Mont Blanc!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249050247168
+    m_Localized: "Chanceux! Now, if I can just hear the song, I\u2019ll be good to
+      go!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249050247169
+    m_Localized: "Great! I\u2019ll let you know if I find someone to play it for
+      you! For now though, I gotta go meet with a friend. Bye!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249054441472
+    m_Localized: "Hey Maria\u2026 I gotta ask again, how did you even reserve this
+      boat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927249054441473
+    m_Localized: "Don\u2019t ask, let\u2019s just get on\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927326342881280
+    m_Localized: "When is this boat going to lift anchor and sail me away\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927326347075584
+    m_Localized: "I don\u2019t think they do that here, haha\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927326347075585
+    m_Localized: "I just don\u2019t understand, Mia. Why didn\u2019t he say yes?
+      Does he not want to get married?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927326351269888
+    m_Localized: "Um... Hey, you know, I think I saw something really funny at the
+      hotel\u2019s gift shop. We should check it out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408320552960
+    m_Localized: "Aren\u2019t these postcards <b>funny</b>? Like, why do they have
+      so many random drawings of kids holding fruits?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408328941568
+    m_Localized: "Yeah\u2026 I\u2019m sorry, why did you want to show these to me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408328941569
+    m_Localized: "Well, I thought if you saw something like this, you\u2019d laugh
+      and cheer up a bit\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408333135872
+    m_Localized: "...Pft. Thanks for looking out for me, Mia. I feel a little better
+      already. I\u2019m still worried about Daniel though\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408333135873
+    m_Localized: "Don\u2019t worry about that, I\u2019ll make sure to straighten
+      things out with him!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408337330176
+    m_Localized: There you are! You and I have some talking to do!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927408337330177
+    m_Localized: O-oh, yeah. Scusa, let me just finish my cake, then we can talk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927492336656384
+    m_Localized: "Alright, you\u2019re done with your cake. Now, how are you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927492340850688
+    m_Localized: "I think I\u2019ve mostly sorted out my feelings. I love Maria,
+      but\u2026 I was raised to believe that this proposal stuff is a man\u2019s
+      job!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927492340850689
+    m_Localized: "Daniel, I know you care about those old traditions, but doesn\u2019t
+      Maria matter more to you than that?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927492345044992
+    m_Localized: "Certamente! It\u2019s just that\u2026 It\u2019s not easy to let
+      go of everything I\u2019ve been taught\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927492349239296
+    m_Localized: "Hm\u2026 You know, this reminds me of a song I came across recently.
+      You should play it for Maria tomorrow! It might help you figure out what you
+      <b>really</b> want to do!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927614990688256
+    m_Localized: "What if Maria isn\u2019t impressed after hearing Daniel play Barbeau\u2019s
+      song? I need to get something that\u2019ll convince her this is a big deal..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927614990688257
+    m_Localized: Hey Sabriye! Remember when we were talking about Barbeau? Do you
+      have anything I can use to show someone he was a really important composer?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927614994882560
+    m_Localized: "Well, I\u2019ve got a dusty old portrait of him, but we\u2019ll
+      need to clean it up first\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927719001038848
+    m_Localized: "Okay, now that we\u2019ve finished cleaning up Barbeau\u2019s picture,
+      I\u2019m starting to think I won\u2019t need it\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927719001038849
+    m_Localized: "Fair enough. Anyway, I\u2019m sure his music can speak for itself!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927719005233152
+    m_Localized: "Oh, hey Mia. If you\u2019re looking for Maria, she\u2019s probably
+      around here somewhere\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927719005233153
+    m_Localized: "You\u2019re hopeless\u2026 I\u2019ll go find her myself."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787418525696
+    m_Localized: Maria, there you are! Listen, I got Daniel to play you something!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787422720000
+    m_Localized: "Can\u2019t wait\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787426914304
+    m_Localized: "Everyone\u2019s here. So, where\u2019re the lute and the sheet
+      music, Mia?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787426914305
+    m_Localized: "A friend\u2019s bringing it to the clock tower. I told him we\u2019d
+      meet him there, so let\u2019s go!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787431108608
+    m_Localized: Bonjour, Mia! I brought the lute and the sheet music, just like
+      you asked!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927787431108609
+    m_Localized: "Great! Daniel, if you\u2019ll do the honors of playing this song
+      for us?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864753102848
+    m_Localized: "That was\u2026 really nice to listen to. Thanks for playing it
+      for me, Daniel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864757297152
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864757297153
+    m_Localized: "...Well, if that\u2019s all, I\u2019ll be going now. Goodbye."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864761491456
+    m_Localized: "\u2026There\u2019s something I need to do. Sorry, I gotta go."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864761491457
+    m_Localized: "Uh\u2026 I don\u2019t know what just happened, but that song was
+      really good! I\u2019m gonna work while these ideas are still fresh in my mind.
+      Bye Mia, and thanks for your help!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927864765685760
+    m_Localized: "Mia, there\u2019s a flower I\u2019m looking for. It looks like
+      this, do you think they have it here?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927928854650880
+    m_Localized: "Wait, no! Why are we looking for flowers? Don\u2019t you have anything
+      to say to Maria after playing that song for her?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927928854650881
+    m_Localized: I do! I do. I want to apologize to her, but before that, I need
+      to get her a gift.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927928858845184
+    m_Localized: "Daniel, we don\u2019t have time for this! Just grab some roses
+      and let\u2019s go find her!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993425960960
+    m_Localized: Look Daniel! There she is!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993425960961
+    m_Localized: "Daniel? What\u2019s the matter?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993430155264
+    m_Localized: "Maria, I realize now that I\u2019d be stupid to let go of the one
+      thing that won\u2019t ever change: my love for you. So will you give me another
+      chance? Will you let me accept your proposal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993434349568
+    m_Localized: "Daniel\u2026 Okay, let\u2019s try this again. Daniel Esposito,
+      will you marry me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993438543872
+    m_Localized: "S\xEC, my love! A hundred times yes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993438543873
+    m_Localized: Mia, thanks so much for talking some sense into me. I really owe
+      you one!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39927993442738176
+    m_Localized: "It\u2019s no problem, Daniel! I\u2019m just happy my best friend\u2019s
+      finally going to marry her dream man! I gotta ask the bride-to-be, though:
+      where\u2019s the wedding gonna be?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41008531083599872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41008979454697472
+    m_Localized: "Still can\u2019t get over how\u2026 <b>antique</b> that sign feels!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41009035478016000
+    m_Localized: "I sure hope they\u2019ve still got sunflowers in stock\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41009061503672320
+    m_Localized: "Whoa, a sword!? Sabriye\u2019s got some <b>awesome</b> stuff here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41010280339054592
+    m_Localized: An easel? Did Jean-Baptiste paint?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41011317762400256
+    m_Localized: "Oh, these flowers are wilting already. Let\u2019s replace them
+      real quick!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41011344975044608
+    m_Localized: "Eating burgers in a pizza restaurant\u2026 Frank\u2019s a pretty
+      weird guy, huh?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41011381394186240
+    m_Localized: "Found Charles\u2019 keys! Now he should be free to hear us out."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41011412188766208
+    m_Localized: "Hummingbirds! You don\u2019t see those every day!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41012974999019520
+    m_Localized: "This must be Jean-Baptiste\u2019s. Seeing all this old equipment
+      is pretty exciting!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013011829202944
+    m_Localized: This place is pretty fancy. Even the pens at the front desk feel
+      high class!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013039767461888
+    m_Localized: "Ew, a snail! I should get rid of this\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013065734397952
+    m_Localized: Perfect, a stool! Now I can sit down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013105282490368
+    m_Localized: "Does Frank want candy specifically? Because the donuts here look
+      <b>really</b> good\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013130813218816
+    m_Localized: Wow, wild eagles! I wonder if Frank saw them too?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013160047517696
+    m_Localized: "Looks like Leo\u2019s on the phone right now. I should wait for
+      him to finish."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013191488020480
+    m_Localized: Aw, a little toy car! I wonder if one of the local kids donated
+      this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013217836638208
+    m_Localized: "You can see the hot air balloons from all the way here, huh? It\u2019s
+      kind of\u2026 calming."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013247502950400
+    m_Localized: I should set these boots aside, someone could trip on them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013280914776064
+    m_Localized: "I think Frank would really like a veteran\u2019s badge! I hope
+      Sabriye has some."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013307716378624
+    m_Localized: "El\xE9onore told me to leave this in Guy\u2019s pantry."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013334236962816
+    m_Localized: "Oh, this is Frank\u2019s! That must mean they\u2019re nearby!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013357884448768
+    m_Localized: "If I didn\u2019t have other things to do, I\u2019d love to take
+      some pictures of the scenery here\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013385587826688
+    m_Localized: "Aha, there we go! Now I should be able to read Jean-Baptiste\u2019s
+      message!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013408560029696
+    m_Localized: "Another glass couldn\u2019t hurt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013433008627712
+    m_Localized: This should make cleaning up all these fallen leaves easier!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013456362512384
+    m_Localized: "That\u2019s better! Museums are way more fun when there\u2019s
+      music playing!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013482383974400
+    m_Localized: "Maybe Hugo meant he was getting a haircut when he said he would
+      \u2018freshen up?\u2019"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013505029021696
+    m_Localized: "There\u2019s Charles\u2019 tie! How\u2019d his goats even <b>get</b>
+      this?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013533382516736
+    m_Localized: "I really hope this helps Jeanne and Aletta make up and move on\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013582678171648
+    m_Localized: "It\u2019s so bright out! I should\u2019ve worn a sunhat or something!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41013607089020928
+    m_Localized: Whoa, jewels! What does Guy need <b>these</b> for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019381605441536
+    m_Localized: "I\u2019m parched! I wish I hadn\u2019t forgotten to bring water\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019406834180096
+    m_Localized: "I could\u2019ve sworn I saw something that looked like an instrument
+      just a moment ago\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019431341498368
+    m_Localized: "Daniel should get one of these for Maria. I\u2019m sure she\u2019d
+      love one!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019455488106496
+    m_Localized: "This is so awkward\u2026 Let\u2019s just stop thinking about it
+      and focus on the equipment displays."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019478380617728
+    m_Localized: "I wonder what Mia\u2019s engagement ring looks like! I can\u2019t
+      wait to see!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019501180854272
+    m_Localized: "There\u2019s Daniel! Why\u2019s he surrounded by squirrels?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019523783958528
+    m_Localized: "Why does Guy have a trumpet? Isn\u2019t the song we found played
+      on a lute?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019547012014080
+    m_Localized: "Is Daniel eating cake right now? I swear, he has no sense of urgency\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019573595512832
+    m_Localized: This song sounds better than anything I could have imagined!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41019601315667968
+    m_Localized: "Okay, this should be a good enough \u2018I\u2019m sorry\u2019 gift
+      for Maria!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41023385110552576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41023385110552577
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
